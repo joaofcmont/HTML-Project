@@ -2,12 +2,12 @@
 
 ##GRUPO 13
 
-| Nome | Numero | Github |
-| ------ | ---- | | ---- |
-| Diogo Azeitona | 98591 | https://github.com/dfsaa1iscte |
-| Joana Campos | 98591 | https://github.com/joanaiscte |
-| João Monteiro  | 98647 | https://github.com/joaoiscte |
-| Matheus Quintas | 98812 | https://github.com/matheusiscte |
+| Nome | Numero | 
+| ---- | ---- | 
+| Diogo Azeitona | 98591 |
+| Joana Campos | 98591 | 
+| João Monteiro  | 98647 | 
+| Matheus Quintas | 98812 |
 
 
  
