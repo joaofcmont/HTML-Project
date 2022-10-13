@@ -3,6 +3,7 @@
 ##GRUPO 13
 
 | Nome | Numero | Github |
+| ------ | ---- | | ---- |
 | Diogo Azeitona | 98591 | https://github.com/dfsaa1iscte |
 | Joana Campos | 98591 | https://github.com/joanaiscte |
 | João Monteiro  | 98647 | https://github.com/joaoiscte |
