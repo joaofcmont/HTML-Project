@@ -4,10 +4,10 @@
 
 | Nome | Numero | 
 | ---- | ---- | 
-| Diogo Azeitona | 98591 |
-| Joana Campos | 98591 | 
-| João Monteiro  | 98647 | 
-| Matheus Quintas | 98812 |
+| [Diogo Azeitona](https://github.com/dfsaa1iscte) | 98591 |
+| [Joana Campos](https://github.com/joanaiscte) | 99220 | 
+| [João Monteiro](https://github.com/joaoiscte)  | 98647 | 
+| [Matheus Quintas](https://github.com/matheusiscte) | 98812 |
 
 
  
