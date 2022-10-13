@@ -1,6 +1,6 @@
 # ES-LETI-1Sem-2022-Grupo-13
 
-##GRUPO 13
+## GRUPO 13
 
 | Nome | Numero | 
 | ---- | ---- | 
