@@ -37,11 +37,11 @@
 			<artifactId>commons-collections</artifactId>
 			<version>3.0</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.jfree/jfreechart -->
+<!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
 <dependency>
-    <groupId>org.jfree</groupId>
-    <artifactId>jfreechart</artifactId>
-    <version>1.5.0</version>
+    <groupId>org.jsoup</groupId>
+    <artifactId>jsoup</artifactId>
+    <version>1.13.1</version>
 </dependency>
 
 	</dependencies>
