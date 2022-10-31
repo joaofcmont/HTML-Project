@@ -107,8 +107,8 @@ public class Main {
 			Object[] lista = calEvents.toArray();
 			CalendarEvent n = (CalendarEvent)JOptionPane.showInputDialog(frame, "Que evento deseja eliminar?", 
 					"Input Dialog", JOptionPane.QUESTION_MESSAGE, null, lista, lista[0]);
-			
-				cal.removeEvent(n);
+			//TODO
+			calEvents.remove(n);
 		});
 
 		//TODO
