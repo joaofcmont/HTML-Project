@@ -1,92 +1,137 @@
 package com.SwingCalendar;
 import javax.swing.*;
+
+import com.google.gson.Gson;
+import com.google.gson.JsonIOException;
+import com.google.gson.JsonSyntaxException;
+
 import java.awt.*;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
 import java.time.LocalDate;
 import java.time.LocalTime;
+import java.time.ZoneId;
 import java.util.ArrayList;
+import java.util.Date;
+import java.util.TimeZone;
+
 
 public class Main {
-    public static void main(String[] args) {
-        JFrame frm = new JFrame();
-        
+	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, FileNotFoundException {
+		JFrame frm = new JFrame();
+		Gson gson = new Gson();
 
-        ArrayList<CalendarEvent> events = new ArrayList<>();
-        events.add(new CalendarEvent(LocalDate.of(2022, 11, 11), LocalTime.of(14, 0), LocalTime.of(14, 20), "Test 11/11 14:00-14:20"));
-        events.add(new CalendarEvent(LocalDate.of(2022, 11, 14), LocalTime.of(9, 0), LocalTime.of(9, 20), "Test 14/11 9:00-9:20"));
-        events.add(new CalendarEvent(LocalDate.of(2022, 11, 15), LocalTime.of(12, 0), LocalTime.of(13, 20), "Test 15/11 12:00-13:20"));
-        events.add(new CalendarEvent(LocalDate.of(2022, 11, 16), LocalTime.of(9, 0), LocalTime.of(9, 20), "Test 16/11 9:00-9:20"));
-        events.add(new CalendarEvent(LocalDate.of(2022, 11, 17), LocalTime.of(12, 15), LocalTime.of(14, 20), "Test 17/11 12:15-14:20"));
-        events.add(new CalendarEvent(LocalDate.of(2022, 11, 18), LocalTime.of(9, 30), LocalTime.of(10, 00), "Test 18/11 9:30-10:00"));
-        events.add(new CalendarEvent(LocalDate.of(2022, 11, 18), LocalTime.of(16, 00), LocalTime.of(16, 45), "Test 18/11 16:00-16:45"));
+		Eventos evento = null;
 
-        WeekCalendar cal = new WeekCalendar(events);
+		try (Reader reader = new FileReader("C:\\Users\\azeit\\git\\ES-LETI-1Sem-2022-Grupo-13\\CalendarioSwing\\agenda.json")) {
 
-        JButton goToTodayBtn = new JButton("Today");
-        goToTodayBtn.addActionListener(e -> cal.goToToday());
+			// Convert JSON File to Java Object
+			evento = gson.fromJson(reader, Eventos.class);
 
-        JButton nextWeekBtn = new JButton(">");
-        nextWeekBtn.addActionListener(e -> cal.nextWeek());
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 
-        JButton prevWeekBtn = new JButton("<");
-        prevWeekBtn.addActionListener(e -> cal.prevWeek());
+		ArrayList<CalendarEvent> calEvents = new ArrayList<CalendarEvent>();
 
-        JButton nextMonthBtn = new JButton(">>");
-        nextMonthBtn.addActionListener(e -> cal.nextMonth());
+		for (Event ev : evento.getListaEventos()) {
+			String name = ev.getChair();
 
-        JButton prevMonthBtn = new JButton("<<");
-        prevMonthBtn.addActionListener(e -> cal.prevMonth());
-        
-        JButton addEvent = new JButton("Add event");
-        addEvent.addActionListener(e -> { 
-        	JFrame frame = new JFrame();
-            String data = JOptionPane.showInputDialog(frame, "Data do evento: (dd/mm/aa)");
-            String[] dataEvento = data.split("/");
-            int dia = Integer.parseInt(dataEvento[0]);
-            int mes = Integer.parseInt(dataEvento[1]);
-            int ano = Integer.parseInt(dataEvento[2]);
-           
-            String horasInicio = JOptionPane.showInputDialog(frame, "Hora de início do evento: (hh:mm)");
-            String[] horaInicioEvento = horasInicio.split(":");
-            int horaInicio = Integer.parseInt(horaInicioEvento[0]);
-            int minutoInicio = Integer.parseInt(horaInicioEvento[1]);
-            
-            String horasFim = JOptionPane.showInputDialog(frame, "Hora de término do evento: (hh:mm)");
-            String[] horaFimEvento = horasFim.split(":");
-            int horaFim = Integer.parseInt(horaFimEvento[0]);
-            int minutoFim = Integer.parseInt(horaFimEvento[1]);
-            String descricao = JOptionPane.showInputDialog(frame, "Descrição do evento:");
-            String descricaoEvento = descricao;
-      
-            events.add(new CalendarEvent(LocalDate.of(ano, mes, dia), LocalTime.of(horaInicio, minutoInicio), LocalTime.of(horaFim, minutoFim), descricaoEvento));
-          });
-        
-        JButton removeEvent = new JButton("Remove");
-        removeEvent.addActionListener(e -> {
-        	JFrame frame = new JFrame();
-        	Object[] lista = events.toArray();
-        	 CalendarEvent n = (CalendarEvent)JOptionPane.showInputDialog(frame, "Que evento deseja eliminar?", 
-                     "Input Dialog", JOptionPane.QUESTION_MESSAGE, null, lista, lista[0]);
-             cal.removeEvent(n);
-        });
-        
+			int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
+			int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
+			int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
 
-        JPanel weekControls = new JPanel();
-        weekControls.add(prevMonthBtn);
-        weekControls.add(prevWeekBtn);
-        weekControls.add(goToTodayBtn);
-        weekControls.add(nextWeekBtn);
-        weekControls.add(nextMonthBtn);
-        
-        JPanel eventControls = new JPanel();
-        eventControls.add(addEvent);
-        eventControls.add(removeEvent);
+			int startHour = Integer.parseInt(ev.getDateStart().substring(8, 10));
+			int startMin = Integer.parseInt(ev.getDateStart().substring(10, 12));
 
-        frm.add(weekControls, BorderLayout.NORTH);
-        frm.add(eventControls, BorderLayout.SOUTH);
-        frm.add(cal, BorderLayout.CENTER);
-        frm.setSize(1000, 900);
-        frm.setVisible(true);
-        frm.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-    }
-    
+			int endHour = Integer.parseInt(ev.getDateEnd().substring(8, 10));
+			int endMin = Integer.parseInt(ev.getDateEnd().substring(10, 12));
+
+			if (TimeZone.getDefault().inDaylightTime(new Date(year, month - 1, day))) {
+				startHour += 1;
+				endHour += 1;
+			}
+
+			calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
+					LocalTime.of(startHour, startMin), 
+					LocalTime.of(endHour, endMin), name));
+		}
+
+		WeekCalendar cal = new WeekCalendar(calEvents);
+
+		JButton goToTodayBtn = new JButton("Today");
+		goToTodayBtn.addActionListener(e -> cal.goToToday());
+
+		JButton nextWeekBtn = new JButton(">");
+		nextWeekBtn.addActionListener(e -> cal.nextWeek());
+
+		JButton prevWeekBtn = new JButton("<");
+		prevWeekBtn.addActionListener(e -> cal.prevWeek());
+
+		JButton nextMonthBtn = new JButton(">>");
+		nextMonthBtn.addActionListener(e -> cal.nextMonth());
+
+		JButton prevMonthBtn = new JButton("<<");
+		prevMonthBtn.addActionListener(e -> cal.prevMonth());
+
+		JButton addEvent = new JButton("Add event");
+		addEvent.addActionListener(e -> { 
+			JFrame frame = new JFrame();
+			String data = JOptionPane.showInputDialog(frame, "Data do evento: (dd/mm/aa)");
+			
+			String[] dataEvento = data.split("/");
+			int dia = Integer.parseInt(dataEvento[0]);
+			int mes = Integer.parseInt(dataEvento[1]);
+			int ano = Integer.parseInt(dataEvento[2]);
+
+			String horasInicio = JOptionPane.showInputDialog(frame, "Hora de início do evento: (hh:mm)");
+			String[] horaInicioEvento = horasInicio.split(":");
+			int horaInicio = Integer.parseInt(horaInicioEvento[0]);
+			int minutoInicio = Integer.parseInt(horaInicioEvento[1]);
+
+			String horasFim = JOptionPane.showInputDialog(frame, "Hora de término do evento: (hh:mm)");
+			String[] horaFimEvento = horasFim.split(":");
+			int horaFim = Integer.parseInt(horaFimEvento[0]);
+			int minutoFim = Integer.parseInt(horaFimEvento[1]);
+			String descricao = JOptionPane.showInputDialog(frame, "Descrição do evento:");
+			String descricaoEvento = descricao;
+			
+			calEvents.add(new CalendarEvent(LocalDate.of(ano, mes, dia), LocalTime.of(horaInicio, minutoInicio), LocalTime.of(horaFim, minutoFim), descricaoEvento));
+		});
+
+		JButton removeEvent = new JButton("Remove");
+		removeEvent.addActionListener(e -> {
+			JFrame frame = new JFrame();
+			Object[] lista = calEvents.toArray();
+			CalendarEvent n = (CalendarEvent)JOptionPane.showInputDialog(frame, "Que evento deseja eliminar?", 
+					"Input Dialog", JOptionPane.QUESTION_MESSAGE, null, lista, lista[0]);
+			
+				cal.removeEvent(n);
+		});
+
+		//TODO
+		//JButton detalhes = new JButton("Detalhes");
+		//detalhes.addActionListener(e -> { 
+
+		JPanel weekControls = new JPanel();
+		weekControls.add(prevMonthBtn);
+		weekControls.add(prevWeekBtn);
+		weekControls.add(goToTodayBtn);
+		weekControls.add(nextWeekBtn);
+		weekControls.add(nextMonthBtn);
+
+		JPanel eventControls = new JPanel();
+		eventControls.add(addEvent);
+		eventControls.add(removeEvent);
+
+		frm.add(weekControls, BorderLayout.NORTH);
+		frm.add(eventControls, BorderLayout.SOUTH);
+		frm.add(cal, BorderLayout.CENTER);
+		frm.setSize(1000, 900);
+		frm.setVisible(true);
+		frm.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+	}
+
 }
