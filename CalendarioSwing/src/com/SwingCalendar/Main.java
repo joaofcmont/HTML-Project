@@ -1,6 +1,7 @@
 package com.SwingCalendar;
 import javax.swing.*;
 
+
 import com.google.gson.Gson;
 import com.google.gson.JsonIOException;
 import com.google.gson.JsonSyntaxException;
@@ -24,7 +25,7 @@ public class Main {
 
 		Eventos evento = null;
 
-		try (Reader reader = new FileReader("C:\\Users\\azeit\\git\\ES-LETI-1Sem-2022-Grupo-13\\CalendarioSwing\\agenda.json")) {
+		try (Reader reader = new FileReader("filename.json")) {
 
 			// Convert JSON File to Java Object
 			evento = gson.fromJson(reader, Eventos.class);
