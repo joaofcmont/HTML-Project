@@ -1,4 +1,5 @@
 package com.SwingCalendar;
+import javax.imageio.ImageIO;
 import javax.swing.*;
 
 
@@ -6,15 +7,18 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonIOException;
 import com.google.gson.JsonSyntaxException;
+import com.itextpdf.text.Document;
+import com.itextpdf.text.PageSize;
+import com.itextpdf.text.pdf.PdfWriter;
 
 import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
-import java.nio.charset.Charset;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
@@ -23,18 +27,17 @@ import java.util.TimeZone;
 
 
 public class Main {
-	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
-		
+	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, FileNotFoundException {
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
-		
+
 		Eventos evento = null;
-		
+
 		try (Reader reader = new FileReader("filename.json")) {
 
 			// Convert JSON File to Java Object
 			evento = gson.fromJson(reader, Eventos.class);
-			
+
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -82,43 +85,41 @@ public class Main {
 		prevMonthBtn.addActionListener(e -> cal.prevMonth());
 
 		JButton addEvent = new JButton("Add event");
-		addEvent.addActionListener(e -> { 
-			JFrame frame = new JFrame();
-			String data = JOptionPane.showInputDialog(frame, "Data do evento: (dd/mm/aa)");
+		cal.addCalendarEmptyClickListener(e -> {
+			addEvent.addActionListener(e1 -> { 
+				JFrame frame = new JFrame();
+				String horasFim = JOptionPane.showInputDialog(frame, "Hora de término do evento: (hh:mm)");
+				String[] horaFimEvento = horasFim.split(":");
+				int horaFim = Integer.parseInt(horaFimEvento[0]);
+				int minutoFim = Integer.parseInt(horaFimEvento[1]);
+				String descricao = JOptionPane.showInputDialog(frame, "Descrição do evento:");
+				String descricaoEvento = descricao;
+				calEvents.add(new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricaoEvento));
+				cal.setEvents(calEvents);
+			});
 
-			String[] dataEvento = data.split("/");
-			int dia = Integer.parseInt(dataEvento[0]);
-			int mes = Integer.parseInt(dataEvento[1]);
-			int ano = Integer.parseInt(dataEvento[2]);
-
-			String horasInicio = JOptionPane.showInputDialog(frame, "Hora de início do evento: (hh:mm)");
-			String[] horaInicioEvento = horasInicio.split(":");
-			int horaInicio = Integer.parseInt(horaInicioEvento[0]);
-			int minutoInicio = Integer.parseInt(horaInicioEvento[1]);
-
-			String horasFim = JOptionPane.showInputDialog(frame, "Hora de término do evento: (hh:mm)");
-			String[] horaFimEvento = horasFim.split(":");
-			int horaFim = Integer.parseInt(horaFimEvento[0]);
-			int minutoFim = Integer.parseInt(horaFimEvento[1]);
-			String descricao = JOptionPane.showInputDialog(frame, "Descrição do evento:");
-			String descricaoEvento = descricao;
-
-			calEvents.add(new CalendarEvent(LocalDate.of(ano, mes, dia), LocalTime.of(horaInicio, minutoInicio), LocalTime.of(horaFim, minutoFim), descricaoEvento));
 		});
 
 		JButton removeEvent = new JButton("Remove");
-		removeEvent.addActionListener(e -> {
-			JFrame frame = new JFrame();
-			Object[] lista = calEvents.toArray();
-			CalendarEvent n = (CalendarEvent)JOptionPane.showInputDialog(frame, "Que evento deseja eliminar?", 
-					"Input Dialog", JOptionPane.QUESTION_MESSAGE, null, lista, lista[0]);
-			//TODO
-			calEvents.remove(n);
+		cal.addCalendarEventClickListener(e -> {
+			CalendarEvent event = e.getCalendarEvent();
+			removeEvent.addActionListener(e1 -> {
+				calEvents.remove(event);
+				cal.setEvents(calEvents);
+			});
 		});
 
-		//TODO
-		//JButton detalhes = new JButton("Detalhes");
-		//detalhes.addActionListener(e -> { 
+		//TODO - Faltam detalhes sobre o dono do calendário cujo evento foi selecionado
+		JButton detalhes = new JButton("Details");
+		cal.addCalendarEventClickListener(e -> {
+			CalendarEvent event = e.getCalendarEvent();
+			detalhes.addActionListener(e1 -> {
+				JFrame frame = new JFrame();
+				JOptionPane.showMessageDialog(frame, event);
+			});
+		});
+
+		JButton pdf = new JButton("Convert to PDF");
 
 		JPanel weekControls = new JPanel();
 		weekControls.add(prevMonthBtn);
@@ -130,6 +131,8 @@ public class Main {
 		JPanel eventControls = new JPanel();
 		eventControls.add(addEvent);
 		eventControls.add(removeEvent);
+		eventControls.add(detalhes);
+		eventControls.add(pdf);
 
 		frm.add(weekControls, BorderLayout.NORTH);
 		frm.add(eventControls, BorderLayout.SOUTH);
@@ -138,7 +141,30 @@ public class Main {
 		frm.setVisible(true);
 		frm.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
+		pdf.addActionListener(e -> { 
+			BufferedImage img = new BufferedImage(frm.getWidth(), frm.getHeight(), BufferedImage.TYPE_INT_RGB);
+			Graphics2D g2d = img.createGraphics();
+			frm.printAll(g2d);
+			g2d.dispose();
+			try {
+				ImageIO.write(img, "png", new File("imagem.png"));
+			} catch (IOException e1) {
+				e1.printStackTrace();
+			}
+
+			try {
+				Document document = new Document(PageSize.A2.rotate(), 0, frm.getHeight(), 0, frm.getWidth());
+				PdfWriter.getInstance(document, new FileOutputStream("test.pdf"));
+				document.open();
+				Image image = ImageIO.read(new File("imagem.png"));
+				document.add(com.itextpdf.text.Image.getInstance("imagem.png"));
+				document.close();
+			}
+			catch (Exception ex)
+			{
+				ex.printStackTrace();
+			}
+
+		});
 	}
-
-
 }

@@ -1,25 +1,16 @@
 package com.SwingCalendar;
 
 import java.io.BufferedWriter;
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.nio.charset.Charset;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.Iterator;
-import java.util.Scanner;
 
 import org.bson.Document;
-import org.bson.types.ObjectId;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
 import com.mongodb.client.MongoCollection;
@@ -46,7 +37,7 @@ public class ConnectToDB {
 					new BufferedWriter(new FileWriter("filename.json"))
 					);
 			MongoCursor<Document> cursor = col.find().cursor();
-		
+
 			while (cursor.hasNext()){
 				out.println(cursor.next().toJson());
 
@@ -57,22 +48,15 @@ public class ConnectToDB {
 		} catch (IOException e) {
 			System.out.println("Error writing to file.");
 		}
-				
+
 	}
-	
-	
+
+
 	public static String toPrettyFormat(String jsonString)  {
-		
+
 		Gson gson = new GsonBuilder().setLenient().setPrettyPrinting().create();
 		JsonObject json = JsonParser.parseString(jsonString).getAsJsonObject();
 		String prettyJson = gson.toJson(json);
 		return prettyJson;
 	}
-	
-	
-
-
 }
-
-
-
