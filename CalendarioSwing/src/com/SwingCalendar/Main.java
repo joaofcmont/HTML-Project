@@ -3,14 +3,18 @@ import javax.swing.*;
 
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.google.gson.JsonIOException;
 import com.google.gson.JsonSyntaxException;
 
 import java.awt.*;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
@@ -19,17 +23,18 @@ import java.util.TimeZone;
 
 
 public class Main {
-	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, FileNotFoundException {
+	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
+		
 		JFrame frm = new JFrame();
-		Gson gson = new Gson();
-
+		Gson gson = new GsonBuilder().setPrettyPrinting().create();
+		
 		Eventos evento = null;
-
+		
 		try (Reader reader = new FileReader("filename.json")) {
 
 			// Convert JSON File to Java Object
 			evento = gson.fromJson(reader, Eventos.class);
-
+			
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -80,7 +85,7 @@ public class Main {
 		addEvent.addActionListener(e -> { 
 			JFrame frame = new JFrame();
 			String data = JOptionPane.showInputDialog(frame, "Data do evento: (dd/mm/aa)");
-			
+
 			String[] dataEvento = data.split("/");
 			int dia = Integer.parseInt(dataEvento[0]);
 			int mes = Integer.parseInt(dataEvento[1]);
@@ -97,7 +102,7 @@ public class Main {
 			int minutoFim = Integer.parseInt(horaFimEvento[1]);
 			String descricao = JOptionPane.showInputDialog(frame, "Descrição do evento:");
 			String descricaoEvento = descricao;
-			
+
 			calEvents.add(new CalendarEvent(LocalDate.of(ano, mes, dia), LocalTime.of(horaInicio, minutoInicio), LocalTime.of(horaFim, minutoFim), descricaoEvento));
 		});
 
@@ -132,6 +137,8 @@ public class Main {
 		frm.setSize(1000, 900);
 		frm.setVisible(true);
 		frm.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+
 	}
+
 
 }
