@@ -4,6 +4,7 @@ import javax.swing.*;
 
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.google.gson.JsonIOException;
 import com.google.gson.JsonSyntaxException;
 import com.itextpdf.text.Document;
@@ -28,11 +29,11 @@ import java.util.TimeZone;
 public class Main {
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, FileNotFoundException {
 		JFrame frm = new JFrame();
-		Gson gson = new Gson();
+		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
 		Eventos evento = null;
 
-		try (Reader reader = new FileReader("agenda.json")) {
+		try (Reader reader = new FileReader("filename.json")) {
 
 			// Convert JSON File to Java Object
 			evento = gson.fromJson(reader, Eventos.class);
