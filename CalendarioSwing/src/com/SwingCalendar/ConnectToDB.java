@@ -7,10 +7,6 @@ import java.io.PrintWriter;
 
 import org.bson.Document;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
 import com.mongodb.client.MongoCollection;
@@ -19,8 +15,7 @@ import com.mongodb.client.MongoDatabase;
 
 
 public class ConnectToDB {
-	public static void main(String[] args) throws IOException {
-
+	public void ConnectToDB() throws IOException {
 
 		MongoClient client= MongoClients.create("mongodb+srv://testUser:DiogoMonteiro12@esprojectcluster.jjsxybq.mongodb.net/?retryWrites=true&w=majority");
 
@@ -50,13 +45,6 @@ public class ConnectToDB {
 		}
 
 	}
+	
 
-
-	public static String toPrettyFormat(String jsonString)  {
-
-		Gson gson = new GsonBuilder().setLenient().setPrettyPrinting().create();
-		JsonObject json = JsonParser.parseString(jsonString).getAsJsonObject();
-		String prettyJson = gson.toJson(json);
-		return prettyJson;
-	}
 }

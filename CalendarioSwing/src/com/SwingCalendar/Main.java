@@ -27,7 +27,11 @@ import java.util.TimeZone;
 
 
 public class Main {
-	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, FileNotFoundException {
+	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
+		
+		ConnectToDB db= new ConnectToDB();
+		db.ConnectToDB();
+		
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
