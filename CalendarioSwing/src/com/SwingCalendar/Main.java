@@ -88,11 +88,13 @@ public class Main {
 		JButton prevMonthBtn = new JButton("<<");
 		prevMonthBtn.addActionListener(e -> cal.prevMonth());
 
-		JButton addEvent = new JButton("Add event");
+		JButton addEvent = new JButton("Add Event");
 		cal.addCalendarEmptyClickListener(e -> {
 			addEvent.addActionListener(e1 -> { 
 				JFrame frame = new JFrame();
 				String horasFim = JOptionPane.showInputDialog(frame, "Hora de término do evento: (hh:mm)");
+				if(horasFim==null)
+					return;
 				String[] horaFimEvento = horasFim.split(":");
 				int horaFim = Integer.parseInt(horaFimEvento[0]);
 				int minutoFim = Integer.parseInt(horaFimEvento[1]);
@@ -115,15 +117,26 @@ public class Main {
 
 		//TODO - Faltam detalhes sobre o dono do calendário cujo evento foi selecionado
 		JButton detalhes = new JButton("Details");
+
 		cal.addCalendarEventClickListener(e -> {
-			CalendarEvent event = e.getCalendarEvent();
 			detalhes.addActionListener(e1 -> {
+				CalendarEvent event = e.getCalendarEvent();
 				JFrame frame = new JFrame();
+				if(event==null) {
+					return;
+				}
 				JOptionPane.showMessageDialog(frame, event);
+				e.clearEvent();
 			});
 		});
 
 		JButton pdf = new JButton("Convert to PDF");
+
+		JButton addCalendar = new JButton("Add a Calendar Link");
+		addCalendar.addActionListener(e -> { 
+			JFrame frame = new JFrame();
+			String link = JOptionPane.showInputDialog(frame, "Link do calendário:");
+		});
 
 		JPanel weekControls = new JPanel();
 		weekControls.add(prevMonthBtn);
@@ -137,6 +150,7 @@ public class Main {
 		eventControls.add(removeEvent);
 		eventControls.add(detalhes);
 		eventControls.add(pdf);
+		eventControls.add(addCalendar);
 
 		frm.add(weekControls, BorderLayout.NORTH);
 		frm.add(eventControls, BorderLayout.SOUTH);
