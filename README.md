@@ -1,5 +1,8 @@
 # ES-LETI-1Sem-2022-Grupo-13
 
+### No JRE Version :
+        jdk-17
+
 ### No GrupoId :
         ProjetoES-Grupo13 
 ### No artifactId:
