@@ -86,4 +86,5 @@ public class CalendarEvent {
         result = 31 * result + end.hashCode();
         return result;
     }
+    
 }
