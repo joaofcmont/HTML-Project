@@ -32,6 +32,20 @@
    <artifactId>jackson-databind</artifactId>
    <version>2.9.6</version>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-web</artifactId>
+    <version>2.7.3</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-mongodb -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-data-mongodb</artifactId>
+    <version>2.7.3</version>
+</dependency>
+
 <!-- https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver -->
 <dependency>
     <groupId>org.mongodb</groupId>
