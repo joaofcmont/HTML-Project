@@ -64,7 +64,9 @@ public class Main {
 		ArrayList<CalendarEvent> calEvents = new ArrayList<CalendarEvent>();
 
 		for (Event ev : evento.getListaEventos()) {
-			String name = ev.getChair();
+			String[] name = ev.getChair().split("-");
+			String pt = name[0];
+//			String ingles = name[1];
 
 			int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 			int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
@@ -83,7 +85,7 @@ public class Main {
 
 			calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
 					LocalTime.of(startHour, startMin), 
-					LocalTime.of(endHour, endMin), name));
+					LocalTime.of(endHour, endMin),pt));
 		}
 
 		WeekCalendar cal = new WeekCalendar(calEvents);
@@ -157,6 +159,8 @@ public class Main {
 		addCalendar.addActionListener(e -> { 
 			JFrame frame = new JFrame();
 			String link = JOptionPane.showInputDialog(frame, "Link do calendário:");
+			System.out.println(link);
+			cal.setEvents(calEvents);
 		});
 
 		JPanel weekControls = new JPanel();
