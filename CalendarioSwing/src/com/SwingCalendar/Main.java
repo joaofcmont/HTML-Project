@@ -6,8 +6,11 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
@@ -35,23 +38,21 @@ public class Main {
 
 
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
-		
-		
+
+
 		ToJson js= new ToJson();
 		js.paraJson();
 		Parser p= new Parser();
-		
+
 		ImportJsonService j= new ImportJsonService();
-		
-		
 
 		ConnectToDB db= new ConnectToDB();
-		
+
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
 		Eventos evento = null;
-		
+
 		try (Reader reader = new FileReader("agenda.json")) {
 
 			// Convert JSON File to Java Object
@@ -116,15 +117,17 @@ public class Main {
 				String descricao = JOptionPane.showInputDialog(frame, "Descrição do evento:");
 				String descricaoEvento = descricao;
 				calEvents.add(new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricaoEvento));
-				cal.setEvents(calEvents);	
-			    String jsonStr ="{ chair:"+new Gson().toJson(descricaoEvento)+"}\n"+
-			    		"{dateStart:" + e.getDateTime().toString()+ "}\n" + "{ dateEnd:" + horasFim.toString()+"}";
-			    System.out.println(jsonStr);
-			    List<String> lista= ImportJsonService.lines(jsonStr);
-			    ImportJsonService.importTo("ESProjectCollection", lista);
-			    
+				cal.setEvents(calEvents);
+				String jsonStr =descricaoEvento+"\n" +  "\n20230109080000\n" + "\n20230109110000\n";
+				try {
+					FileWriter myWriter = new FileWriter("agenda.txt", true);
+					  myWriter.write(jsonStr);
+				      myWriter.close();
+				} catch (IOException e2) {
+					e2.printStackTrace();
+				}
 			});
-		
+
 		});
 
 		JButton removeEvent = new JButton("Remove");
@@ -205,8 +208,8 @@ public class Main {
 			}
 
 		});
-		
+
 	}
 
-	
+
 }
