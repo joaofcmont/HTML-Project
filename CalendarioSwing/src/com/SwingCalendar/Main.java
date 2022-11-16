@@ -66,7 +66,6 @@ public class Main {
 		for (Event ev : evento.getListaEventos()) {
 			String[] name = ev.getChair().split("-");
 			String pt = name[0];
-//			String ingles = name[1];
 
 			int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 			int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
