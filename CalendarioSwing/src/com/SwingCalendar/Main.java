@@ -65,7 +65,12 @@ public class Main {
 		ArrayList<CalendarEvent> calEvents = new ArrayList<CalendarEvent>();
 
 		for (Event ev : evento.getListaEventos()) {
+<<<<<<< HEAD
 			String name = ev.getChair();
+=======
+			String[] name = ev.getChair().split("-");
+			String pt = name[0];
+>>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 
 			int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 			int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
