@@ -79,22 +79,5 @@ public class Parser{
 		scanner.close();
 		}
 
-		/*
-DTSTART:20230329T170000Z 
-DTEND:20230329T183000Z
-SUMMARY:Desenvolvimento para A Internet e AplicaÃ§Ãµes MÃ³veis - Development
-  for Internet and Mobile Apps
-UID:1692101150526471@fenix.iscte.pt
-
-->quando a linha do scanner comeÃ§ar por DTSTART: damos split Ã  linha pois queremos 
-apenas a a posiÃ§Ã£o 1 do vetor do split, a data
-->depois disso passamos Ã  prÃ³xima linha e fazemos o mesmo para a data do fim
--> passando para a linha do sumÃ¡rio, esta pode ter uma ou duas linhas, entÃ£o fazemos um nextline para 
-saber quando acaba o sumÃ¡rio, pois a linha apÃ³s o sumÃ¡rio comeÃ§a com UID
-		 */
-	
-	
-
-	
 	
 }
