@@ -10,7 +10,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
 import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.nio.file.Path;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
@@ -39,11 +39,10 @@ public class Main {
 
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
 
-
+		Parser p= new Parser();
+		p.parser();
 		ToJson js= new ToJson();
 		js.paraJson();
-		Parser p= new Parser();
-
 		ImportJsonService j= new ImportJsonService();
 
 		ConnectToDB db= new ConnectToDB();
@@ -65,12 +64,8 @@ public class Main {
 		ArrayList<CalendarEvent> calEvents = new ArrayList<CalendarEvent>();
 
 		for (Event ev : evento.getListaEventos()) {
-<<<<<<< HEAD
-			String name = ev.getChair();
-=======
 			String[] name = ev.getChair().split("-");
 			String pt = name[0];
->>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 
 			int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 			int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
@@ -89,7 +84,7 @@ public class Main {
 
 			calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
 					LocalTime.of(startHour, startMin), 
-					LocalTime.of(endHour, endMin), name));
+					LocalTime.of(endHour, endMin),pt));
 		}
 
 		WeekCalendar cal = new WeekCalendar(calEvents);
@@ -122,15 +117,13 @@ public class Main {
 				String descricao = JOptionPane.showInputDialog(frame, "Descrição do evento:");
 				String descricaoEvento = descricao;
 				calEvents.add(new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricaoEvento));
-				cal.setEvents(calEvents);
-				String jsonStr =descricaoEvento+"\n" +  "\n20230109080000\n" + "\n20230109110000\n";
-				try {
-					FileWriter myWriter = new FileWriter("agenda.txt", true);
-					  myWriter.write(jsonStr);
-				      myWriter.close();
-				} catch (IOException e2) {
-					e2.printStackTrace();
-				}
+				cal.setEvents(calEvents);	
+				String jsonStr ="{ chair:"+new Gson().toJson(descricaoEvento)+"}\n"+
+						"{dateStart:" + e.getDateTime().toString()+ "}\n" + "{ dateEnd:" + horasFim.toString()+"}";
+				System.out.println(jsonStr);
+				List<String> lista= ImportJsonService.lines(jsonStr);
+				ImportJsonService.importTo("ESProjectCollection", lista);
+
 			});
 
 		});
@@ -165,6 +158,18 @@ public class Main {
 		addCalendar.addActionListener(e -> { 
 			JFrame frame = new JFrame();
 			String link = JOptionPane.showInputDialog(frame, "Link do calendário:");
+			// Writing into the file
+			try {
+				// Reading the content of the file
+				 String filename= "links.txt";
+				    FileWriter fw = new FileWriter(filename,true); //the true will append the new data
+				    fw.write("\n" + link);
+				    p.parser();
+					js.paraJson();
+				    fw.close();
+			} catch (IOException e1) {
+				e1.printStackTrace();
+			}
 		});
 
 		JPanel weekControls = new JPanel();
