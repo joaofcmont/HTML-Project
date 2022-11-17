@@ -15,12 +15,6 @@ public class Parser{
 
 	public void parser() throws IOException {
 		
-
-		
-
-		String webcal = "webcal://fenix.iscte-iul.pt/publico/publicPersonICalendar.do?method=iCalendar&username=mpclq@iscte.pt&password=xmL473npYB7oemMN431WH9nEJRIctc1xGX20iWj2peknw6XJ6XL3yJuTfbSwpO9gE64qIekOJtyhfGeFFWBwElxA6zxz14SHNsKbx4LZIX56YjhMvYa1hQQRFDoA53W8\r\n";
-
-
 		Scanner	scanner = new Scanner(new File("links.txt"));
 		while (scanner.hasNextLine()) 
 		{	
@@ -83,24 +77,5 @@ public class Parser{
 			scan.close();
 		}
 		scanner.close();
-		}
-
-		/*
-DTSTART:20230329T170000Z 
-DTEND:20230329T183000Z
-SUMMARY:Desenvolvimento para A Internet e AplicaÃ§Ãµes MÃ³veis - Development
-  for Internet and Mobile Apps
-UID:1692101150526471@fenix.iscte.pt
-
-->quando a linha do scanner comeÃ§ar por DTSTART: damos split Ã  linha pois queremos 
-apenas a a posiÃ§Ã£o 1 do vetor do split, a data
-->depois disso passamos Ã  prÃ³xima linha e fazemos o mesmo para a data do fim
--> passando para a linha do sumÃ¡rio, esta pode ter uma ou duas linhas, entÃ£o fazemos um nextline para 
-saber quando acaba o sumÃ¡rio, pois a linha apÃ³s o sumÃ¡rio comeÃ§a com UID
-		 */
-	
-	
-
-	
-	
+	}
 }
