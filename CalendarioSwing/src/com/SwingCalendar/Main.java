@@ -6,8 +6,11 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
@@ -35,23 +38,20 @@ public class Main {
 
 
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
-		
-		
+
+		Parser p= new Parser();
+		p.parser();
 		ToJson js= new ToJson();
 		js.paraJson();
-		Parser p= new Parser();
-		
 		ImportJsonService j= new ImportJsonService();
-		
-		
 
 		ConnectToDB db= new ConnectToDB();
-		
+
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
 		Eventos evento = null;
-		
+
 		try (Reader reader = new FileReader("agenda.json")) {
 
 			// Convert JSON File to Java Object
@@ -118,14 +118,14 @@ public class Main {
 				String descricaoEvento = descricao;
 				calEvents.add(new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricaoEvento));
 				cal.setEvents(calEvents);	
-			    String jsonStr ="{ chair:"+new Gson().toJson(descricaoEvento)+"}\n"+
-			    		"{dateStart:" + e.getDateTime().toString()+ "}\n" + "{ dateEnd:" + horasFim.toString()+"}";
-			    System.out.println(jsonStr);
-			    List<String> lista= ImportJsonService.lines(jsonStr);
-			    ImportJsonService.importTo("ESProjectCollection", lista);
-			    
+				String jsonStr ="{ chair:"+new Gson().toJson(descricaoEvento)+"}\n"+
+						"{dateStart:" + e.getDateTime().toString()+ "}\n" + "{ dateEnd:" + horasFim.toString()+"}";
+				System.out.println(jsonStr);
+				List<String> lista= ImportJsonService.lines(jsonStr);
+				ImportJsonService.importTo("ESProjectCollection", lista);
+
 			});
-		
+
 		});
 
 		JButton removeEvent = new JButton("Remove");
@@ -158,8 +158,18 @@ public class Main {
 		addCalendar.addActionListener(e -> { 
 			JFrame frame = new JFrame();
 			String link = JOptionPane.showInputDialog(frame, "Link do calendário:");
-			System.out.println(link);
-			cal.setEvents(calEvents);
+			// Writing into the file
+			try {
+				// Reading the content of the file
+				 String filename= "links.txt";
+				    FileWriter fw = new FileWriter(filename,true); //the true will append the new data
+				    fw.write("\n" + link);
+				    p.parser();
+					js.paraJson();
+				    fw.close();
+			} catch (IOException e1) {
+				e1.printStackTrace();
+			}
 		});
 
 		JPanel weekControls = new JPanel();
@@ -208,8 +218,8 @@ public class Main {
 			}
 
 		});
-		
+
 	}
 
-	
+
 }

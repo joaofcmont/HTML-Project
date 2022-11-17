@@ -324,7 +324,6 @@ public abstract class Calendar extends JComponent {
     private void drawEvents() {
         double x;
         double y0;
-
         for (CalendarEvent event : events) {
             if (!dateInRange(event.getDate())) continue;
 

@@ -3,7 +3,6 @@ import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
 
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.net.URL;
@@ -15,9 +14,10 @@ import java.util.Scanner;
 public class Parser{
 
 	public void parser() throws IOException {
-		Scanner	scanner = new Scanner("links.txt");
-		while (scanner.hasNextLine()) {
-			
+		
+		Scanner	scanner = new Scanner(new File("links.txt"));
+		while (scanner.hasNextLine()) 
+		{	
 		String webcal = scanner.nextLine();
 		webcal  = webcal.replace("webcal:", "https:");
 		//cria um objecto do tipo URL baseado na string que damos
@@ -30,12 +30,15 @@ public class Parser{
 			String dateStart = null;
 			String dateEnd = null;
 			
-			Files.deleteIfExists(Paths.get("agenda.txt"));
+			File f1 = new File("agenda.txt");
+			if(f1.exists()) { 
+			    f1.delete();
+			}
 			
 			while (scan.hasNextLine()) 
 			{	
 				//escrever no file agenda.txt apenas o que queremos do file webcal.txt
-				BufferedWriter writer = new BufferedWriter(new FileWriter("agenda.txt",true));
+				BufferedWriter writer = new BufferedWriter(new FileWriter("agenda.txt",true));;
 				String a = scan.nextLine();	
 				if(a.equals("BEGIN:VEVENT")) 
 				{
