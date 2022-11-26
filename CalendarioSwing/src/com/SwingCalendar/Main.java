@@ -9,10 +9,12 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
+import java.io.StringWriter;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.Iterator;
 import java.util.List;
 import java.util.TimeZone;
 
@@ -22,6 +24,17 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.WindowConstants;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
+
+import org.bson.BsonDocument;
+import org.bson.json.JsonObject;
+import org.springframework.dao.DataAccessException;
+import org.springframework.data.mongodb.core.CollectionCallback;
+import org.w3c.dom.Node;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -30,10 +43,11 @@ import com.google.gson.JsonSyntaxException;
 import com.itextpdf.text.Document;
 import com.itextpdf.text.PageSize;
 import com.itextpdf.text.pdf.PdfWriter;
+import com.mongodb.client.FindIterable;
+import com.mongodb.client.MongoCursor;
 
 
 public class Main {
-
 
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
 
@@ -41,10 +55,12 @@ public class Main {
 		p.parser();
 		ToJson js= new ToJson();
 		js.paraJson();
-		ImportJsonService j= new ImportJsonService();
 
 		ConnectToDB db= new ConnectToDB();
+		org.bson.Document d=org.bson.Document.parse(js.paraJson());
+		db.user1.insertOne(d);
 
+	
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
@@ -58,6 +74,9 @@ public class Main {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+
+
+
 
 		ArrayList<CalendarEvent> calEvents = new ArrayList<CalendarEvent>();
 
@@ -116,11 +135,7 @@ public class Main {
 				String descricaoEvento = descricao;
 				calEvents.add(new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricaoEvento));
 				cal.setEvents(calEvents);	
-				String jsonStr ="{ chair:"+new Gson().toJson(descricaoEvento)+"}\n"+
-						"{dateStart:" + e.getDateTime().toString()+ "}\n" + "{ dateEnd:" + horasFim.toString()+"}";
-				System.out.println(jsonStr);
-				List<String> lista= ImportJsonService.lines(jsonStr);
-				ImportJsonService.importTo("ESProjectCollection", lista);
+
 
 			});
 
@@ -156,15 +171,17 @@ public class Main {
 		addCalendar.addActionListener(e -> { 
 			JFrame frame = new JFrame();
 			String link = JOptionPane.showInputDialog(frame, "Link do calendário:");
+			List<String> lista_links = new ArrayList<>();
+			lista_links.add(link);
 			// Writing into the file
 			try {
 				// Reading the content of the file
-				 String filename= "links.txt";
-				    FileWriter fw = new FileWriter(filename,true); //the true will append the new data
-				    fw.write("\n" + link);
-				    p.parser();
-					js.paraJson();
-				    fw.close();
+				String filename= "links.txt";
+				FileWriter fw = new FileWriter(filename,true); //the true will append the new data
+				p.parser();
+				fw.write("\n" + link);
+				fw.close();
+
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}

@@ -30,31 +30,22 @@ import com.mongodb.client.MongoDatabase;
 
 
 public class ConnectToDB {
+
 	MongoClient client= MongoClients.create("mongodb+srv://testUser:DiogoMonteiro12@esprojectcluster.jjsxybq.mongodb.net/?retryWrites=true&w=majority");
 
 	//acessar base de dados
 	MongoDatabase database=client.getDatabase("ESProjectDB");
 
 	//acessar a minha coleção
-	MongoCollection<Document> col= database.getCollection("ESProjectCollection");		
+	MongoCollection<Document> col= database.getCollection("ESProjectCollection");
+	MongoCollection<Document> col_links= database.getCollection("links");		
+	MongoCollection<Document> user1= database.getCollection("user1");
+	MongoCollection<Document> user2= database.getCollection("user2");
+	MongoCollection<Document> user3= database.getCollection("user3");
+	MongoCollection<Document> user4= database.getCollection("user4");
 
-	public void ConnectToDB() throws IOException {
 
-		try {   
-			PrintWriter out = new PrintWriter(
-					new BufferedWriter(new FileWriter("agenda.json"))
-					);
-			MongoCursor<Document> cursor = col.find().cursor();
-			while (cursor.hasNext()){
-				out.println(cursor.next().toJson());
-			}
-			out.flush();            // flush to ensure writes
-			out.close();     // close the handle when done
 
-		} catch (IOException e) {
-			System.out.println("Error writing to file.");
-		}
-	}
 }
 
 

@@ -7,24 +7,34 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import org.bson.Document;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.mongodb.client.FindIterable;
+import com.mongodb.client.MongoCursor;
 
 public class ToJson {
-
-
-	public void paraJson() throws FileNotFoundException {
+	public String paraJson() throws FileNotFoundException {
+		
+		ConnectToDB db = new ConnectToDB();
 		
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		
 		Eventos eventos = new Eventos();
 		eventos.setListaEventos(listaEventos());
 		
-		try (FileWriter writer = new FileWriter("agenda.json")) {
-            gson.toJson(eventos, writer);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+		FindIterable<org.bson.Document> cursor = db.user1.find();
+		MongoCursor<org.bson.Document> iterator = cursor.iterator(); // (6) 
+	 
+			try (FileWriter writer = new FileWriter("agenda.json")) {
+				gson.toJson(iterator.next(), writer);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		
+		return gson.toJson(eventos);
+		
 	}
 	
 	public ArrayList<Event> listaEventos() throws FileNotFoundException {
