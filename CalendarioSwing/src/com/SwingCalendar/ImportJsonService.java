@@ -29,6 +29,7 @@ public class ImportJsonService {
 	public static List<Document> generateMongoDocs(List<String> lines) {
 		List<Document> docs = new ArrayList<>();
 		for (String json : lines) {
+			System.out.println(json);
 			docs.add(Document.parse(json));
 		}
 		return docs;
@@ -48,11 +49,10 @@ public class ImportJsonService {
 		}
 	}
 
-	public static String importTo(String collection, List<String> jsonLines) {
+	public void importTo(String collection, List<String> jsonLines) {
 		List<Document> mongoDocs = generateMongoDocs(jsonLines);
 		System.out.println(mongoDocs);
 		int inserts = insertInto(collection, mongoDocs);
-		return inserts + "/" + jsonLines.size();
 	}
 
 	public static List<String> lines(File file) throws IOException {
