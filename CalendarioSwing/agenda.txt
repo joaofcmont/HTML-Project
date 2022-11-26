@@ -1,14 +1,6 @@
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230301193000
-20230301210000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221118180000
-20221118193000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221109210000
-20221109223000
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221003100000
+20221003113000
  
 Modulação e Codificação - Modulation and Coding
 20220927133000
@@ -34,9 +26,9 @@ Modulação e Codificação - Modulation and Coding
 20221018133000
 20221018150000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230328170000
-20230328183000
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221010100000
+20221010113000
  
 Segurança e Gestão de Redes - Network Security and Management
 20230418150000
@@ -45,6 +37,10 @@ Segurança e Gestão de Redes - Network Security and Management
 Engenharia de Software - Software Engineering
 20220929133000
 20220929150000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230315093000
+20230315110000
  
 Modulação e Codificação - Modulation and Coding
 20221128143000
@@ -62,25 +58,25 @@ Arquitetura de Redes - Network Arquitectures
 20221215160000
 20221215173000
  
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230503100000
+20230503113000
+ 
 Engenharia de Software - Software Engineering
 20221027120000
 20221027133000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230322180000
-20230322193000
  
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230306143000
 20230306160000
  
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230517100000
+20230517113000
+ 
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20220926150000
 20220926163000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230214180000
-20230214193000
  
 Modulação e Codificação - Modulation and Coding
 20221108160000
@@ -89,6 +85,14 @@ Modulação e Codificação - Modulation and Coding
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230428133000
 20230428150000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221205093000
+20221205110000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20220919083000
+20220919100000
  
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230417150000
@@ -106,6 +110,14 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230515150000
 20230515163000
  
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230512070000
+20230512083000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221017083000
+20221017100000
+ 
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230301143000
 20230301160000
@@ -118,25 +130,33 @@ Modulação e Codificação - Modulation and Coding
 20221024133000
 20221024150000
  
-Modulação e Codificação - Modulation and Coding
-20221018150000
-20221018163000
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230308093000
+20230308110000
  
 Modulação e Codificação - Modulation and Coding
 20221003133000
 20221003150000
  
+Modulação e Codificação - Modulation and Coding
+20221018150000
+20221018163000
+ 
 Arquitetura de Redes - Network Arquitectures
 20221103160000
 20221103173000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230426083000
+20230426100000
  
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221012133000
 20221012150000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230412170000
-20230412183000
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221114110000
+20221114123000
  
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20220912150000
@@ -147,12 +167,12 @@ Engenharia de Software - Software Engineering
 20221006150000
  
 Segurança e Gestão de Redes - Network Security and Management
-20230522120000
-20230522133000
- 
-Segurança e Gestão de Redes - Network Security and Management
 20230307160000
 20230307173000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230522120000
+20230522133000
  
 Engenharia de Software - Software Engineering
 20220920120000
@@ -194,17 +214,21 @@ Engenharia de Software - Software Engineering
 20221129130000
 20221129143000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230315193000
-20230315210000
- 
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230504150000
 20230504163000
  
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221128093000
+20221128110000
+ 
 Segurança e Gestão de Redes - Network Security and Management
 20230502150000
 20230502163000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221121093000
+20221121110000
  
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221207130000
@@ -214,17 +238,21 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20220920100000
 20220920113000
  
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221003083000
+20221003100000
+ 
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230418133000
 20230418150000
  
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230301093000
+20230301110000
+ 
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230313160000
 20230313173000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230426183000
-20230426200000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230216143000
@@ -241,10 +269,6 @@ Arquitetura de Redes - Network Arquitectures
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230314143000
 20230314160000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230419170000
-20230419183000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230323160000
@@ -266,9 +290,9 @@ Arquitetura de Redes - Network Arquitectures
 20220912120000
 20220912133000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221012183000
-20221012200000
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230419100000
+20230419113000
  
 Engenharia de Software - Software Engineering
 20221103143000
@@ -282,10 +306,6 @@ Engenharia de Software - Software Engineering
 20221103103000
 20221103120000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221116193000
-20221116210000
- 
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20220921120000
 20220921133000
@@ -293,10 +313,6 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221128160000
 20221128173000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221111180000
-20221111193000
  
 Segurança e Gestão de Redes - Network Security and Management
 20230327120000
@@ -306,9 +322,9 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221024150000
 20221024163000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20220928183000
-20220928200000
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230322110000
+20230322123000
  
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230523120000
@@ -322,10 +338,6 @@ Segurança e Gestão de Redes - Network Security and Management
 20230424120000
 20230424133000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230510183000
-20230510200000
- 
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230420150000
 20230420163000
@@ -338,14 +350,6 @@ Arquitetura de Redes - Network Arquitectures
 20220914150000
 20220914163000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221028170000
-20221028183000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230301180000
-20230301193000
- 
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230206160000
 20230206173000
@@ -353,10 +357,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 Arquitetura de Redes - Network Arquitectures
 20221017120000
 20221017133000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221116210000
-20221116223000
  
 Segurança e Gestão de Redes - Network Security and Management
 20230512150000
@@ -386,6 +386,10 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230508150000
 20230508163000
  
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230215110000
+20230215123000
+ 
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230223160000
 20230223173000
@@ -407,6 +411,10 @@ Modulação e Codificação - Modulation and Coding
 20220930113000
  
 Arquitetura de Redes - Network Arquitectures
+20221107130000
+20221107143000
+ 
+Arquitetura de Redes - Network Arquitectures
 20221123160000
 20221123173000
  
@@ -417,14 +425,6 @@ Arquitetura de Redes - Network Arquitectures
 Arquitetura de Redes - Network Arquitectures
 20221019150000
 20221019163000
- 
-Arquitetura de Redes - Network Arquitectures
-20221107130000
-20221107143000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230510170000
-20230510183000
  
 Engenharia de Software - Software Engineering
 20221214143000
@@ -438,14 +438,6 @@ Modulação e Codificação - Modulation and Coding
 20221107143000
 20221107160000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230329183000
-20230329200000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230322193000
-20230322210000
- 
 Engenharia de Software - Software Engineering
 20221124143000
 20221124160000
@@ -454,17 +446,9 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230509133000
 20230509150000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230503170000
-20230503183000
- 
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221019133000
 20221019150000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221014170000
-20221014183000
  
 Engenharia de Software - Software Engineering
 20220929120000
@@ -478,17 +462,9 @@ Engenharia de Software - Software Engineering
 20220913120000
 20220913133000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230321180000
-20230321193000
- 
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230508133000
 20230508150000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221216180000
-20221216193000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230310143000
@@ -534,17 +510,17 @@ Engenharia de Software - Software Engineering
 20221018120000
 20221018133000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221214193000
-20221214210000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221019200000
-20221019213000
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221107110000
+20221107123000
  
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230510133000
 20230510150000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230331070000
+20230331083000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230323143000
@@ -554,13 +530,13 @@ Modulação e Codificação - Modulation and Coding
 20220919133000
 20220919150000
  
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221205110000
+20221205123000
+ 
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221003150000
 20221003163000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20220930170000
-20220930183000
  
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230207143000
@@ -598,21 +574,21 @@ Engenharia de Software - Software Engineering
 20221115100000
 20221115113000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221123193000
-20221123210000
- 
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230308160000
 20230308173000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20220914183000
-20220914200000
- 
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230328120000
 20230328133000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221024083000
+20221024100000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20220912100000
+20220912113000
  
 Segurança e Gestão de Redes - Network Security and Management
 20230314160000
@@ -621,6 +597,10 @@ Segurança e Gestão de Redes - Network Security and Management
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230517133000
 20230517150000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221024100000
+20221024113000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230316160000
@@ -650,6 +630,10 @@ Modulação e Codificação - Modulation and Coding
 20221115143000
 20221115160000
  
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230224080000
+20230224093000
+ 
 Segurança e Gestão de Redes - Network Security and Management
 20230331150000
 20230331163000
@@ -665,10 +649,6 @@ Arquitetura de Redes - Network Arquitectures
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221114160000
 20221114173000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230516170000
-20230516183000
  
 Modulação e Codificação - Modulation and Coding
 20220913150000
@@ -706,6 +686,10 @@ Modulação e Codificação - Modulation and Coding
 20221129143000
 20221129160000
  
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20220912083000
+20220912100000
+ 
 Engenharia de Software - Software Engineering
 20220915120000
 20220915133000
@@ -734,9 +718,13 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221123143000
 20221123160000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20220921200000
-20220921213000
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20220926100000
+20220926113000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230421070000
+20230421083000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230511133000
@@ -750,6 +738,14 @@ Modulação e Codificação - Modulation and Coding
 20221025133000
 20221025150000
  
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230419083000
+20230419100000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221017100000
+20221017113000
+ 
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230302143000
 20230302160000
@@ -758,17 +754,13 @@ Segurança e Gestão de Redes - Network Security and Management
 20230313130000
 20230313143000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230509170000
-20230509183000
- 
 Segurança e Gestão de Redes - Network Security and Management
 20230310160000
 20230310173000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230314180000
-20230314193000
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221031093000
+20221031110000
  
 Modulação e Codificação - Modulation and Coding
 20221122143000
@@ -777,10 +769,6 @@ Modulação e Codificação - Modulation and Coding
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221130143000
 20221130160000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230208180000
-20230208193000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230302160000
@@ -798,10 +786,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230314130000
 20230314143000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221109193000
-20221109210000
- 
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230322143000
 20230322160000
@@ -814,10 +798,6 @@ Engenharia de Software - Software Engineering
 20221117143000
 20221117160000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230308180000
-20230308193000
- 
 Modulação e Codificação - Modulation and Coding
 20221108143000
 20221108160000
@@ -826,21 +806,25 @@ Modulação e Codificação - Modulation and Coding
 20221103110000
 20221103123000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221130210000
-20221130223000
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221121110000
+20221121123000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230503083000
+20230503100000
  
 Segurança e Gestão de Redes - Network Security and Management
 20230508120000
 20230508133000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230315180000
-20230315193000
- 
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230209143000
 20230209160000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230510100000
+20230510113000
  
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230306160000
@@ -849,6 +833,14 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230327133000
 20230327150000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230317080000
+20230317093000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230510083000
+20230510100000
  
 Arquitetura de Redes - Network Arquitectures
 20221020150000
@@ -866,13 +858,9 @@ Segurança e Gestão de Redes - Network Security and Management
 20230206130000
 20230206143000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221123210000
-20221123223000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20220916170000
-20220916183000
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230315110000
+20230315123000
  
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230228130000
@@ -898,10 +886,6 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20220914120000
 20220914133000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221130193000
-20221130210000
- 
 Segurança e Gestão de Redes - Network Security and Management
 20230417120000
 20230417133000
@@ -911,8 +895,8 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230216173000
  
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230215180000
-20230215193000
+20230310080000
+20230310093000
  
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230522150000
@@ -926,10 +910,6 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221214130000
 20221214143000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20220928200000
-20220928213000
- 
 Arquitetura de Redes - Network Arquitectures
 20221024120000
 20221024133000
@@ -937,10 +917,6 @@ Arquitetura de Redes - Network Arquitectures
 Arquitetura de Redes - Network Arquitectures
 20220929150000
 20220929163000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230418170000
-20230418183000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230504133000
@@ -954,41 +930,29 @@ Arquitetura de Redes - Network Arquitectures
 20221109160000
 20221109173000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230329170000
-20230329183000
- 
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230419150000
 20230419163000
  
 Engenharia de Software - Software Engineering
-20221025120000
-20221025133000
- 
-Engenharia de Software - Software Engineering
 20221117130000
 20221117143000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221202180000
-20221202193000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221214210000
-20221214223000
+Engenharia de Software - Software Engineering
+20221025120000
+20221025133000
  
 Modulação e Codificação - Modulation and Coding
 20220913133000
 20220913150000
  
 Arquitetura de Redes - Network Arquitectures
-20221012150000
-20221012163000
- 
-Arquitetura de Redes - Network Arquitectures
 20220919120000
 20220919133000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221012150000
+20221012163000
  
 Arquitetura de Redes - Network Arquitectures
 20221003120000
@@ -1006,13 +970,9 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230309160000
 20230309173000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221209180000
-20221209193000
- 
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230503183000
-20230503200000
+20230505070000
+20230505083000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230309143000
@@ -1050,10 +1010,6 @@ Arquitetura de Redes - Network Arquitectures
 20221013150000
 20221013163000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230207180000
-20230207193000
- 
 Engenharia de Software - Software Engineering
 20221020120000
 20221020133000
@@ -1061,6 +1017,10 @@ Engenharia de Software - Software Engineering
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230420133000
 20230420150000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221107093000
+20221107110000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230427133000
@@ -1075,8 +1035,8 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221012113000
  
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230215193000
-20230215210000
+20230324080000
+20230324093000
  
 Engenharia de Software - Software Engineering
 20221013133000
@@ -1118,17 +1078,9 @@ Engenharia de Software - Software Engineering
 20221206130000
 20221206143000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20220914200000
-20220914213000
- 
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221019120000
 20221019133000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221026183000
-20221026200000
  
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230206143000
@@ -1138,9 +1090,9 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230424150000
 20230424163000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221021170000
-20221021183000
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230329100000
+20230329113000
  
 Modulação e Codificação - Modulation and Coding
 20221004150000
@@ -1150,6 +1102,10 @@ Arquitetura de Redes - Network Arquitectures
 20221102160000
 20221102173000
  
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230428070000
+20230428083000
+ 
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230308143000
 20230308160000
@@ -1157,6 +1113,10 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 Modulação e Codificação - Modulation and Coding
 20221017133000
 20221017150000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230308110000
+20230308123000
  
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230502120000
@@ -1173,6 +1133,10 @@ Modulação e Codificação - Modulation and Coding
 Modulação e Codificação - Modulation and Coding
 20220930083000
 20220930100000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230322093000
+20230322110000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230324143000
@@ -1202,10 +1166,6 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221130130000
 20221130143000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230208193000
-20230208210000
- 
 Engenharia de Software - Software Engineering
 20221108130000
 20221108143000
@@ -1214,21 +1174,17 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230320160000
 20230320173000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20220921183000
-20220921200000
- 
 Modulação e Codificação - Modulation and Coding
 20220920150000
 20220920163000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221102210000
-20221102223000
- 
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230321130000
 20230321143000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230208093000
+20230208110000
  
 Engenharia de Software - Software Engineering
 20220922120000
@@ -1262,21 +1218,9 @@ Arquitetura de Redes - Network Arquitectures
 20221130160000
 20221130173000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230419183000
-20230419200000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20220923170000
-20220923183000
- 
 Arquitetura de Redes - Network Arquitectures
 20221006150000
 20221006163000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230307180000
-20230307193000
  
 Arquitetura de Redes - Network Arquitectures
 20221128130000
@@ -1298,25 +1242,33 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230421133000
 20230421150000
  
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20220926083000
+20220926100000
+ 
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230307130000
 20230307143000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230329083000
+20230329100000
  
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221026133000
 20221026150000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221207193000
-20221207210000
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221010083000
+20221010100000
  
 Engenharia de Software - Software Engineering
 20221027133000
 20221027150000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221012200000
-20221012213000
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230217080000
+20230217093000
  
 Modulação e Codificação - Modulation and Coding
 20221206160000
@@ -1330,10 +1282,6 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230329133000
 20230329150000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230228180000
-20230228193000
- 
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230227143000
 20230227160000
@@ -1341,6 +1289,10 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221207143000
 20221207160000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221114093000
+20221114110000
  
 Segurança e Gestão de Redes - Network Security and Management
 20230320130000
@@ -1350,17 +1302,17 @@ Modulação e Codificação - Modulation and Coding
 20221103093000
 20221103110000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221104180000
-20221104193000
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230517083000
+20230517100000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230301110000
+20230301123000
  
 Arquitetura de Redes - Network Arquitectures
 20221114130000
 20221114143000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221102193000
-20221102210000
  
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221109143000
@@ -1374,33 +1326,29 @@ Arquitetura de Redes - Network Arquitectures
 20221031130000
 20221031143000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230308193000
-20230308210000
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20220919100000
+20220919113000
  
 Arquitetura de Redes - Network Arquitectures
 20221006150000
 20221006163000
  
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230412183000
-20230412200000
+20230426100000
+20230426113000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221128110000
+20221128123000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230511150000
 20230511163000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221026200000
-20221026213000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221123173000
-20221123190000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221125180000
-20221125193000
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230215093000
+20230215110000
  
 Segurança e Gestão de Redes - Network Security and Management
 20230207160000
@@ -1417,6 +1365,10 @@ Arquitetura de Redes - Network Arquitectures
 Arquitetura de Redes - Network Arquitectures
 20220921150000
 20220921163000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
+20221031110000
+20221031123000
  
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230426150000
@@ -1442,17 +1394,9 @@ Arquitetura de Redes - Network Arquitectures
 20220928150000
 20220928163000
  
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230411170000
-20230411183000
- 
 Modulação e Codificação - Modulation and Coding
 20221025150000
 20221025163000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230502170000
-20230502183000
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230209160000
@@ -1461,14 +1405,6 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230424133000
 20230424150000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221207210000
-20221207223000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221019183000
-20221019200000
  
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230215143000
@@ -1498,13 +1434,21 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221107160000
 20221107173000
  
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230210080000
+20230210093000
+ 
 Segurança e Gestão de Redes - Network Security and Management
 20230317160000
 20230317173000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
-20221007170000
-20221007183000
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230303080000
+20230303093000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230208110000
+20230208123000
  
 Engenharia de Software - Software Engineering
 20221115130000
@@ -1513,10 +1457,6 @@ Engenharia de Software - Software Engineering
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20220928120000
 20220928133000
- 
-Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
-20230426170000
-20230426183000
  
 Engenharia de Software - Software Engineering
 20221214130000
@@ -1582,18 +1522,6 @@ Engenharia de Software - Software Engineering - Exame
 20230117080000
 20230117110000
  
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction - Exame
-20230711140000
-20230711170000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction - Exame
-20230124150000
-20230124180000
- 
-Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction - Exame
-20230110080000
-20230110110000
- 
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project - Exame
 20230612070000
 20230612100000
@@ -1657,4 +1585,16 @@ Electrónica Programada e Processamento Digital de Sinais -Programmable Electron
 Electrónica Programada e Processamento Digital de Sinais -Programmable Electronics and Digital Signal Processing - Exame
 20230124150000
 20230124180000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação- Management of Information System Projects - Exame
+20230104183000
+20230104213000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação- Management of Information System Projects - Exame
+20230710173000
+20230710203000
+ 
+Gestão de Projectos de Tecnologia e Sistemas de Informação- Management of Information System Projects - Exame
+20230123183000
+20230123213000
  

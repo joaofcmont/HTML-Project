@@ -31,6 +31,7 @@ import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 
 import org.bson.BsonDocument;
+import org.bson.conversions.Bson;
 import org.bson.json.JsonObject;
 import org.springframework.dao.DataAccessException;
 import org.springframework.data.mongodb.core.CollectionCallback;
@@ -43,6 +44,7 @@ import com.google.gson.JsonSyntaxException;
 import com.itextpdf.text.Document;
 import com.itextpdf.text.PageSize;
 import com.itextpdf.text.pdf.PdfWriter;
+import com.mongodb.DBCursor;
 import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCursor;
 
@@ -51,16 +53,30 @@ public class Main {
 
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
 
-		Parser p= new Parser();
-		p.parser();
 		ToJson js= new ToJson();
-		js.paraJson();
-
+		Parser p= new Parser();
+		
 		ConnectToDB db= new ConnectToDB();
+		
+		for(int i=0;i<5; i++) {
+			db.database.createCollection("user"+i);
+		}
+		
+		
+		FindIterable<org.bson.Document> findIterable = db.user1.find();
+		for (org.bson.Document document : findIterable) {
+			db.user1.deleteMany(document);
+		}	
+		
 		org.bson.Document d=org.bson.Document.parse(js.paraJson());
 		db.user1.insertOne(d);
+		
+		p.parser();
+		js.paraJson();
 
-	
+		
+
+
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
@@ -74,9 +90,6 @@ public class Main {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
-
-
 
 		ArrayList<CalendarEvent> calEvents = new ArrayList<CalendarEvent>();
 

@@ -35,9 +35,8 @@ public class ConnectToDB {
 
 	//acessar base de dados
 	MongoDatabase database=client.getDatabase("ESProjectDB");
-
+	
 	//acessar a minha coleção
-	MongoCollection<Document> col= database.getCollection("ESProjectCollection");
 	MongoCollection<Document> col_links= database.getCollection("links");		
 	MongoCollection<Document> user1= database.getCollection("user1");
 	MongoCollection<Document> user2= database.getCollection("user2");
@@ -45,6 +44,7 @@ public class ConnectToDB {
 	MongoCollection<Document> user4= database.getCollection("user4");
 
 
+	
 
 }
 
