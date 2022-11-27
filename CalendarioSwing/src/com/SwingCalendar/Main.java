@@ -23,6 +23,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.SwingUtilities;
 import javax.swing.WindowConstants;
 
 import com.google.gson.Gson;
@@ -43,7 +44,7 @@ public class Main {
 		p.parser();
 		ToJson js= new ToJson();
 		js.paraJson();
-		ImportJsonService j= new ImportJsonService();
+		ImportJsonService j = new ImportJsonService();
 
 		ConnectToDB db= new ConnectToDB();
 
@@ -164,13 +165,21 @@ public class Main {
 				 String filename= "links.txt";
 				    FileWriter fw = new FileWriter(filename,true); //the true will append the new data
 				    fw.write("\n" + link);
-				    p.parser();
-					js.paraJson();
+//				    p.parser();
+//					js.paraJson();
 				    fw.close();
+				    
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}
+			
+//			SwingUtilities.updateComponentTreeUI(frm);	
+//		    frm.invalidate();
+//		    frm.validate();
+		    frm.repaint();
 		});
+		
+		
 
 		JPanel weekControls = new JPanel();
 		weekControls.add(prevMonthBtn);
