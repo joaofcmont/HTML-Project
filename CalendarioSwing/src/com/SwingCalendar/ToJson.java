@@ -24,7 +24,7 @@ public class ToJson {
 		Eventos eventos = new Eventos();
 		eventos.setListaEventos(listaEventos());
 
-		FindIterable<org.bson.Document> cursor = db.user1.find();
+		FindIterable<org.bson.Document> cursor = db.user.find();
 		MongoCursor<org.bson.Document> iterator = cursor.iterator(); 
 
 			try (FileWriter writer = new FileWriter("agenda.json")) {

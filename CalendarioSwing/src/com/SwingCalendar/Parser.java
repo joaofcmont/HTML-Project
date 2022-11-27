@@ -3,6 +3,7 @@ import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
 
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.net.URL;
@@ -18,6 +19,20 @@ import java.time.format.DateTimeFormatter;
 
 public class Parser{
 
+	public String readFile(File file) throws FileNotFoundException {
+		String webcal = null;
+		if(file.exists() && !file.isDirectory()) { 
+			Scanner	scanner = new Scanner(file);
+			while (scanner.hasNextLine()) 
+			{	
+				webcal = scanner.nextLine();
+				webcal  = webcal.replace("webcal:", "https:");
+			}
+		}
+		return webcal;
+	}
+
+
 	public void parser() throws IOException {
 
 		File myObj = new File("links.txt");
@@ -27,6 +42,7 @@ public class Parser{
 			{	
 				String webcal = scanner.nextLine();
 				webcal  = webcal.replace("webcal:", "https:");
+
 				//cria um objecto do tipo URL baseado na string que damos
 				URL url = new URL(webcal);
 				//copia para um ficheiro o que o link nos dÃ¡, ics file 
