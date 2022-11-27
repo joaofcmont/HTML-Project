@@ -46,7 +46,11 @@ import com.itextpdf.text.PageSize;
 import com.itextpdf.text.pdf.PdfWriter;
 import com.mongodb.DBCursor;
 import com.mongodb.client.FindIterable;
+import com.mongodb.client.MongoClient;
+import com.mongodb.client.MongoClients;
+import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoCursor;
+import com.mongodb.client.MongoDatabase;
 
 
 public class Main {
@@ -55,27 +59,30 @@ public class Main {
 
 		ToJson js= new ToJson();
 		Parser p= new Parser();
+
+
+		ConnectToDB db = new ConnectToDB();
 		
-		ConnectToDB db= new ConnectToDB();
+
+		p.parser();
 		
-		for(int i=0;i<5; i++) {
-			db.database.createCollection("user"+i);
+
+		
+		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains(db.username);
+		
+		if(!collectionExists) {
+		db.database.createCollection(db.username);
 		}
 		
-		
-		FindIterable<org.bson.Document> findIterable = db.user1.find();
+		FindIterable<org.bson.Document> findIterable = db.user.find();
 		for (org.bson.Document document : findIterable) {
-			db.user1.deleteMany(document);
-		}	
+			db.user.deleteMany(document);
+		}
 		
 		org.bson.Document d=org.bson.Document.parse(js.paraJson());
-		db.user1.insertOne(d);
+		db.user.insertOne(d);
 		
-		p.parser();
 		js.paraJson();
-
-		
-
 
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
@@ -83,7 +90,6 @@ public class Main {
 		Eventos evento = null;
 
 		try (Reader reader = new FileReader("agenda.json")) {
-
 			// Convert JSON File to Java Object
 			evento = gson.fromJson(reader, Eventos.class);
 
