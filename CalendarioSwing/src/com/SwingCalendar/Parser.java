@@ -22,7 +22,7 @@ public class Parser{
 		webcal  = webcal.replace("webcal:", "https:");
 		//cria um objecto do tipo URL baseado na string que damos
 		URL url = new URL(webcal);
-		//copia para um ficheiro o que o link nos dÃ¡, ics file 
+		//copia para um ficheiro o que o link nos dão, ics file 
 		Files.copy(url.openStream(), Paths.get("webcal.txt"), REPLACE_EXISTING);
 
 		
