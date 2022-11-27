@@ -1,5 +1,6 @@
 package com.SwingCalendar;
 import java.awt.BorderLayout;
+import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.Image;
 import java.awt.image.BufferedImage;
@@ -9,12 +10,12 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
-import java.io.StringWriter;
+
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.Iterator;
+
 import java.util.List;
 import java.util.TimeZone;
 
@@ -23,20 +24,8 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-import javax.swing.SwingUtilities;
-import javax.swing.WindowConstants;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerException;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
 
-import org.bson.BsonDocument;
-import org.bson.conversions.Bson;
-import org.bson.json.JsonObject;
-import org.springframework.dao.DataAccessException;
-import org.springframework.data.mongodb.core.CollectionCallback;
-import org.w3c.dom.Node;
+import javax.swing.WindowConstants;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -45,49 +34,33 @@ import com.google.gson.JsonSyntaxException;
 import com.itextpdf.text.Document;
 import com.itextpdf.text.PageSize;
 import com.itextpdf.text.pdf.PdfWriter;
-import com.mongodb.DBCursor;
+
 import com.mongodb.client.FindIterable;
-import com.mongodb.client.MongoClient;
-import com.mongodb.client.MongoClients;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoCursor;
-import com.mongodb.client.MongoDatabase;
 
 
 public class Main {
 
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
 
-		ToJson js= new ToJson();
-<<<<<<< HEAD
-		js.paraJson();
-		ImportJsonService j = new ImportJsonService();
-=======
-		Parser p= new Parser();
->>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
-
-
 		ConnectToDB db = new ConnectToDB();
+		Parser p= new Parser();
+		ToJson js= new ToJson();
 		
 
-		p.parser();
-		
+		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains("Eventos");
 
-		
-		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains(db.username);
-		
 		if(!collectionExists) {
-		db.database.createCollection(db.username);
+			db.database.createCollection("Eventos");
 		}
-		
-		FindIterable<org.bson.Document> findIterable = db.user.find();
+
+		FindIterable<org.bson.Document> findIterable = js.getUser().find();
 		for (org.bson.Document document : findIterable) {
-			db.user.deleteMany(document);
+			js.getUser().deleteMany(document);
 		}
-		
+
 		org.bson.Document d=org.bson.Document.parse(js.paraJson());
-		db.user.insertOne(d);
-		
+		js.getUser().insertOne(d);
+
 		js.paraJson();
 
 		JFrame frm = new JFrame();
@@ -115,7 +88,6 @@ public class Main {
 
 			int startHour = Integer.parseInt(ev.getDateStart().substring(8, 10));
 			int startMin = Integer.parseInt(ev.getDateStart().substring(10, 12));
-
 			int endHour = Integer.parseInt(ev.getDateEnd().substring(8, 10));
 			int endMin = Integer.parseInt(ev.getDateEnd().substring(10, 12));
 
@@ -123,10 +95,20 @@ public class Main {
 				startHour += 1;
 				endHour += 1;
 			}
-
-			calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
-					LocalTime.of(startHour, startMin), 
-					LocalTime.of(endHour, endMin),pt));
+			System.out.println(ev.getUsername());
+			if(ev.getUsername().equals("dfsaa1")) {
+				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
+						LocalTime.of(startHour, startMin), 
+						LocalTime.of(endHour, endMin),pt,Color.BLUE));
+			}else if(ev.getUsername().equals("jfcmo1")){
+				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
+						LocalTime.of(startHour, startMin), 
+						LocalTime.of(endHour, endMin),pt,Color.GREEN));
+			}else if(ev.getUsername().equals("mpclq")) {
+				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
+						LocalTime.of(startHour, startMin), 
+						LocalTime.of(endHour, endMin),pt,Color.ORANGE));
+			}
 		}
 
 		WeekCalendar cal = new WeekCalendar(calEvents);
@@ -158,7 +140,7 @@ public class Main {
 				int minutoFim = Integer.parseInt(horaFimEvento[1]);
 				String descricao = JOptionPane.showInputDialog(frame, "Descrição do evento:");
 				String descricaoEvento = descricao;
-				calEvents.add(new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricaoEvento));
+				//calEvents.add(new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricaoEvento));
 				cal.setEvents(calEvents);	
 
 
@@ -201,33 +183,16 @@ public class Main {
 			// Writing into the file
 			try {
 				// Reading the content of the file
-<<<<<<< HEAD
-				 String filename= "links.txt";
-				    FileWriter fw = new FileWriter(filename,true); //the true will append the new data
-				    fw.write("\n" + link);
-//				    p.parser();
-//					js.paraJson();
-				    fw.close();
-				    
-=======
 				String filename= "links.txt";
 				FileWriter fw = new FileWriter(filename,true); //the true will append the new data
 				p.parser();
 				fw.write("\n" + link);
 				fw.close();
 
->>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}
-			
-//			SwingUtilities.updateComponentTreeUI(frm);	
-//		    frm.invalidate();
-//		    frm.validate();
-		    frm.repaint();
 		});
-		
-		
 
 		JPanel weekControls = new JPanel();
 		weekControls.add(prevMonthBtn);

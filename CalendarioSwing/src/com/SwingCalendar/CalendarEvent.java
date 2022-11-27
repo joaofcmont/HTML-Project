@@ -6,17 +6,11 @@ import java.time.LocalTime;
 
 public class CalendarEvent {
 
-	private static final Color DEFAULT_COLOR = Color.PINK;
-
 	private LocalDate date;
 	private LocalTime start;
 	private LocalTime end;
 	private String text;
 	private Color color;
-
-	public CalendarEvent(LocalDate date, LocalTime start, LocalTime end, String text) {
-		this(date, start, end, text, DEFAULT_COLOR);
-	}
 
 	public CalendarEvent(LocalDate date, LocalTime start, LocalTime end, String text, Color color) {
 		this.date = date;
