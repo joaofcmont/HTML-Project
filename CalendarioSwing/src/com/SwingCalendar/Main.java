@@ -9,12 +9,12 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
-import java.nio.file.Files;
-import java.nio.file.Path;
+import java.io.StringWriter;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.Iterator;
 import java.util.List;
 import java.util.TimeZone;
 
@@ -25,6 +25,18 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 import javax.swing.WindowConstants;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
+
+import org.bson.BsonDocument;
+import org.bson.conversions.Bson;
+import org.bson.json.JsonObject;
+import org.springframework.dao.DataAccessException;
+import org.springframework.data.mongodb.core.CollectionCallback;
+import org.w3c.dom.Node;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -33,20 +45,50 @@ import com.google.gson.JsonSyntaxException;
 import com.itextpdf.text.Document;
 import com.itextpdf.text.PageSize;
 import com.itextpdf.text.pdf.PdfWriter;
+import com.mongodb.DBCursor;
+import com.mongodb.client.FindIterable;
+import com.mongodb.client.MongoClient;
+import com.mongodb.client.MongoClients;
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoCursor;
+import com.mongodb.client.MongoDatabase;
 
 
 public class Main {
 
-
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
 
-		Parser p= new Parser();
-		p.parser();
 		ToJson js= new ToJson();
+<<<<<<< HEAD
 		js.paraJson();
 		ImportJsonService j = new ImportJsonService();
+=======
+		Parser p= new Parser();
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 
-		ConnectToDB db= new ConnectToDB();
+
+		ConnectToDB db = new ConnectToDB();
+		
+
+		p.parser();
+		
+
+		
+		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains(db.username);
+		
+		if(!collectionExists) {
+		db.database.createCollection(db.username);
+		}
+		
+		FindIterable<org.bson.Document> findIterable = db.user.find();
+		for (org.bson.Document document : findIterable) {
+			db.user.deleteMany(document);
+		}
+		
+		org.bson.Document d=org.bson.Document.parse(js.paraJson());
+		db.user.insertOne(d);
+		
+		js.paraJson();
 
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
@@ -54,7 +96,6 @@ public class Main {
 		Eventos evento = null;
 
 		try (Reader reader = new FileReader("agenda.json")) {
-
 			// Convert JSON File to Java Object
 			evento = gson.fromJson(reader, Eventos.class);
 
@@ -119,11 +160,7 @@ public class Main {
 				String descricaoEvento = descricao;
 				calEvents.add(new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricaoEvento));
 				cal.setEvents(calEvents);	
-				String jsonStr ="{ chair:"+new Gson().toJson(descricaoEvento)+"}\n"+
-						"{dateStart:" + e.getDateTime().toString()+ "}\n" + "{ dateEnd:" + horasFim.toString()+"}";
-				System.out.println(jsonStr);
-				List<String> lista= ImportJsonService.lines(jsonStr);
-				ImportJsonService.importTo("ESProjectCollection", lista);
+
 
 			});
 
@@ -159,9 +196,12 @@ public class Main {
 		addCalendar.addActionListener(e -> { 
 			JFrame frame = new JFrame();
 			String link = JOptionPane.showInputDialog(frame, "Link do calendário:");
+			List<String> lista_links = new ArrayList<>();
+			lista_links.add(link);
 			// Writing into the file
 			try {
 				// Reading the content of the file
+<<<<<<< HEAD
 				 String filename= "links.txt";
 				    FileWriter fw = new FileWriter(filename,true); //the true will append the new data
 				    fw.write("\n" + link);
@@ -169,6 +209,14 @@ public class Main {
 //					js.paraJson();
 				    fw.close();
 				    
+=======
+				String filename= "links.txt";
+				FileWriter fw = new FileWriter(filename,true); //the true will append the new data
+				p.parser();
+				fw.write("\n" + link);
+				fw.close();
+
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}

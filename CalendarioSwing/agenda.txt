@@ -1,19 +1,1199 @@
+<<<<<<< HEAD
+=======
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230301193000
+20230301210000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221118180000
+20221118193000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230510150000
+20230510163000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221109210000
+20221109223000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230213130000
+20230213143000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221012120000
+20221012133000
+ 
+Modulação e Codificação - Modulation and Coding
+20221004133000
+20221004150000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230328170000
+20230328183000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230322160000
+20230322173000
+ 
+Modulação e Codificação - Modulation and Coding
+20221128143000
+20221128160000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230512133000
+20230512150000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220919150000
+20220919163000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230316160000
+20230316173000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221215160000
+20221215173000
+ 
+Engenharia de Software - Software Engineering
+20221027120000
+20221027133000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230214143000
+20230214160000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230322180000
+20230322193000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230306143000
+20230306160000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221214160000
+20221214173000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220926150000
+20220926163000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230517133000
+20230517150000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230214180000
+20230214193000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230301143000
+20230301160000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230428133000
+20230428150000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230214160000
+20230214173000
+ 
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230417150000
 20230417163000
  
+<<<<<<< HEAD
+=======
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230515150000
+20230515163000
+ 
+Modulação e Codificação - Modulation and Coding
+20220920133000
+20220920150000
+ 
+Modulação e Codificação - Modulation and Coding
+20221024133000
+20221024150000
+ 
+Modulação e Codificação - Modulation and Coding
+20221003133000
+20221003150000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221103160000
+20221103173000
+ 
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230412170000
+20230412183000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220912150000
+20220912163000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230510133000
+20230510150000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230522120000
+20230522133000
+ 
+Engenharia de Software - Software Engineering
+20220920120000
+20220920133000
+ 
+Engenharia de Software - Software Engineering
+20221214143000
+20221214160000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230314130000
+20230314143000
+ 
+Engenharia de Software - Software Engineering
+20221011120000
+20221011133000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230302160000
+20230302173000
+ 
+Modulação e Codificação - Modulation and Coding
+20221206143000
+20221206160000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230315160000
+20230315173000
+ 
+Engenharia de Software - Software Engineering
+20221129130000
+20221129143000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230315193000
+20230315210000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230307130000
+20230307143000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221207130000
+20221207143000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220920100000
+20220920113000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230228160000
+20230228173000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221116143000
+20221116160000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230301160000
+20230301173000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230313160000
+20230313173000
+ 
+Modulação e Codificação - Modulation and Coding
+20221122160000
+20221122173000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230215160000
+20230215173000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230426183000
+20230426200000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230328120000
+20230328133000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221212160000
+20221212173000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221128130000
+20221128143000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230419170000
+20230419183000
+ 
+Engenharia de Software - Software Engineering
+20221110143000
+20221110160000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230224160000
+20230224173000
+ 
+Arquitetura de Redes - Network Arquitectures
+20220912120000
+20220912133000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221012183000
+20221012200000
+ 
+Engenharia de Software - Software Engineering
+20221103143000
+20221103160000
+ 
+Engenharia de Software - Software Engineering
+20221103103000
+20221103120000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221116193000
+20221116210000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230504150000
+20230504163000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220921120000
+20220921133000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221128160000
+20221128173000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221111180000
+20221111193000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230327120000
+20230327133000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221024150000
+20221024163000
+ 
+Engenharia de Software - Software Engineering
+20221013133000
+20221013150000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20220928183000
+20220928200000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230321160000
+20230321173000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221124160000
+20221124173000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230424120000
+20230424133000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230510183000
+20230510200000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221028170000
+20221028183000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230301180000
+20230301193000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230206160000
+20230206173000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230420150000
+20230420163000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221017120000
+20221017133000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221116210000
+20221116223000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230512150000
+20230512163000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230330133000
+20230330150000
+ 
+Modulação e Codificação - Modulation and Coding
+20221115143000
+20221115160000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230317143000
+20230317160000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230508150000
+20230508163000
+ 
+Arquitetura de Redes - Network Arquitectures
+20220928150000
+20220928163000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230331133000
+20230331150000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230428150000
+20230428163000
+ 
+Engenharia de Software - Software Engineering
+20221124130000
+20221124143000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221123160000
+20221123173000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221116160000
+20221116173000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221107130000
+20221107143000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230510170000
+20230510183000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230313143000
+20230313160000
+ 
+Modulação e Codificação - Modulation and Coding
+20221107143000
+20221107160000
+ 
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+<<<<<<< HEAD
 20230331070000
 20230331083000
  
 Segurança e Gestão de Redes - Network Security and Management
 20230331150000
 20230331163000
+=======
+20230329183000
+20230329200000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230322193000
+20230322210000
+ 
+Engenharia de Software - Software Engineering
+20221124143000
+20221124160000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230503170000
+20230503183000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230524133000
+20230524150000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221014170000
+20221014183000
+ 
+Engenharia de Software - Software Engineering
+20220913120000
+20220913133000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230321180000
+20230321193000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230508133000
+20230508150000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230215143000
+20230215160000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221216180000
+20221216193000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230310143000
+20230310160000
+ 
+Engenharia de Software - Software Engineering
+20220927120000
+20220927133000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230505150000
+20230505163000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230427150000
+20230427163000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230417133000
+20230417150000
+ 
+Modulação e Codificação - Modulation and Coding
+20221108160000
+20221108173000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230314143000
+20230314160000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230324160000
+20230324173000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221010120000
+20221010133000
+ 
+Engenharia de Software - Software Engineering
+20221018120000
+20221018133000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221214193000
+20221214210000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230511150000
+20230511163000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221019200000
+20221019213000
+ 
+Modulação e Codificação - Modulation and Coding
+20220919133000
+20220919150000
+ 
+Engenharia de Software - Software Engineering
+20220915133000
+20220915150000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221003150000
+20221003163000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20220930170000
+20220930183000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221214143000
+20221214160000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230213160000
+20230213173000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230303160000
+20230303173000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221026120000
+20221026133000
+ 
+Engenharia de Software - Software Engineering
+20221115100000
+20221115113000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221123193000
+20221123210000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20220914183000
+20220914200000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230516133000
+20230516150000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230523133000
+20230523150000
+ 
+Engenharia de Software - Software Engineering
+20220915120000
+20220915133000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230330150000
+20230330163000
+ 
+Arquitetura de Redes - Network Arquitectures
+20220921150000
+20220921163000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230308143000
+20230308160000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221026150000
+20221026163000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230320143000
+20230320160000
+ 
+Modulação e Codificação - Modulation and Coding
+20221011133000
+20221011150000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230214130000
+20230214143000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221205130000
+20221205143000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221026133000
+20221026150000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220921133000
+20220921150000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230216143000
+20230216160000
+ 
+Engenharia de Software - Software Engineering
+20220922133000
+20220922150000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230331150000
+20230331163000
+ 
+Engenharia de Software - Software Engineering
+20221110130000
+20221110143000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221027150000
+20221027163000
+ 
+Arquitetura de Redes - Network Arquitectures
+20220915150000
+20220915163000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230209143000
+20230209160000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221114160000
+20221114173000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230516170000
+20230516183000
+ 
+Modulação e Codificação - Modulation and Coding
+20221114143000
+20221114160000
+ 
+Modulação e Codificação - Modulation and Coding
+20220926133000
+20220926150000
+ 
+Modulação e Codificação - Modulation and Coding
+20221103110000
+20221103123000
+ 
+Modulação e Codificação - Modulation and Coding
+20220930083000
+20220930100000
+ 
+Engenharia de Software - Software Engineering
+20221020133000
+20221020150000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221109130000
+20221109143000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230315143000
+20230315160000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221207160000
+20221207173000
+ 
+Engenharia de Software - Software Engineering
+20220915120000
+20220915133000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230308160000
+20230308173000
+ 
+Modulação e Codificação - Modulation and Coding
+20221129160000
+20221129173000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220928133000
+20220928150000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230217160000
+20230217173000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230515120000
+20230515133000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221031160000
+20221031173000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230421150000
+20230421163000
+ 
+Engenharia de Software - Software Engineering
+20220929133000
+20220929150000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221019133000
+20221019150000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221123143000
+20221123160000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20220921200000
+20220921213000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230313130000
+20230313143000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230509170000
+20230509183000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230310160000
+20230310173000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230314180000
+20230314193000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230208180000
+20230208193000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221109193000
+20221109210000
+ 
+Engenharia de Software - Software Engineering
+20221117143000
+20221117160000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230419133000
+20230419150000
+ 
+Engenharia de Software - Software Engineering
+20220922120000
+20220922133000
+ 
+Modulação e Codificação - Modulation and Coding
+20221115160000
+20221115173000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230308180000
+20230308193000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221109143000
+20221109160000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221130210000
+20221130223000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230508120000
+20230508133000
+ 
+Modulação e Codificação - Modulation and Coding
+20221004150000
+20221004163000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221207143000
+20221207160000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230315180000
+20230315193000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230502120000
+20230502133000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230306160000
+20230306173000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230327133000
+20230327150000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230322143000
+20230322160000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230323143000
+20230323160000
+ 
+Engenharia de Software - Software Engineering
+20220929120000
+20220929133000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221020150000
+20221020163000
+ 
+Arquitetura de Redes - Network Arquitectures
+20220926120000
+20220926133000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230511133000
+20230511150000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230517150000
+20230517163000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230206130000
+20230206143000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230307143000
+20230307160000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221123210000
+20221123223000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20220916170000
+20220916183000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230217143000
+20230217160000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230419150000
+20230419163000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220914120000
+20220914133000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221130193000
+20221130210000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230417120000
+20230417133000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230215180000
+20230215193000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230516120000
+20230516133000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230522150000
+20230522163000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221121160000
+20221121173000
+ 
+Modulação e Codificação - Modulation and Coding
+20220927133000
+20220927150000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221214130000
+20221214143000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20220928200000
+20220928213000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230509150000
+20230509163000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221102143000
+20221102160000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221024120000
+20221024133000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230418120000
+20230418133000
+ 
+Arquitetura de Redes - Network Arquitectures
+20220929150000
+20220929163000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230418170000
+20230418183000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221109160000
+20221109173000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230504133000
+20230504150000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230329170000
+20230329183000
+ 
+Engenharia de Software - Software Engineering
+20221025120000
+20221025133000
+ 
+Engenharia de Software - Software Engineering
+20221117130000
+20221117143000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221202180000
+20221202193000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230309143000
+20230309160000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221214210000
+20221214223000
+ 
+Arquitetura de Redes - Network Arquitectures
+20220919120000
+20220919133000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221003120000
+20221003133000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230227130000
+20230227143000
+ 
+Arquitetura de Redes - Network Arquitectures
+20220922150000
+20220922163000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221209180000
+20221209193000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230503183000
+20230503200000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230210143000
+20230210160000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230210160000
+20230210173000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221012100000
+20221012113000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230329133000
+20230329150000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230207143000
+20230207160000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230207160000
+20230207173000
+ 
+Modulação e Codificação - Modulation and Coding
+20220912133000
+20220912150000
+ 
+Engenharia de Software - Software Engineering
+20221215143000
+20221215160000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230213143000
+20230213160000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221013150000
+20221013163000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230207180000
+20230207193000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230502150000
+20230502163000
+ 
+Engenharia de Software - Software Engineering
+20221006120000
+20221006133000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230224143000
+20230224160000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230215193000
+20230215210000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221116130000
+20221116143000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230327150000
+20230327163000
+ 
+Engenharia de Software - Software Engineering
+20221103130000
+20221103143000
+ 
+Modulação e Codificação - Modulation and Coding
+20221025150000
+20221025163000
+ 
+Modulação e Codificação - Modulation and Coding
+20221129143000
+20221129160000
+ 
+Engenharia de Software - Software Engineering
+20221020120000
+20221020133000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230329150000
+20230329163000
+ 
+Modulação e Codificação - Modulation and Coding
+20221018150000
+20221018163000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230515133000
+20230515150000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221123130000
+20221123143000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221121130000
+20221121143000
+ 
+Engenharia de Software - Software Engineering
+20221206130000
+20221206143000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20220914200000
+20220914213000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221019120000
+20221019133000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221026183000
+20221026200000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230206143000
+20230206160000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230424150000
+20230424163000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221021170000
+20221021183000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221102160000
+20221102173000
+ 
+Modulação e Codificação - Modulation and Coding
+20221017133000
+20221017150000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230420133000
+20230420150000
+ 
+Modulação e Codificação - Modulation and Coding
+20221031143000
+20221031160000
+ 
+Modulação e Codificação - Modulation and Coding
+20221010133000
+20221010150000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230502133000
+20230502150000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230523120000
+20230523133000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230324143000
+20230324160000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230216160000
+20230216173000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221102130000
+20221102143000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230426150000
+20230426163000
+ 
+Modulação e Codificação - Modulation and Coding
+20220913150000
+20220913163000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221130130000
+20221130143000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230208193000
+20230208210000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230302143000
+20230302160000
+ 
+Engenharia de Software - Software Engineering
+20221108130000
+20221108143000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230320160000
+20230320173000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230309160000
+20230309173000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230524150000
+20230524163000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230418133000
+20230418150000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20220921183000
+20220921200000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221102210000
+20221102223000
+ 
+Engenharia de Software - Software Engineering
+20221214130000
+20221214143000
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
  
 Arquitetura de Redes - Network Arquitectures
 20221214160000
 20221214173000
  
+<<<<<<< HEAD
 Segurança e Gestão de Redes - Network Security and Management
 20230303160000
 20230303173000
@@ -261,8 +1441,14 @@ Segurança e Gestão de Redes - Network Security and Management
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
 20221017083000
 20221017100000
+=======
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230427133000
+20230427150000
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
  
 Arquitetura de Redes - Network Arquitectures
+<<<<<<< HEAD
 20221012150000
 20221012163000
  
@@ -389,6 +1575,10 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230321143000
 20230321160000
+=======
+20221117160000
+20221117173000
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230505133000
@@ -418,6 +1608,7 @@ Arquitetura de Redes - Network Arquitectures
 20221130160000
 20221130173000
  
+<<<<<<< HEAD
 Engenharia de Software - Software Engineering
 20220915120000
 20220915133000
@@ -565,20 +1756,49 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230510133000
 20230510150000
+=======
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230419183000
+20230419200000
  
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20220923170000
+20220923183000
+ 
+Modulação e Codificação - Modulation and Coding
+20221206160000
+20221206173000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221006150000
+20221006163000
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
+ 
+<<<<<<< HEAD
 Modulação e Codificação - Modulation and Coding
 20220919133000
 20220919150000
+=======
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230307180000
+20230307193000
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
  
 Arquitetura de Redes - Network Arquitectures
+<<<<<<< HEAD
 20221102160000
 20221102173000
  
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230508150000
 20230508163000
+=======
+20221128130000
+20221128143000
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
  
 Engenharia de Software - Software Engineering
+<<<<<<< HEAD
 20221124143000
 20221124160000
  
@@ -701,6 +1921,318 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221130143000
 20221130160000
+=======
+20221004120000
+20221004133000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230421133000
+20230421150000
+ 
+Modulação e Codificação - Modulation and Coding
+20221122143000
+20221122160000
+ 
+Modulação e Codificação - Modulation and Coding
+20220930100000
+20220930113000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230328150000
+20230328163000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221207193000
+20221207210000
+ 
+Engenharia de Software - Software Engineering
+20221027133000
+20221027150000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230314160000
+20230314173000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221012200000
+20221012213000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230209160000
+20230209173000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230509120000
+20230509133000
+ 
+Modulação e Codificação - Modulation and Coding
+20220920150000
+20220920163000
+ 
+Modulação e Codificação - Modulation and Coding
+20221018133000
+20221018150000
+ 
+Modulação e Codificação - Modulation and Coding
+20221121143000
+20221121160000
+ 
+Arquitetura de Redes - Network Arquitectures
+20220914150000
+20220914163000
+ 
+Modulação e Codificação - Modulation and Coding
+20221011150000
+20221011163000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230228180000
+20230228193000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230227143000
+20230227160000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230509133000
+20230509150000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230223143000
+20230223160000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230320130000
+20230320143000
+ 
+Modulação e Codificação - Modulation and Coding
+20220913133000
+20220913150000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221104180000
+20221104193000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221114130000
+20221114143000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221102193000
+20221102210000
+ 
+Modulação e Codificação - Modulation and Coding
+20221108143000
+20221108160000
+ 
+Modulação e Codificação - Modulation and Coding
+20221103093000
+20221103110000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221031130000
+20221031143000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230308193000
+20230308210000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221006150000
+20221006163000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230412183000
+20230412200000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230503133000
+20230503150000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230323160000
+20230323173000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230316143000
+20230316160000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230207130000
+20230207143000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220914133000
+20220914150000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230503150000
+20230503163000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221026200000
+20221026213000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230523150000
+20230523163000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230321130000
+20230321143000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221019150000
+20221019163000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221123173000
+20221123190000
+ 
+Modulação e Codificação - Modulation and Coding
+20221025133000
+20221025150000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221125180000
+20221125193000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230227160000
+20230227173000
+ 
+Engenharia de Software - Software Engineering
+20221006133000
+20221006150000
+ 
+Engenharia de Software - Software Engineering
+20221013120000
+20221013133000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230307160000
+20230307173000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230228130000
+20230228143000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221017150000
+20221017163000
+ 
+Engenharia de Software - Software Engineering
+20221122130000
+20221122143000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230411170000
+20230411183000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230516150000
+20230516163000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230502170000
+20230502183000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230426133000
+20230426150000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230228143000
+20230228160000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230424133000
+20230424150000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221130143000
+20221130160000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221207210000
+20221207223000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221019183000
+20221019200000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230303143000
+20230303160000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230223160000
+20230223173000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230306130000
+20230306143000
+ 
+Sistemas de Comunicação Ótica - Optical Communication Systems
+20230522133000
+20230522150000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221107160000
+20221107173000
+ 
+Modulação e Codificação - Modulation and Coding
+20220927150000
+20220927163000
+ 
+Arquitetura de Redes - Network Arquitectures
+20221012150000
+20221012163000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230317160000
+20230317173000
+ 
+Segurança e Gestão de Redes - Network Security and Management
+20230418150000
+20230418163000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221012133000
+20221012150000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230321143000
+20230321160000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
+20221007170000
+20221007183000
+ 
+Engenharia de Software - Software Engineering
+20221115130000
+20221115143000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220928120000
+20220928133000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230328133000
+20230328150000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
+20230426170000
+20230426183000
+ 
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221010150000
+20221010163000
+ 
+Engenharia de Software - Software Engineering
+20221215130000
+20221215143000
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
  
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230323143000
@@ -710,17 +2242,125 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230301160000
 20230301173000
  
+<<<<<<< HEAD
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221031160000
 20221031173000
+=======
+Sistemas de Comunicação Ótica - Optical Communication Systems - Exame
+20230626140000
+20230626170000
+ 
+Modulação e Codificação - Modulation and Coding - Exame
+20230711140000
+20230711170000
+ 
+Modulação e Codificação - Modulation and Coding - Exame
+20221015090000
+20221015110000
+ 
+Modulação e Codificação - Modulation and Coding - Exame
+20230112080000
+20230112110000
+ 
+Modulação e Codificação - Modulation and Coding - Exame
+20230125113000
+20230125143000
+ 
+Desenvolvimento para A Internet e Aplicações Móveis - Development for Internet and Mobile Apps - Exame
+20230614140000
+20230614170000
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
  
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230310080000
 20230310093000
  
+<<<<<<< HEAD
 Modulação e Codificação - Modulation and Coding
 20221103110000
 20221103123000
+=======
+Desenvolvimento para A Internet e Aplicações Móveis - Development for Internet and Mobile Apps - Exame
+20230630103000
+20230630133000
+ 
+Engenharia de Software - Software Engineering - Exame
+20230126150000
+20230126180000
+ 
+Engenharia de Software - Software Engineering - Exame
+20230712070000
+20230712100000
+ 
+Engenharia de Software - Software Engineering - Exame
+20230117080000
+20230117110000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction - Exame
+20230711140000
+20230711170000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction - Exame
+20230124150000
+20230124180000
+ 
+Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction - Exame
+20230110080000
+20230110110000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project - Exame
+20230612070000
+20230612100000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project - Exame
+20230710103000
+20230710133000
+ 
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project - Exame
+20230627140000
+20230627170000
+ 
+Arquitetura de Redes - Network Arquitectures - Exame
+20230711070000
+20230711100000
+ 
+Arquitetura de Redes - Network Arquitectures - Exame
+20230103080000
+20230103110000
+ 
+Arquitetura de Redes - Network Arquitectures - Exame
+20230123150000
+20230123180000
+ 
+Avaliação Contínua
+20221029090000
+20221029103000
+ 
+Segurança e Gestão de Redes - Network Security and Management - Exame
+20230628140000
+20230628170000
+ 
+Segurança e Gestão de Redes - Network Security and Management - Exame
+20230714140000
+20230714170000
+ 
+Segurança e Gestão de Redes - Network Security and Management - Exame
+20230601140000
+20230601170000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems - Exame
+20230713070000
+20230713100000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems - Exame
+20230629140000
+20230629170000
+ 
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems - Exame
+20230620070000
+20230620100000
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
  
 Modulação e Codificação - Modulation and Coding
 20221103093000
@@ -1470,6 +3110,7 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230322110000
 20230322123000
  
+<<<<<<< HEAD
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems - Exame
 20230713070000
 20230713100000
@@ -1598,3 +3239,5 @@ Engenharia de Software - Software Engineering - Exame
 20230126150000
 20230126180000
  
+=======
+>>>>>>> branch 'branch_dfsaa1iscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
