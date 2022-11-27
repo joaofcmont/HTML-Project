@@ -22,52 +22,52 @@ import com.mongodb.MongoBulkWriteException;
 @Service
 public class ImportJsonService {
 
-    @Autowired
-    private static  MongoTemplate mongo;
-   
+	@Autowired
+	private static  MongoTemplate mongo;
 
-    public static List<Document> generateMongoDocs(List<String> lines) {
-        List<Document> docs = new ArrayList<>();
-        for (String json : lines) {
-            docs.add(Document.parse(json));
-        }
-        return docs;
-    }
-    
-    private  static int insertInto(String collection, List<Document> mongoDocs) {
-        try {
-            Collection<Document> inserts = mongo.insert(mongoDocs, collection);
-            return inserts.size();
-        } catch (DataIntegrityViolationException e) {
-            if (e.getCause() instanceof MongoBulkWriteException) {
-                return ((MongoBulkWriteException) e.getCause())
-                  .getWriteResult()
-                  .getInsertedCount();
-            }
-            return 0;
-        }
-    }
-    
-    public static String importTo(String collection, List<String> jsonLines) {
-        List<Document> mongoDocs = generateMongoDocs(jsonLines);
-        System.out.println(mongoDocs);
-        int inserts = insertInto(collection, mongoDocs);
-        return inserts + "/" + jsonLines.size();
-    }
-    
-    public static List<String> lines(File file) throws IOException {
-        return Files.readAllLines(file.toPath());
-    }
-    
-    public static List<String> lines(String json) {
-        String[] split = json.split("[\\r\\n]+");
-        return Arrays.asList(split);
-    }
 
-    public static List<String> linesFromResource(String resource) throws IOException {
-        Resource input = new ClassPathResource(resource);
-        Path path = input.getFile().toPath();
-        return Files.readAllLines(path);
-    }
+	public static List<Document> generateMongoDocs(List<String> lines) {
+		List<Document> docs = new ArrayList<>();
+		for (String json : lines) {
+			System.out.println(json);
+			docs.add(Document.parse(json));
+		}
+		return docs;
+	}
+
+	private  static int insertInto(String collection, List<Document> mongoDocs) {
+		try {
+			Collection<Document> inserts = mongo.insert(mongoDocs, collection);
+			return inserts.size();
+		} catch (DataIntegrityViolationException e) {
+			if (e.getCause() instanceof MongoBulkWriteException) {
+				return ((MongoBulkWriteException) e.getCause())
+						.getWriteResult()
+						.getInsertedCount();
+			}
+			return 0;
+		}
+	}
+
+	public void importTo(String collection, List<String> jsonLines) {
+		List<Document> mongoDocs = generateMongoDocs(jsonLines);
+		System.out.println(mongoDocs);
+		int inserts = insertInto(collection, mongoDocs);
+	}
+
+	public static List<String> lines(File file) throws IOException {
+		return Files.readAllLines(file.toPath());
+	}
+
+	public static List<String> lines(String json) {
+		String[] split = json.split("[\\r\\n]+");
+		return Arrays.asList(split);
+	}
+
+	public static List<String> linesFromResource(String resource) throws IOException {
+		Resource input = new ClassPathResource(resource);
+		Path path = input.getFile().toPath();
+		return Files.readAllLines(path);
+	}
 }
 
