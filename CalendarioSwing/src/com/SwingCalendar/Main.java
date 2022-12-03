@@ -3,6 +3,8 @@ import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.Image;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileOutputStream;
@@ -17,14 +19,16 @@ import java.util.ArrayList;
 import java.util.Date;
 
 import java.util.List;
+import java.util.ListIterator;
 import java.util.TimeZone;
 
 import javax.imageio.ImageIO;
 import javax.swing.JButton;
+import javax.swing.JCheckBox;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-
+import javax.swing.SwingUtilities;
 import javax.swing.WindowConstants;
 
 import com.google.gson.Gson;
@@ -45,7 +49,10 @@ public class Main {
 		ConnectToDB db = new ConnectToDB();
 		Parser p= new Parser();
 		ToJson js= new ToJson();
-		
+
+		ArrayList<CalendarEvent> eventsDiogo = new ArrayList<CalendarEvent>();
+		ArrayList<CalendarEvent> eventsMatheus = new ArrayList<CalendarEvent>();
+		ArrayList<CalendarEvent> eventsJoao = new ArrayList<CalendarEvent>();
 
 		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains("Eventos");
 
@@ -95,21 +102,86 @@ public class Main {
 				startHour += 1;
 				endHour += 1;
 			}
-			System.out.println(ev.getUsername());
 			if(ev.getUsername().equals("dfsaa1")) {
 				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
 						LocalTime.of(startHour, startMin), 
-						LocalTime.of(endHour, endMin),pt,Color.BLUE));
+						LocalTime.of(endHour, endMin),pt,Color.BLUE,"dfsaa1"));
 			}else if(ev.getUsername().equals("jfcmo1")){
 				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
 						LocalTime.of(startHour, startMin), 
-						LocalTime.of(endHour, endMin),pt,Color.GREEN));
+						LocalTime.of(endHour, endMin),pt,Color.GREEN,"jfcmo1"));
 			}else if(ev.getUsername().equals("mpclq")) {
 				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
 						LocalTime.of(startHour, startMin), 
-						LocalTime.of(endHour, endMin),pt,Color.ORANGE));
+						LocalTime.of(endHour, endMin),pt,Color.ORANGE,"mpclq"));
 			}
 		}
+
+		// create checkbox
+		JCheckBox c1 = new JCheckBox("Calendário Diogo", true);
+		JCheckBox c2 = new JCheckBox("Calendário João", true);
+		JCheckBox c3 = new JCheckBox("Calendário Matheus", true);
+
+		c1.addItemListener(new ItemListener() {
+			public void itemStateChanged(ItemEvent e) {
+				if (e.getStateChange() == 1) {
+					for(CalendarEvent event : eventsDiogo)
+						calEvents.add(event);
+				} else {
+
+					for (ListIterator<CalendarEvent> it = calEvents.listIterator(); it.hasNext();){
+						CalendarEvent value = it.next();
+
+						if (value.getUser().equals("dfsaa1")) {
+							eventsDiogo.add(value);
+							it.remove();
+						}
+					}		
+				}
+				SwingUtilities.updateComponentTreeUI(frm);
+			}
+		});
+		c2.addItemListener(new ItemListener() {
+			public void itemStateChanged(ItemEvent e) {
+				if (e.getStateChange() == 1) {
+					for(CalendarEvent event : eventsJoao)
+						calEvents.add(event);
+				} else {
+
+					for (ListIterator<CalendarEvent> it = calEvents.listIterator(); it.hasNext();){
+						CalendarEvent value = it.next();
+
+						if (value.getUser().equals("jfcmo1")) {
+							eventsJoao.add(value);
+							it.remove();
+						}
+					}		
+				}
+				SwingUtilities.updateComponentTreeUI(frm);
+			}
+		});
+		c3.addItemListener(new ItemListener() {
+			public void itemStateChanged(ItemEvent e) {
+				if (e.getStateChange() == 1) {
+					for(CalendarEvent event : eventsMatheus)
+						calEvents.add(event);
+				} else {
+
+					for (ListIterator<CalendarEvent> it = calEvents.listIterator(); it.hasNext();){
+						CalendarEvent value = it.next();
+
+						if (value.getUser().equals("mpclq")) {
+							eventsMatheus.add(value);
+							it.remove();
+						}
+					}		
+				}
+				SwingUtilities.updateComponentTreeUI(frm);
+			}
+		});
+
+
+
 
 		WeekCalendar cal = new WeekCalendar(calEvents);
 
@@ -128,6 +200,7 @@ public class Main {
 		JButton prevMonthBtn = new JButton("<<");
 		prevMonthBtn.addActionListener(e -> cal.prevMonth());
 
+
 		JButton addEvent = new JButton("Add Event");
 		cal.addCalendarEmptyClickListener(e -> {
 			addEvent.addActionListener(e1 -> { 
@@ -139,11 +212,17 @@ public class Main {
 				int horaFim = Integer.parseInt(horaFimEvento[0]);
 				int minutoFim = Integer.parseInt(horaFimEvento[1]);
 				String descricao = JOptionPane.showInputDialog(frame, "Descrição do evento:");
-				String descricaoEvento = descricao;
-				//calEvents.add(new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricaoEvento));
+				String user = JOptionPane.showInputDialog(frame, "Dono do horário:");
+				CalendarEvent event = new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricao, user);
+				if(user.equals("dfsaa1")) {
+					event.setColor(Color.BLUE);
+				}else if(user.equals("jfcmo1")){
+					event.setColor(Color.GREEN);
+				}else if(user.equals("mpclq")){
+					event.setColor(Color.ORANGE);
+				}
+				calEvents.add(event);
 				cal.setEvents(calEvents);	
-
-
 			});
 
 		});
@@ -188,7 +267,6 @@ public class Main {
 				p.parser();
 				fw.write("\n" + link);
 				fw.close();
-
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}
@@ -200,6 +278,9 @@ public class Main {
 		weekControls.add(goToTodayBtn);
 		weekControls.add(nextWeekBtn);
 		weekControls.add(nextMonthBtn);
+		weekControls.add(c1);
+		weekControls.add(c2);
+		weekControls.add(c3);
 
 		JPanel eventControls = new JPanel();
 		eventControls.add(addEvent);
