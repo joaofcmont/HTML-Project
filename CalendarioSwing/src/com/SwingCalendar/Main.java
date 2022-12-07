@@ -1,7 +1,10 @@
 package com.SwingCalendar;
 import java.awt.BorderLayout;
+import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.Image;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileOutputStream;
@@ -9,33 +12,24 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
-import java.io.StringWriter;
+
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.Iterator;
+
 import java.util.List;
+import java.util.ListIterator;
 import java.util.TimeZone;
 
 import javax.imageio.ImageIO;
 import javax.swing.JButton;
+import javax.swing.JCheckBox;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.SwingUtilities;
 import javax.swing.WindowConstants;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerException;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
-
-import org.bson.BsonDocument;
-import org.bson.conversions.Bson;
-import org.bson.json.JsonObject;
-import org.springframework.dao.DataAccessException;
-import org.springframework.data.mongodb.core.CollectionCallback;
-import org.w3c.dom.Node;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -44,39 +38,55 @@ import com.google.gson.JsonSyntaxException;
 import com.itextpdf.text.Document;
 import com.itextpdf.text.PageSize;
 import com.itextpdf.text.pdf.PdfWriter;
-import com.mongodb.DBCursor;
+
 import com.mongodb.client.FindIterable;
-import com.mongodb.client.MongoClient;
-import com.mongodb.client.MongoClients;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoCursor;
-import com.mongodb.client.MongoDatabase;
 
 
 public class Main {
 
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
 
+<<<<<<< HEAD
 		ToJson js= new ToJson();
 		Parser p= new Parser();
 
+=======
+>>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 		ConnectToDB db = new ConnectToDB();
+<<<<<<< HEAD
 		
 		
 		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains(db.username);
 		
+=======
+		Parser p= new Parser();
+		ToJson js= new ToJson();
+
+		ArrayList<CalendarEvent> eventsDiogo = new ArrayList<CalendarEvent>();
+		ArrayList<CalendarEvent> eventsMatheus = new ArrayList<CalendarEvent>();
+		ArrayList<CalendarEvent> eventsJoao = new ArrayList<CalendarEvent>();
+
+		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains("Eventos");
+
+>>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 		if(!collectionExists) {
-		db.database.createCollection(db.username);
+			db.database.createCollection("Eventos");
 		}
-		
-		FindIterable<org.bson.Document> findIterable = db.user.find();
+
+		FindIterable<org.bson.Document> findIterable = js.getUser().find();
 		for (org.bson.Document document : findIterable) {
-			db.user.deleteMany(document);
+			js.getUser().deleteMany(document);
 		}
-		
+
 		org.bson.Document d=org.bson.Document.parse(js.paraJson());
+<<<<<<< HEAD
 		db.user.insertOne(d);
 		
+=======
+		js.getUser().insertOne(d);
+
+		js.paraJson();
+>>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
@@ -105,7 +115,6 @@ public class Main {
 
 			int startHour = Integer.parseInt(ev.getDateStart().substring(8, 10));
 			int startMin = Integer.parseInt(ev.getDateStart().substring(10, 12));
-
 			int endHour = Integer.parseInt(ev.getDateEnd().substring(8, 10));
 			int endMin = Integer.parseInt(ev.getDateEnd().substring(10, 12));
 
@@ -113,11 +122,86 @@ public class Main {
 				startHour += 1;
 				endHour += 1;
 			}
-
-			calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
-					LocalTime.of(startHour, startMin), 
-					LocalTime.of(endHour, endMin),pt));
+			if(ev.getUsername().equals("dfsaa1")) {
+				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
+						LocalTime.of(startHour, startMin), 
+						LocalTime.of(endHour, endMin),pt,Color.BLUE,"dfsaa1"));
+			}else if(ev.getUsername().equals("jfcmo1")){
+				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
+						LocalTime.of(startHour, startMin), 
+						LocalTime.of(endHour, endMin),pt,Color.GREEN,"jfcmo1"));
+			}else if(ev.getUsername().equals("mpclq")) {
+				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
+						LocalTime.of(startHour, startMin), 
+						LocalTime.of(endHour, endMin),pt,Color.ORANGE,"mpclq"));
+			}
 		}
+
+		// create checkbox
+		JCheckBox c1 = new JCheckBox("Calendário Diogo", true);
+		JCheckBox c2 = new JCheckBox("Calendário João", true);
+		JCheckBox c3 = new JCheckBox("Calendário Matheus", true);
+
+		c1.addItemListener(new ItemListener() {
+			public void itemStateChanged(ItemEvent e) {
+				if (e.getStateChange() == 1) {
+					for(CalendarEvent event : eventsDiogo)
+						calEvents.add(event);
+				} else {
+
+					for (ListIterator<CalendarEvent> it = calEvents.listIterator(); it.hasNext();){
+						CalendarEvent value = it.next();
+
+						if (value.getUser().equals("dfsaa1")) {
+							eventsDiogo.add(value);
+							it.remove();
+						}
+					}		
+				}
+				SwingUtilities.updateComponentTreeUI(frm);
+			}
+		});
+		c2.addItemListener(new ItemListener() {
+			public void itemStateChanged(ItemEvent e) {
+				if (e.getStateChange() == 1) {
+					for(CalendarEvent event : eventsJoao)
+						calEvents.add(event);
+				} else {
+
+					for (ListIterator<CalendarEvent> it = calEvents.listIterator(); it.hasNext();){
+						CalendarEvent value = it.next();
+
+						if (value.getUser().equals("jfcmo1")) {
+							eventsJoao.add(value);
+							it.remove();
+						}
+					}		
+				}
+				SwingUtilities.updateComponentTreeUI(frm);
+			}
+		});
+		c3.addItemListener(new ItemListener() {
+			public void itemStateChanged(ItemEvent e) {
+				if (e.getStateChange() == 1) {
+					for(CalendarEvent event : eventsMatheus)
+						calEvents.add(event);
+				} else {
+
+					for (ListIterator<CalendarEvent> it = calEvents.listIterator(); it.hasNext();){
+						CalendarEvent value = it.next();
+
+						if (value.getUser().equals("mpclq")) {
+							eventsMatheus.add(value);
+							it.remove();
+						}
+					}		
+				}
+				SwingUtilities.updateComponentTreeUI(frm);
+			}
+		});
+
+
+
 
 		WeekCalendar cal = new WeekCalendar(calEvents);
 
@@ -136,6 +220,7 @@ public class Main {
 		JButton prevMonthBtn = new JButton("<<");
 		prevMonthBtn.addActionListener(e -> cal.prevMonth());
 
+
 		JButton addEvent = new JButton("Add Event");
 		cal.addCalendarEmptyClickListener(e -> {
 			addEvent.addActionListener(e1 -> { 
@@ -147,11 +232,17 @@ public class Main {
 				int horaFim = Integer.parseInt(horaFimEvento[0]);
 				int minutoFim = Integer.parseInt(horaFimEvento[1]);
 				String descricao = JOptionPane.showInputDialog(frame, "Descrição do evento:");
-				String descricaoEvento = descricao;
-				calEvents.add(new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricaoEvento));
+				String user = JOptionPane.showInputDialog(frame, "Dono do horário:");
+				CalendarEvent event = new CalendarEvent(LocalDate.of(e.getDateTime().getYear(), e.getDateTime().getMonthValue(), e.getDateTime().getDayOfMonth()), LocalTime.of(e.getDateTime().getHour(), e.getDateTime().getMinute()), LocalTime.of(horaFim, minutoFim), descricao, user);
+				if(user.equals("dfsaa1")) {
+					event.setColor(Color.BLUE);
+				}else if(user.equals("jfcmo1")){
+					event.setColor(Color.GREEN);
+				}else if(user.equals("mpclq")){
+					event.setColor(Color.ORANGE);
+				}
+				calEvents.add(event);
 				cal.setEvents(calEvents);	
-
-
 			});
 
 		});
@@ -196,7 +287,6 @@ public class Main {
 				p.parser();
 				fw.write("\n" + link);
 				fw.close();
-
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}
@@ -208,6 +298,9 @@ public class Main {
 		weekControls.add(goToTodayBtn);
 		weekControls.add(nextWeekBtn);
 		weekControls.add(nextMonthBtn);
+		weekControls.add(c1);
+		weekControls.add(c2);
+		weekControls.add(c3);
 
 		JPanel eventControls = new JPanel();
 		eventControls.add(addEvent);

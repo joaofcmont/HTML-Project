@@ -2,7 +2,10 @@ package com.SwingCalendar;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 
 import org.bson.Document;
 
@@ -19,6 +22,7 @@ public class ConnectToDB {
 
 	//acessar base de dados
 	MongoDatabase database=client.getDatabase("ESProjectDB");
+<<<<<<< HEAD
 	Parser p= new Parser();
 
 	User usernames = new User(p.readFile(new File("links.txt")));
@@ -29,9 +33,20 @@ public class ConnectToDB {
 
 	//acessar a minha coleção
 
+=======
+
+	//acessar a minha coleção	
+>>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 	MongoCollection<Document> col_links= database.getCollection("links");		
+<<<<<<< HEAD
 	MongoCollection<Document> user= database.getCollection(username);
 
+=======
+
+	
+	
+	
+>>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 }
 
 

@@ -2,8 +2,6 @@ package com.SwingCalendar;
 
 
 public class User {
-
-	Parser p = new Parser();
 	
 	private String link;
 	
