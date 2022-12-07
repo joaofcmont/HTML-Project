@@ -44,13 +44,14 @@ public class Week {
     public String toString() {
         return "Week of the " + getDay(DayOfWeek.MONDAY);
     }
+    
+	@Override
+	public boolean equals(Object o) {
+		if (this == o) return true;
+		if (o == null || getClass() != o.getClass()) return false;
 
-    public static void main(String[] args) {
-        LocalDate now = LocalDate.now();
-        Week currentWeek = new Week(now);
-        System.out.println(currentWeek);
-        System.out.println(currentWeek.prevWeek());
-        System.out.println(currentWeek.nextWeek());
-    }
+		Week that = (Week) o;
+		return days.equals(that.days);
+	}
 
 }

@@ -19,28 +19,15 @@ import java.time.format.DateTimeFormatter;
 
 public class Parser{
 
-	public String readFile(File file) throws FileNotFoundException {
-		String webcal = null;
-		if(file.exists() && !file.isDirectory()) { 
-			Scanner	scanner = new Scanner(file);
-			while (scanner.hasNextLine()) 
-			{	
-				webcal = scanner.nextLine();
-				webcal  = webcal.replace("webcal:", "https:");
-			}
-		}
-		return webcal;
-	}
-
-
 	public void parser() throws IOException {
-
 		File myObj = new File("links.txt");
 		if(myObj.exists() && !myObj.isDirectory()) { 
 			Scanner	scanner = new Scanner(myObj);
 			while (scanner.hasNextLine()) 
-			{	
+			{			
 				String webcal = scanner.nextLine();
+				User usernames = new User(webcal);
+				String username= usernames.setUser(webcal);
 				webcal  = webcal.replace("webcal:", "https:");
 
 				//cria um objecto do tipo URL baseado na string que damos
@@ -63,8 +50,10 @@ public class Parser{
 
 				while (scan.hasNextLine()) 
 				{	
+					
 					//escrever no file agenda.txt apenas o que queremos do file webcal.txt
-					BufferedWriter writer = new BufferedWriter(new FileWriter("agenda.txt",true));;
+					BufferedWriter writer = new BufferedWriter(new FileWriter("agenda.txt",true));
+					
 					String a = scan.nextLine();	
 					if(a.equals("BEGIN:VEVENT")) 
 					{
@@ -93,9 +82,8 @@ public class Parser{
 						} else {
 							summary = summary.split(":")[1];
 						}	 
-						//System.out.println(summary+ "\n" +dateStart+ "\n" +dateEnd+ "\n");
-						String l =summary+ "\n" +dateStart+ "\n" +dateEnd+ "\n \n";
-
+						
+						String l = username + "\n" +summary+ "\n" +dateStart+ "\n" +dateEnd+ "\n \n";
 						writer.write(l);
 						writer.close();
 					}  	 
