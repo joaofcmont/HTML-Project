@@ -60,13 +60,8 @@ public class Main {
 		ToJson js= new ToJson();
 		Parser p= new Parser();
 
-
 		ConnectToDB db = new ConnectToDB();
 		
-
-		p.parser();
-		
-
 		
 		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains(db.username);
 		
@@ -82,13 +77,14 @@ public class Main {
 		org.bson.Document d=org.bson.Document.parse(js.paraJson());
 		db.user.insertOne(d);
 		
-		js.paraJson();
 
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
-		Eventos evento = null;
+		js.paraJson();
 
+		Eventos evento = null;
+		
 		try (Reader reader = new FileReader("agenda.json")) {
 			// Convert JSON File to Java Object
 			evento = gson.fromJson(reader, Eventos.class);

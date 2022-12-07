@@ -3,12 +3,22 @@ public class Event {
 		private String chair;
 	private String dateStart;
 	private String dateEnd;
+	private String username;
 	
-	public Event(String chair, String dateStart, String dateEnd) {
+	public Event(String username,String chair, String dateStart, String dateEnd) {
 		this.chair = chair;
 		this.dateStart = dateStart;
 		this.dateEnd = dateEnd;
+		this.username=username;
 		
+	}
+
+	public String getUsername() {
+		return username;
+	}
+
+	public void setUsername(String username) {
+		this.username = username;
 	}
 
 	public String getChair() {

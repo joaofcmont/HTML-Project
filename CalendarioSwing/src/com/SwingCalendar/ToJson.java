@@ -34,13 +34,13 @@ public class ToJson {
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
-
-		
 		return gson.toJson(eventos);
 
 	}
 
 	public ArrayList<Event> listaEventos() throws FileNotFoundException {
+
+		ConnectToDB db = new ConnectToDB();
 
 		ArrayList<Event> list = new ArrayList<>();
 		Scanner scan = new Scanner(new File("agenda.txt"));
@@ -52,7 +52,7 @@ public class ToJson {
 
 			scan.nextLine();
 
-			Event event = new Event(chair, dateStart, dateEnd);
+			Event event = new Event(db.username,chair, dateStart, dateEnd);
 
 			list.add(event);
 		}
