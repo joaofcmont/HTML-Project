@@ -24,13 +24,13 @@ class WeekCalendarTest {
 				LocalDate.now(), 
 				LocalTime.now(),
 				LocalTime.now().plusMinutes(90),
-				"EPPDS"));
+				"EPPDS","mpclq"));
 		
 		lista.add(new CalendarEvent(
 				LocalDate.now().plusDays(8), 
 				LocalTime.now(),
 				LocalTime.now().plusMinutes(90),
-				"MC"));
+				"MC","mpclq"));
 		
 		weekCalendar =  new WeekCalendar(lista);
 	}
