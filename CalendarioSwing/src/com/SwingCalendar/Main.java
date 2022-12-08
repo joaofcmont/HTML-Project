@@ -41,34 +41,33 @@ import com.itextpdf.text.pdf.PdfWriter;
 
 import com.mongodb.client.FindIterable;
 
+/**
+ * Main method
+ * @version 08/12/2022
+ */
 
 public class Main {
 
+	/**
+	 * 
+	 * @param args for the main method
+	 * @throws JsonSyntaxException is raised for Gson to read (or write) a malformed JSON element.
+	 * @throws JsonIOException is raised when Gson was unable to read an input stream or write to one.
+	 * @throws IOException for accessing files 
+	 */
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
 
-<<<<<<< HEAD
-		ToJson js= new ToJson();
-		Parser p= new Parser();
-
-=======
->>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 		ConnectToDB db = new ConnectToDB();
-<<<<<<< HEAD
-		
-		
-		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains(db.username);
-		
-=======
 		Parser p= new Parser();
 		ToJson js= new ToJson();
-
+		
+		
 		ArrayList<CalendarEvent> eventsDiogo = new ArrayList<CalendarEvent>();
 		ArrayList<CalendarEvent> eventsMatheus = new ArrayList<CalendarEvent>();
 		ArrayList<CalendarEvent> eventsJoao = new ArrayList<CalendarEvent>();
 
 		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains("Eventos");
 
->>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 		if(!collectionExists) {
 			db.database.createCollection("Eventos");
 		}
@@ -79,22 +78,15 @@ public class Main {
 		}
 
 		org.bson.Document d=org.bson.Document.parse(js.paraJson());
-<<<<<<< HEAD
-		db.user.insertOne(d);
-		
-=======
 		js.getUser().insertOne(d);
 
 		js.paraJson();
->>>>>>> branch 'branch_joaoiscte' of https://github.com/joaoiscte/ES-LETI-1Sem-2022-Grupo-13.git
 
 		JFrame frm = new JFrame();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
-		js.paraJson();
-
 		Eventos evento = null;
-		
+
 		try (Reader reader = new FileReader("agenda.json")) {
 			// Convert JSON File to Java Object
 			evento = gson.fromJson(reader, Eventos.class);
@@ -138,6 +130,7 @@ public class Main {
 		}
 
 		// create checkbox
+		
 		JCheckBox c1 = new JCheckBox("Calendário Diogo", true);
 		JCheckBox c2 = new JCheckBox("Calendário João", true);
 		JCheckBox c3 = new JCheckBox("Calendário Matheus", true);
@@ -201,8 +194,6 @@ public class Main {
 		});
 
 
-
-
 		WeekCalendar cal = new WeekCalendar(calEvents);
 
 		JButton goToTodayBtn = new JButton("Today");
@@ -219,7 +210,6 @@ public class Main {
 
 		JButton prevMonthBtn = new JButton("<<");
 		prevMonthBtn.addActionListener(e -> cal.prevMonth());
-
 
 		JButton addEvent = new JButton("Add Event");
 		cal.addCalendarEmptyClickListener(e -> {
