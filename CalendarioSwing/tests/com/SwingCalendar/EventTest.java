@@ -11,7 +11,7 @@ class EventTest {
 	
 	@BeforeEach
 	void setUp() throws Exception {
-		event = new Event("Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps","20230301193000","20230301210000");
+		event = new Event("Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps","20230301193000","20230301210000","mpclq");
 		
 	}
 
@@ -32,4 +32,10 @@ class EventTest {
 		assertEquals("20230301210000",event.getDateEnd());
 	}
 
+	@Test
+	
+	void testGetUsername() {
+		assertEquals("mpclq",event.getUsername());
+	}
+	
 }
