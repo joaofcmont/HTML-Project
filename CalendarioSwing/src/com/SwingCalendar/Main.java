@@ -41,15 +41,27 @@ import com.itextpdf.text.pdf.PdfWriter;
 
 import com.mongodb.client.FindIterable;
 
+/**
+ * Main method
+ * @version 08/12/2022
+ */
 
 public class Main {
 
+	/**
+	 * 
+	 * @param args for the main method
+	 * @throws JsonSyntaxException is raised for Gson to read (or write) a malformed JSON element.
+	 * @throws JsonIOException is raised when Gson was unable to read an input stream or write to one.
+	 * @throws IOException for accessing files 
+	 */
 	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
 
 		ConnectToDB db = new ConnectToDB();
 		Parser p= new Parser();
 		ToJson js= new ToJson();
-
+		
+		
 		ArrayList<CalendarEvent> eventsDiogo = new ArrayList<CalendarEvent>();
 		ArrayList<CalendarEvent> eventsMatheus = new ArrayList<CalendarEvent>();
 		ArrayList<CalendarEvent> eventsJoao = new ArrayList<CalendarEvent>();
@@ -118,6 +130,7 @@ public class Main {
 		}
 
 		// create checkbox
+		
 		JCheckBox c1 = new JCheckBox("Calendário Diogo", true);
 		JCheckBox c2 = new JCheckBox("Calendário João", true);
 		JCheckBox c3 = new JCheckBox("Calendário Matheus", true);
@@ -181,8 +194,6 @@ public class Main {
 		});
 
 
-
-
 		WeekCalendar cal = new WeekCalendar(calEvents);
 
 		JButton goToTodayBtn = new JButton("Today");
@@ -199,7 +210,6 @@ public class Main {
 
 		JButton prevMonthBtn = new JButton("<<");
 		prevMonthBtn.addActionListener(e -> cal.prevMonth());
-
 
 		JButton addEvent = new JButton("Add Event");
 		cal.addCalendarEmptyClickListener(e -> {

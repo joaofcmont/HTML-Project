@@ -15,16 +15,26 @@ import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoCursor;
 
+
+/**
+ * Converts the agenda.txt to json and sends the json to the Database
+ * @version 08/12/2022
+ */
 public class ToJson {
 
+	/**
+	 * Returns the events in json from agenda.txt
+	 * @return the events write in json
+	 * @throws IOException because we write into agenda.json
+	 */
 	public String paraJson() throws IOException {
-
 		
 		Parser p = new Parser();
 		p.parser();
-
+		
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
+		
 		Eventos eventos = new Eventos();
 		eventos.setListaEventos(listaEventos());
 		
@@ -35,17 +45,32 @@ public class ToJson {
 			while(iterator.hasNext()) {
 				gson.toJson(iterator.next(), writer);
 			}
+
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 		return gson.toJson(eventos);
 	}
-	public MongoCollection<Document> getUser() throws FileNotFoundException {
+	
+	/**
+	 * 
+	 * @return the documents of the collection in Database 
+	 */
+	public MongoCollection<Document> getUser() {
 		ConnectToDB db = new ConnectToDB();
 		MongoCollection<Document> user= db.database.getCollection("Eventos");
 		return user;
 	}
+	
+	/**
+	 * Get the list of the events in "agenda.txt"
+	 * @return the list of events from "agenda.txt"
+	 * @throws FileNotFoundException to acess the file "agenda.txt"
+	 */
 	public ArrayList<Event> listaEventos() throws FileNotFoundException {
+
+		ConnectToDB db = new ConnectToDB();
+
 		ArrayList<Event> list = new ArrayList<>();
 		Scanner scan = new Scanner(new File("agenda.txt"));
 
