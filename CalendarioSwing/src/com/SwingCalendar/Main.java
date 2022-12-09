@@ -264,9 +264,9 @@ public class Main {
 				// Reading the content of the file
 				String filename= "links.txt";
 				FileWriter fw = new FileWriter(filename,true); //the true will append the new data
-				p.parser();
 				fw.write("\n" + link);
 				fw.close();
+				p.parser();
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}
@@ -321,8 +321,7 @@ public class Main {
 			}
 
 		});
+		
 
 	}
-
-
 }
