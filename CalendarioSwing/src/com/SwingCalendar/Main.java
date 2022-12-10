@@ -60,11 +60,12 @@ public class Main {
 		ConnectToDB db = new ConnectToDB();
 		Parser p= new Parser();
 		ToJson js= new ToJson();
-		
-		
+
+
 		ArrayList<CalendarEvent> eventsDiogo = new ArrayList<CalendarEvent>();
 		ArrayList<CalendarEvent> eventsMatheus = new ArrayList<CalendarEvent>();
 		ArrayList<CalendarEvent> eventsJoao = new ArrayList<CalendarEvent>();
+		ArrayList<CalendarEvent> eventsJoana = new ArrayList<CalendarEvent>();
 
 		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains("Eventos");
 
@@ -101,19 +102,15 @@ public class Main {
 			String[] name = ev.getChair().split("-");
 			String pt = name[0];
 
+			int endHour = endHour(ev);
+			int startHour = startHour(ev);
 			int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 			int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
 			int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
 
-			int startHour = Integer.parseInt(ev.getDateStart().substring(8, 10));
 			int startMin = Integer.parseInt(ev.getDateStart().substring(10, 12));
-			int endHour = Integer.parseInt(ev.getDateEnd().substring(8, 10));
 			int endMin = Integer.parseInt(ev.getDateEnd().substring(10, 12));
 
-			if (TimeZone.getDefault().inDaylightTime(new Date(year, month - 1, day))) {
-				startHour += 1;
-				endHour += 1;
-			}
 			if(ev.getUsername().equals("dfsaa1")) {
 				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
 						LocalTime.of(startHour, startMin), 
@@ -130,10 +127,11 @@ public class Main {
 		}
 
 		// create checkbox
-		
+
 		JCheckBox c1 = new JCheckBox("Calendário Diogo", true);
 		JCheckBox c2 = new JCheckBox("Calendário João", true);
 		JCheckBox c3 = new JCheckBox("Calendário Matheus", true);
+		JCheckBox c4 = new JCheckBox("Calendário Joana", true);
 
 		c1.addItemListener(new ItemListener() {
 			public void itemStateChanged(ItemEvent e) {
@@ -192,6 +190,25 @@ public class Main {
 				SwingUtilities.updateComponentTreeUI(frm);
 			}
 		});
+		c4.addItemListener(new ItemListener() {
+			public void itemStateChanged(ItemEvent e) {
+				if (e.getStateChange() == 1) {
+					for(CalendarEvent event : eventsJoana)
+						calEvents.add(event);
+				} else {
+
+					for (ListIterator<CalendarEvent> it = calEvents.listIterator(); it.hasNext();){
+						CalendarEvent value = it.next();
+
+						if (value.getUser().equals("jmcls2")) {
+							eventsJoana.add(value);
+							it.remove();
+						}
+					}		
+				}
+				SwingUtilities.updateComponentTreeUI(frm);
+			}
+		});
 
 
 		WeekCalendar cal = new WeekCalendar(calEvents);
@@ -230,6 +247,8 @@ public class Main {
 					event.setColor(Color.GREEN);
 				}else if(user.equals("mpclq")){
 					event.setColor(Color.ORANGE);
+				}else if(user.equals("jmcls2")){
+					event.setColor(Color.RED);
 				}
 				calEvents.add(event);
 				cal.setEvents(calEvents);	
@@ -246,7 +265,6 @@ public class Main {
 			});
 		});
 
-		//TODO - Faltam detalhes sobre o dono do calendário cujo evento foi selecionado
 		JButton detalhes = new JButton("Details");
 
 		cal.addCalendarEventClickListener(e -> {
@@ -256,7 +274,7 @@ public class Main {
 				if(event==null) {
 					return;
 				}
-				JOptionPane.showMessageDialog(frame, event);
+				JOptionPane.showMessageDialog(frame, event, event.getUser(), 0);
 				e.clearEvent();
 			});
 		});
@@ -274,9 +292,10 @@ public class Main {
 				// Reading the content of the file
 				String filename= "links.txt";
 				FileWriter fw = new FileWriter(filename,true); //the true will append the new data
-				p.parser();
 				fw.write("\n" + link);
 				fw.close();
+				frm.dispose();
+				main(args);
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}
@@ -291,6 +310,7 @@ public class Main {
 		weekControls.add(c1);
 		weekControls.add(c2);
 		weekControls.add(c3);
+		weekControls.add(c4);
 
 		JPanel eventControls = new JPanel();
 		eventControls.add(addEvent);
@@ -329,10 +349,28 @@ public class Main {
 			{
 				ex.printStackTrace();
 			}
-
 		});
-
 	}
 
+	private static int startHour(Event ev) throws NumberFormatException {
+		int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
+		int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
+		int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
+		int startHour = Integer.parseInt(ev.getDateStart().substring(8, 10));
+		if (TimeZone.getDefault().inDaylightTime(new Date(year, month - 1, day))) {
+			startHour += 1;
+		}
+		return startHour;
+	}
 
+	private static int endHour(Event ev) throws NumberFormatException {
+		int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
+		int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
+		int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
+		int endHour = Integer.parseInt(ev.getDateEnd().substring(8, 10));
+		if (TimeZone.getDefault().inDaylightTime(new Date(year, month - 1, day))) {
+			endHour += 1;
+		}
+		return endHour;
+	}
 }
