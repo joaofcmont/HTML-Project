@@ -1,8 +1,5 @@
 package com.SwingCalendar;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-
 import org.bson.Document;
 
 import com.mongodb.client.MongoClient;
@@ -10,30 +7,35 @@ import com.mongodb.client.MongoClients;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 
-
+/**
+ * Connects to the Database and acesses the collections
+ * @version 08/12/2022
+ *
+ */
 public class ConnectToDB {
 	
-	public ConnectToDB() throws FileNotFoundException{}
-	
-	
+	/**
+	 * Connects to the DB
+	 */
+	public ConnectToDB() {}
+
+	/**
+	 * create database
+	 */
 	MongoClient client= MongoClients.create("mongodb+srv://testUser:DiogoMonteiro12@esprojectcluster.jjsxybq.mongodb.net/?retryWrites=true&w=majority");
 
-	//acessar base de dados
+	/**
+	 * access database
+	 */
 	MongoDatabase database=client.getDatabase("ESProjectDB");
 
-	//acessar a minha coleção	
+	/**
+	 * access database collection
+	 */
 	MongoCollection<Document> col_links= database.getCollection("links");		
-
-	
-	
 	
 }
-
 	
-
-
-
-
 
 
 
