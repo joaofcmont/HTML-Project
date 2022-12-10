@@ -60,11 +60,12 @@ public class Main {
 		ConnectToDB db = new ConnectToDB();
 		Parser p= new Parser();
 		ToJson js= new ToJson();
-		
-		
+
+
 		ArrayList<CalendarEvent> eventsDiogo = new ArrayList<CalendarEvent>();
 		ArrayList<CalendarEvent> eventsMatheus = new ArrayList<CalendarEvent>();
 		ArrayList<CalendarEvent> eventsJoao = new ArrayList<CalendarEvent>();
+		ArrayList<CalendarEvent> eventsJoana = new ArrayList<CalendarEvent>();
 
 		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains("Eventos");
 
@@ -126,10 +127,11 @@ public class Main {
 		}
 
 		// create checkbox
-		
+
 		JCheckBox c1 = new JCheckBox("Calendário Diogo", true);
 		JCheckBox c2 = new JCheckBox("Calendário João", true);
 		JCheckBox c3 = new JCheckBox("Calendário Matheus", true);
+		JCheckBox c4 = new JCheckBox("Calendário Joana", true);
 
 		c1.addItemListener(new ItemListener() {
 			public void itemStateChanged(ItemEvent e) {
@@ -188,6 +190,25 @@ public class Main {
 				SwingUtilities.updateComponentTreeUI(frm);
 			}
 		});
+		c4.addItemListener(new ItemListener() {
+			public void itemStateChanged(ItemEvent e) {
+				if (e.getStateChange() == 1) {
+					for(CalendarEvent event : eventsJoana)
+						calEvents.add(event);
+				} else {
+
+					for (ListIterator<CalendarEvent> it = calEvents.listIterator(); it.hasNext();){
+						CalendarEvent value = it.next();
+
+						if (value.getUser().equals("jmcls2")) {
+							eventsJoana.add(value);
+							it.remove();
+						}
+					}		
+				}
+				SwingUtilities.updateComponentTreeUI(frm);
+			}
+		});
 
 
 		WeekCalendar cal = new WeekCalendar(calEvents);
@@ -226,6 +247,8 @@ public class Main {
 					event.setColor(Color.GREEN);
 				}else if(user.equals("mpclq")){
 					event.setColor(Color.ORANGE);
+				}else if(user.equals("jmcls2")){
+					event.setColor(Color.RED);
 				}
 				calEvents.add(event);
 				cal.setEvents(calEvents);	
@@ -242,7 +265,6 @@ public class Main {
 			});
 		});
 
-		//TODO - Faltam detalhes sobre o dono do calendário cujo evento foi selecionado
 		JButton detalhes = new JButton("Details");
 
 		cal.addCalendarEventClickListener(e -> {
@@ -252,7 +274,7 @@ public class Main {
 				if(event==null) {
 					return;
 				}
-				JOptionPane.showMessageDialog(frame, event);
+				JOptionPane.showMessageDialog(frame, event, event.getUser(), 0);
 				e.clearEvent();
 			});
 		});
@@ -272,7 +294,8 @@ public class Main {
 				FileWriter fw = new FileWriter(filename,true); //the true will append the new data
 				fw.write("\n" + link);
 				fw.close();
-				p.parser();
+				frm.dispose();
+				main(args);
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}
@@ -287,6 +310,7 @@ public class Main {
 		weekControls.add(c1);
 		weekControls.add(c2);
 		weekControls.add(c3);
+		weekControls.add(c4);
 
 		JPanel eventControls = new JPanel();
 		eventControls.add(addEvent);
