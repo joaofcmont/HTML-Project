@@ -1,4 +1,9 @@
 dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230321160000
+20230321173000
+ 
+dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230419100000
 20230419113000
@@ -34,24 +39,9 @@ Engenharia de Software - Software Engineering
 20221004133000
  
 dfsaa1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221026133000
-20221026150000
- 
-dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230426083000
 20230426100000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221004150000
-20221004163000
- 
-dfsaa1
-Engenharia de Software - Software Engineering
-20221027133000
-20221027150000
  
 dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -67,6 +57,11 @@ dfsaa1
 Modulação e Codificação - Modulation and Coding
 20221115143000
 20221115160000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20221027120000
+20221027133000
  
 dfsaa1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -109,11 +104,6 @@ Arquitetura de Redes - Network Arquitectures
 20221020163000
  
 dfsaa1
-Modulação e Codificação - Modulation and Coding
-20220920150000
-20220920163000
- 
-dfsaa1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20220914120000
 20220914133000
@@ -129,14 +119,14 @@ Arquitetura de Redes - Network Arquitectures
 20221130173000
  
 dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221018133000
-20221018150000
- 
-dfsaa1
 Arquitetura de Redes - Network Arquitectures
 20221019150000
 20221019163000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20220929120000
+20220929133000
  
 dfsaa1
 Arquitetura de Redes - Network Arquitectures
@@ -149,6 +139,11 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230419100000
  
 dfsaa1
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221012100000
+20221012113000
+ 
+dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230327133000
 20230327150000
@@ -157,11 +152,6 @@ dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230224080000
 20230224093000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
-20220930083000
-20220930100000
  
 dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -177,11 +167,6 @@ dfsaa1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221128160000
 20221128173000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
-20220927150000
-20220927163000
  
 dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -202,16 +187,6 @@ dfsaa1
 Arquitetura de Redes - Network Arquitectures
 20220912120000
 20220912133000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221108143000
-20221108160000
- 
-dfsaa1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221102143000
-20221102160000
  
 dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -239,24 +214,19 @@ Modulação e Codificação - Modulation and Coding
 20221114160000
  
 dfsaa1
-Modulação e Codificação - Modulation and Coding
-20220920133000
-20220920150000
- 
-dfsaa1
 Arquitetura de Redes - Network Arquitectures
 20221024120000
 20221024133000
  
 dfsaa1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221012100000
-20221012113000
+Modulação e Codificação - Modulation and Coding
+20220920133000
+20220920150000
  
 dfsaa1
 Engenharia de Software - Software Engineering
+20221020120000
 20221020133000
-20221020150000
  
 dfsaa1
 Segurança e Gestão de Redes - Network Security and Management
@@ -274,6 +244,11 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230510163000
  
 dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221018133000
+20221018150000
+ 
+dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230508150000
 20230508163000
@@ -285,23 +260,13 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
  
 dfsaa1
 Segurança e Gestão de Redes - Network Security and Management
-20230418150000
-20230418163000
- 
-dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
 20230210160000
 20230210173000
  
 dfsaa1
-Engenharia de Software - Software Engineering
-20221214143000
-20221214160000
- 
-dfsaa1
-Engenharia de Software - Software Engineering
-20221215130000
-20221215143000
+Modulação e Codificação - Modulation and Coding
+20220913150000
+20220913163000
  
 dfsaa1
 Arquitetura de Redes - Network Arquitectures
@@ -324,9 +289,9 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20220928133000
  
 dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230314160000
-20230314173000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221102143000
+20221102160000
  
 dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -335,18 +300,18 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
  
 dfsaa1
 Segurança e Gestão de Redes - Network Security and Management
-20230516150000
-20230516163000
- 
-dfsaa1
-Engenharia de Software - Software Engineering
-20221103143000
-20221103160000
+20230523150000
+20230523163000
  
 dfsaa1
 Arquitetura de Redes - Network Arquitectures
 20221114130000
 20221114143000
+ 
+dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221025150000
+20221025163000
  
 dfsaa1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -372,11 +337,6 @@ dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230208110000
 20230208123000
- 
-dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230424120000
-20230424133000
  
 dfsaa1
 Arquitetura de Redes - Network Arquitectures
@@ -414,24 +374,14 @@ Arquitetura de Redes - Network Arquitectures
 20220926133000
  
 dfsaa1
+Engenharia de Software - Software Engineering
+20221013120000
+20221013133000
+ 
+dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230418120000
 20230418133000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221011133000
-20221011150000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
-20220930100000
-20220930113000
- 
-dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230214160000
-20230214173000
  
 dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -439,24 +389,19 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230301173000
  
 dfsaa1
-Engenharia de Software - Software Engineering
-20220929133000
-20220929150000
- 
-dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230302143000
 20230302160000
  
 dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230523150000
-20230523163000
- 
-dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230217143000
 20230217160000
+ 
+dfsaa1
+Modulação e Codificação - Modulation and Coding
+20220930083000
+20220930100000
  
 dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -477,6 +422,11 @@ dfsaa1
 Arquitetura de Redes - Network Arquitectures
 20221123160000
 20221123173000
+ 
+dfsaa1
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220914133000
+20220914150000
  
 dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -524,9 +474,19 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230301123000
  
 dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221004150000
+20221004163000
+ 
+dfsaa1
 Segurança e Gestão de Redes - Network Security and Management
 20230515120000
 20230515133000
+ 
+dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230502150000
+20230502163000
  
 dfsaa1
 Modulação e Codificação - Modulation and Coding
@@ -539,9 +499,19 @@ Modulação e Codificação - Modulation and Coding
 20221129173000
  
 dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221018150000
+20221018163000
+ 
+dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230517133000
 20230517150000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20221006120000
+20221006133000
  
 dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -549,19 +519,14 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230315110000
  
 dfsaa1
-Engenharia de Software - Software Engineering
-20221006133000
-20221006150000
- 
-dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230523120000
 20230523133000
  
 dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230207160000
-20230207173000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221026133000
+20221026150000
  
 dfsaa1
 Engenharia de Software - Software Engineering
@@ -589,11 +554,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230306173000
  
 dfsaa1
-Engenharia de Software - Software Engineering
-20221006120000
-20221006133000
- 
-dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230210143000
 20230210160000
@@ -619,11 +579,6 @@ Engenharia de Software - Software Engineering
 20220915133000
  
 dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230328150000
-20230328163000
- 
-dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230427150000
 20230427163000
@@ -632,6 +587,11 @@ dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230502120000
 20230502133000
+ 
+dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230314160000
+20230314173000
  
 dfsaa1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -664,6 +624,11 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230215160000
  
 dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230509150000
+20230509163000
+ 
+dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230227160000
 20230227173000
@@ -672,11 +637,6 @@ dfsaa1
 Engenharia de Software - Software Engineering
 20221115130000
 20221115143000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221103093000
-20221103110000
  
 dfsaa1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -689,9 +649,19 @@ Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of In
 20221003113000
  
 dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221011133000
+20221011150000
+ 
+dfsaa1
 Segurança e Gestão de Redes - Network Security and Management
 20230313130000
 20230313143000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20221103130000
+20221103143000
  
 dfsaa1
 Engenharia de Software - Software Engineering
@@ -719,11 +689,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230207143000
  
 dfsaa1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221012133000
-20221012150000
- 
-dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230324080000
 20230324093000
@@ -732,16 +697,6 @@ dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230303080000
 20230303093000
- 
-dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230307160000
-20230307173000
- 
-dfsaa1
-Engenharia de Software - Software Engineering
-20221215143000
-20221215160000
  
 dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -774,14 +729,14 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230426113000
  
 dfsaa1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220928133000
-20220928150000
- 
-dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230419150000
 20230419163000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20221103143000
+20221103160000
  
 dfsaa1
 Arquitetura de Redes - Network Arquitectures
@@ -792,11 +747,6 @@ dfsaa1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
 20221205110000
 20221205123000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221025133000
-20221025150000
  
 dfsaa1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -812,6 +762,11 @@ dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230329133000
 20230329150000
+ 
+dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230307160000
+20230307173000
  
 dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -834,9 +789,9 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230210093000
  
 dfsaa1
-Engenharia de Software - Software Engineering
-20221013133000
-20221013150000
+Segurança e Gestão de Redes - Network Security and Management
+20230418150000
+20230418163000
  
 dfsaa1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -864,9 +819,14 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230512150000
  
 dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221018150000
-20221018163000
+Engenharia de Software - Software Engineering
+20221006133000
+20221006150000
+ 
+dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230516150000
+20230516163000
  
 dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -887,16 +847,6 @@ dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230418133000
 20230418150000
- 
-dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230321160000
-20230321173000
- 
-dfsaa1
-Engenharia de Software - Software Engineering
-20221214130000
-20221214143000
  
 dfsaa1
 Arquitetura de Redes - Network Arquitectures
@@ -929,14 +879,14 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221012133000
  
 dfsaa1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220914133000
-20220914150000
- 
-dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230502133000
 20230502150000
+ 
+dfsaa1
+Modulação e Codificação - Modulation and Coding
+20220927133000
+20220927150000
  
 dfsaa1
 Modulação e Codificação - Modulation and Coding
@@ -945,13 +895,13 @@ Modulação e Codificação - Modulation and Coding
  
 dfsaa1
 Modulação e Codificação - Modulation and Coding
-20220913150000
-20220913163000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
 20221206160000
 20221206173000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20221027133000
+20221027150000
  
 dfsaa1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -959,9 +909,9 @@ Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of In
 20221010113000
  
 dfsaa1
-Engenharia de Software - Software Engineering
-20221013120000
-20221013133000
+Modulação e Codificação - Modulation and Coding
+20221011150000
+20221011163000
  
 dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -999,6 +949,11 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230517100000
  
 dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230207160000
+20230207173000
+ 
+dfsaa1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221109143000
 20221109160000
@@ -1007,6 +962,11 @@ dfsaa1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
 20221128110000
 20221128123000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20220915120000
+20220915133000
  
 dfsaa1
 Arquitetura de Redes - Network Arquitectures
@@ -1054,9 +1014,19 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221123160000
  
 dfsaa1
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220921133000
+20220921150000
+ 
+dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230308110000
 20230308123000
+ 
+dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221025133000
+20221025150000
  
 dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -1067,6 +1037,11 @@ dfsaa1
 Segurança e Gestão de Redes - Network Security and Management
 20230519150000
 20230519163000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20221013133000
+20221013150000
  
 dfsaa1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -1089,11 +1064,6 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230503163000
  
 dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221004133000
-20221004150000
- 
-dfsaa1
 Engenharia de Software - Software Engineering
 20221124143000
 20221124160000
@@ -1114,24 +1084,9 @@ Segurança e Gestão de Redes - Network Security and Management
 20230424133000
  
 dfsaa1
-Engenharia de Software - Software Engineering
-20221103130000
-20221103143000
- 
-dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230317080000
 20230317093000
- 
-dfsaa1
-Engenharia de Software - Software Engineering
-20220929120000
-20220929133000
- 
-dfsaa1
-Engenharia de Software - Software Engineering
-20221027120000
-20221027133000
  
 dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -1160,11 +1115,6 @@ Arquitetura de Redes - Network Arquitectures
  
 dfsaa1
 Engenharia de Software - Software Engineering
-20220915120000
-20220915133000
- 
-dfsaa1
-Engenharia de Software - Software Engineering
 20221124130000
 20221124143000
  
@@ -1179,9 +1129,9 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221102143000
  
 dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221103110000
-20221103123000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220928133000
+20220928150000
  
 dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -1189,9 +1139,24 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230510113000
  
 dfsaa1
+Modulação e Codificação - Modulation and Coding
+20220920150000
+20220920163000
+ 
+dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221108143000
+20221108160000
+ 
+dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230315143000
 20230315160000
+ 
+dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230214160000
+20230214173000
  
 dfsaa1
 Engenharia de Software - Software Engineering
@@ -1207,11 +1172,6 @@ dfsaa1
 Arquitetura de Redes - Network Arquitectures
 20221107130000
 20221107143000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221025150000
-20221025163000
  
 dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -1259,24 +1219,14 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230522163000
  
 dfsaa1
+Engenharia de Software - Software Engineering
+20221215130000
+20221215143000
+ 
+dfsaa1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221214143000
 20221214160000
- 
-dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230228160000
-20230228173000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
-20220927133000
-20220927150000
- 
-dfsaa1
-Engenharia de Software - Software Engineering
-20220915133000
-20220915150000
  
 dfsaa1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -1314,11 +1264,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230207160000
  
 dfsaa1
-Modulação e Codificação - Modulation and Coding
-20221011150000
-20221011163000
- 
-dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230209160000
 20230209173000
@@ -1332,6 +1277,16 @@ dfsaa1
 Engenharia de Software - Software Engineering
 20221011120000
 20221011133000
+ 
+dfsaa1
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221012133000
+20221012150000
+ 
+dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230228160000
+20230228173000
  
 dfsaa1
 Engenharia de Software - Software Engineering
@@ -1384,6 +1339,11 @@ Engenharia de Software - Software Engineering
 20221206143000
  
 dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221103093000
+20221103110000
+ 
+dfsaa1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
 20220919100000
 20220919113000
@@ -1399,6 +1359,16 @@ Arquitetura de Redes - Network Arquitectures
 20220915163000
  
 dfsaa1
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221019133000
+20221019150000
+ 
+dfsaa1
+Modulação e Codificação - Modulation and Coding
+20220913133000
+20220913150000
+ 
+dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230307130000
 20230307143000
@@ -1412,6 +1382,11 @@ dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230510083000
 20230510100000
+ 
+dfsaa1
+Modulação e Codificação - Modulation and Coding
+20220930100000
+20220930113000
  
 dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -1454,9 +1429,9 @@ Arquitetura de Redes - Network Arquitectures
 20221128143000
  
 dfsaa1
-Modulação e Codificação - Modulation and Coding
-20220913133000
-20220913150000
+Engenharia de Software - Software Engineering
+20221020133000
+20221020150000
  
 dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -1469,19 +1444,14 @@ Engenharia de Software - Software Engineering
 20221129143000
  
 dfsaa1
-Engenharia de Software - Software Engineering
-20221020120000
-20221020133000
- 
-dfsaa1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221024150000
 20221024163000
  
 dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230509150000
-20230509163000
+Modulação e Codificação - Modulation and Coding
+20220927150000
+20220927163000
  
 dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -1494,9 +1464,19 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230308160000
  
 dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221108160000
+20221108173000
+ 
+dfsaa1
 Arquitetura de Redes - Network Arquitectures
 20220919120000
 20220919133000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20221214143000
+20221214160000
  
 dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -1585,21 +1565,6 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
  
 dfsaa1
 Modulação e Codificação - Modulation and Coding
-20221108160000
-20221108173000
- 
-dfsaa1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221019133000
-20221019150000
- 
-dfsaa1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220921133000
-20220921150000
- 
-dfsaa1
-Modulação e Codificação - Modulation and Coding
 20220912133000
 20220912150000
  
@@ -1607,6 +1572,11 @@ dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230427133000
 20230427150000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20220915133000
+20220915150000
  
 dfsaa1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -1619,14 +1589,19 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230228143000
  
 dfsaa1
+Arquitetura de Redes - Network Arquitectures
+20221013150000
+20221013163000
+ 
+dfsaa1
 Engenharia de Software - Software Engineering
 20220922120000
 20220922133000
  
 dfsaa1
-Arquitetura de Redes - Network Arquitectures
-20221013150000
-20221013163000
+Engenharia de Software - Software Engineering
+20221214130000
+20221214143000
  
 dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -1644,6 +1619,21 @@ Segurança e Gestão de Redes - Network Security and Management
 20230207123000
  
 dfsaa1
+Engenharia de Software - Software Engineering
+20221215143000
+20221215160000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20220929133000
+20220929150000
+ 
+dfsaa1
+Engenharia de Software - Software Engineering
+20220922133000
+20220922150000
+ 
+dfsaa1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221130130000
 20221130143000
@@ -1654,14 +1644,29 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230517113000
  
 dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230424120000
+20230424133000
+ 
+dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230314143000
 20230314160000
  
 dfsaa1
+Segurança e Gestão de Redes - Network Security and Management
+20230328150000
+20230328163000
+ 
+dfsaa1
 Arquitetura de Redes - Network Arquitectures
 20220928150000
 20220928163000
+ 
+dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221103110000
+20221103123000
  
 dfsaa1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -1714,6 +1719,11 @@ Arquitetura de Redes - Network Arquitectures
 20221003133000
  
 dfsaa1
+Modulação e Codificação - Modulation and Coding
+20221004133000
+20221004150000
+ 
+dfsaa1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230522133000
 20230522150000
@@ -1754,11 +1764,6 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230223160000
  
 dfsaa1
-Segurança e Gestão de Redes - Network Security and Management
-20230502150000
-20230502163000
- 
-dfsaa1
 Engenharia de Software - Software Engineering
 20221025120000
 20221025133000
@@ -1792,11 +1797,6 @@ dfsaa1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230309143000
 20230309160000
- 
-dfsaa1
-Engenharia de Software - Software Engineering
-20220922133000
-20220922150000
  
 dfsaa1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -2024,6 +2024,11 @@ Gestão de Projectos de Tecnologia e Sistemas de Informação- Management of Inf
 20230107123000
  
 jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230321160000
+20230321173000
+ 
+jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230419100000
 20230419113000
@@ -2059,24 +2064,9 @@ Engenharia de Software - Software Engineering
 20221004133000
  
 jfcmo1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221026133000
-20221026150000
- 
-jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230426083000
 20230426100000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221004150000
-20221004163000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
-20221027133000
-20221027150000
  
 jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -2092,6 +2082,11 @@ jfcmo1
 Modulação e Codificação - Modulation and Coding
 20221115143000
 20221115160000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20221027120000
+20221027133000
  
 jfcmo1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -2134,11 +2129,6 @@ Arquitetura de Redes - Network Arquitectures
 20221020163000
  
 jfcmo1
-Modulação e Codificação - Modulation and Coding
-20220920150000
-20220920163000
- 
-jfcmo1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20220914120000
 20220914133000
@@ -2154,14 +2144,14 @@ Arquitetura de Redes - Network Arquitectures
 20221130173000
  
 jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221018133000
-20221018150000
- 
-jfcmo1
 Arquitetura de Redes - Network Arquitectures
 20221019150000
 20221019163000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20220929120000
+20220929133000
  
 jfcmo1
 Arquitetura de Redes - Network Arquitectures
@@ -2174,6 +2164,11 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230419100000
  
 jfcmo1
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221012100000
+20221012113000
+ 
+jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230327133000
 20230327150000
@@ -2182,11 +2177,6 @@ jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230224080000
 20230224093000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
-20220930083000
-20220930100000
  
 jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -2202,11 +2192,6 @@ jfcmo1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221128160000
 20221128173000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
-20220927150000
-20220927163000
  
 jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -2227,16 +2212,6 @@ jfcmo1
 Arquitetura de Redes - Network Arquitectures
 20220912120000
 20220912133000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221108143000
-20221108160000
- 
-jfcmo1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221102143000
-20221102160000
  
 jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -2264,24 +2239,19 @@ Modulação e Codificação - Modulation and Coding
 20221114160000
  
 jfcmo1
-Modulação e Codificação - Modulation and Coding
-20220920133000
-20220920150000
- 
-jfcmo1
 Arquitetura de Redes - Network Arquitectures
 20221024120000
 20221024133000
  
 jfcmo1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221012100000
-20221012113000
+Modulação e Codificação - Modulation and Coding
+20220920133000
+20220920150000
  
 jfcmo1
 Engenharia de Software - Software Engineering
+20221020120000
 20221020133000
-20221020150000
  
 jfcmo1
 Segurança e Gestão de Redes - Network Security and Management
@@ -2299,6 +2269,11 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230510163000
  
 jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221018133000
+20221018150000
+ 
+jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230508150000
 20230508163000
@@ -2314,19 +2289,9 @@ Segurança e Gestão de Redes - Network Security and Management
 20230210173000
  
 jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230418150000
-20230418163000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
-20221214143000
-20221214160000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
-20221215130000
-20221215143000
+Modulação e Codificação - Modulation and Coding
+20220913150000
+20220913163000
  
 jfcmo1
 Arquitetura de Redes - Network Arquitectures
@@ -2349,9 +2314,9 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20220928133000
  
 jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230314160000
-20230314173000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221102143000
+20221102160000
  
 jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -2360,18 +2325,18 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
  
 jfcmo1
 Segurança e Gestão de Redes - Network Security and Management
-20230516150000
-20230516163000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
-20221103143000
-20221103160000
+20230523150000
+20230523163000
  
 jfcmo1
 Arquitetura de Redes - Network Arquitectures
 20221114130000
 20221114143000
+ 
+jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221025150000
+20221025163000
  
 jfcmo1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -2397,11 +2362,6 @@ jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230208110000
 20230208123000
- 
-jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230424120000
-20230424133000
  
 jfcmo1
 Arquitetura de Redes - Network Arquitectures
@@ -2439,24 +2399,14 @@ Arquitetura de Redes - Network Arquitectures
 20220926133000
  
 jfcmo1
+Engenharia de Software - Software Engineering
+20221013120000
+20221013133000
+ 
+jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230418120000
 20230418133000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221011133000
-20221011150000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
-20220930100000
-20220930113000
- 
-jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230214160000
-20230214173000
  
 jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -2464,24 +2414,19 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230301173000
  
 jfcmo1
-Engenharia de Software - Software Engineering
-20220929133000
-20220929150000
- 
-jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230302143000
 20230302160000
  
 jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230523150000
-20230523163000
- 
-jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230217143000
 20230217160000
+ 
+jfcmo1
+Modulação e Codificação - Modulation and Coding
+20220930083000
+20220930100000
  
 jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -2502,6 +2447,11 @@ jfcmo1
 Arquitetura de Redes - Network Arquitectures
 20221123160000
 20221123173000
+ 
+jfcmo1
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220914133000
+20220914150000
  
 jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -2549,9 +2499,19 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230301123000
  
 jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221004150000
+20221004163000
+ 
+jfcmo1
 Segurança e Gestão de Redes - Network Security and Management
 20230515120000
 20230515133000
+ 
+jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230502150000
+20230502163000
  
 jfcmo1
 Modulação e Codificação - Modulation and Coding
@@ -2564,9 +2524,19 @@ Modulação e Codificação - Modulation and Coding
 20221129173000
  
 jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221018150000
+20221018163000
+ 
+jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230517133000
 20230517150000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20221006120000
+20221006133000
  
 jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -2574,19 +2544,14 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230315110000
  
 jfcmo1
-Engenharia de Software - Software Engineering
-20221006133000
-20221006150000
- 
-jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230523120000
 20230523133000
  
 jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230207160000
-20230207173000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221026133000
+20221026150000
  
 jfcmo1
 Engenharia de Software - Software Engineering
@@ -2614,11 +2579,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230306173000
  
 jfcmo1
-Engenharia de Software - Software Engineering
-20221006120000
-20221006133000
- 
-jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230210143000
 20230210160000
@@ -2644,11 +2604,6 @@ Engenharia de Software - Software Engineering
 20220915133000
  
 jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230328150000
-20230328163000
- 
-jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230427150000
 20230427163000
@@ -2657,6 +2612,11 @@ jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230502120000
 20230502133000
+ 
+jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230314160000
+20230314173000
  
 jfcmo1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -2689,6 +2649,11 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230215160000
  
 jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230509150000
+20230509163000
+ 
+jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230227160000
 20230227173000
@@ -2697,11 +2662,6 @@ jfcmo1
 Engenharia de Software - Software Engineering
 20221115130000
 20221115143000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221103093000
-20221103110000
  
 jfcmo1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -2714,9 +2674,19 @@ Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of In
 20221003113000
  
 jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221011133000
+20221011150000
+ 
+jfcmo1
 Segurança e Gestão de Redes - Network Security and Management
 20230313130000
 20230313143000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20221103130000
+20221103143000
  
 jfcmo1
 Engenharia de Software - Software Engineering
@@ -2744,11 +2714,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230207143000
  
 jfcmo1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221012133000
-20221012150000
- 
-jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230324080000
 20230324093000
@@ -2757,16 +2722,6 @@ jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230303080000
 20230303093000
- 
-jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230307160000
-20230307173000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
-20221215143000
-20221215160000
  
 jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -2799,14 +2754,14 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230426113000
  
 jfcmo1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220928133000
-20220928150000
- 
-jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230419150000
 20230419163000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20221103143000
+20221103160000
  
 jfcmo1
 Arquitetura de Redes - Network Arquitectures
@@ -2817,11 +2772,6 @@ jfcmo1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
 20221205110000
 20221205123000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221025133000
-20221025150000
  
 jfcmo1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -2837,6 +2787,11 @@ jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230329133000
 20230329150000
+ 
+jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230307160000
+20230307173000
  
 jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -2859,9 +2814,9 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230210093000
  
 jfcmo1
-Engenharia de Software - Software Engineering
-20221013133000
-20221013150000
+Segurança e Gestão de Redes - Network Security and Management
+20230418150000
+20230418163000
  
 jfcmo1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -2889,9 +2844,14 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230512150000
  
 jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221018150000
-20221018163000
+Engenharia de Software - Software Engineering
+20221006133000
+20221006150000
+ 
+jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230516150000
+20230516163000
  
 jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -2912,16 +2872,6 @@ jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230418133000
 20230418150000
- 
-jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230321160000
-20230321173000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
-20221214130000
-20221214143000
  
 jfcmo1
 Arquitetura de Redes - Network Arquitectures
@@ -2954,14 +2904,14 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221012133000
  
 jfcmo1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220914133000
-20220914150000
- 
-jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230502133000
 20230502150000
+ 
+jfcmo1
+Modulação e Codificação - Modulation and Coding
+20220927133000
+20220927150000
  
 jfcmo1
 Modulação e Codificação - Modulation and Coding
@@ -2970,13 +2920,13 @@ Modulação e Codificação - Modulation and Coding
  
 jfcmo1
 Modulação e Codificação - Modulation and Coding
-20220913150000
-20220913163000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
 20221206160000
 20221206173000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20221027133000
+20221027150000
  
 jfcmo1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -2984,9 +2934,9 @@ Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of In
 20221010113000
  
 jfcmo1
-Engenharia de Software - Software Engineering
-20221013120000
-20221013133000
+Modulação e Codificação - Modulation and Coding
+20221011150000
+20221011163000
  
 jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -3024,6 +2974,11 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230517100000
  
 jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230207160000
+20230207173000
+ 
+jfcmo1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221109143000
 20221109160000
@@ -3032,6 +2987,11 @@ jfcmo1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
 20221128110000
 20221128123000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20220915120000
+20220915133000
  
 jfcmo1
 Arquitetura de Redes - Network Arquitectures
@@ -3079,9 +3039,19 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221123160000
  
 jfcmo1
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220921133000
+20220921150000
+ 
+jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230308110000
 20230308123000
+ 
+jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221025133000
+20221025150000
  
 jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -3092,6 +3062,11 @@ jfcmo1
 Segurança e Gestão de Redes - Network Security and Management
 20230519150000
 20230519163000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20221013133000
+20221013150000
  
 jfcmo1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -3114,11 +3089,6 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230503163000
  
 jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221004133000
-20221004150000
- 
-jfcmo1
 Engenharia de Software - Software Engineering
 20221124143000
 20221124160000
@@ -3139,24 +3109,9 @@ Segurança e Gestão de Redes - Network Security and Management
 20230424133000
  
 jfcmo1
-Engenharia de Software - Software Engineering
-20221103130000
-20221103143000
- 
-jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230317080000
 20230317093000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
-20220929120000
-20220929133000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
-20221027120000
-20221027133000
  
 jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -3185,11 +3140,6 @@ Arquitetura de Redes - Network Arquitectures
  
 jfcmo1
 Engenharia de Software - Software Engineering
-20220915120000
-20220915133000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
 20221124130000
 20221124143000
  
@@ -3204,9 +3154,9 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221102143000
  
 jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221103110000
-20221103123000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220928133000
+20220928150000
  
 jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -3214,9 +3164,24 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230510113000
  
 jfcmo1
+Modulação e Codificação - Modulation and Coding
+20220920150000
+20220920163000
+ 
+jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221108143000
+20221108160000
+ 
+jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230315143000
 20230315160000
+ 
+jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230214160000
+20230214173000
  
 jfcmo1
 Engenharia de Software - Software Engineering
@@ -3232,11 +3197,6 @@ jfcmo1
 Arquitetura de Redes - Network Arquitectures
 20221107130000
 20221107143000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221025150000
-20221025163000
  
 jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -3284,24 +3244,14 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230522163000
  
 jfcmo1
+Engenharia de Software - Software Engineering
+20221215130000
+20221215143000
+ 
+jfcmo1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221214143000
 20221214160000
- 
-jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230228160000
-20230228173000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
-20220927133000
-20220927150000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
-20220915133000
-20220915150000
  
 jfcmo1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
@@ -3339,11 +3289,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230207160000
  
 jfcmo1
-Modulação e Codificação - Modulation and Coding
-20221011150000
-20221011163000
- 
-jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230209160000
 20230209173000
@@ -3357,6 +3302,16 @@ jfcmo1
 Engenharia de Software - Software Engineering
 20221011120000
 20221011133000
+ 
+jfcmo1
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221012133000
+20221012150000
+ 
+jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230228160000
+20230228173000
  
 jfcmo1
 Engenharia de Software - Software Engineering
@@ -3409,6 +3364,11 @@ Engenharia de Software - Software Engineering
 20221206143000
  
 jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221103093000
+20221103110000
+ 
+jfcmo1
 Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects
 20220919100000
 20220919113000
@@ -3424,6 +3384,16 @@ Arquitetura de Redes - Network Arquitectures
 20220915163000
  
 jfcmo1
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221019133000
+20221019150000
+ 
+jfcmo1
+Modulação e Codificação - Modulation and Coding
+20220913133000
+20220913150000
+ 
+jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230307130000
 20230307143000
@@ -3437,6 +3407,11 @@ jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230510083000
 20230510100000
+ 
+jfcmo1
+Modulação e Codificação - Modulation and Coding
+20220930100000
+20220930113000
  
 jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -3479,9 +3454,9 @@ Arquitetura de Redes - Network Arquitectures
 20221128143000
  
 jfcmo1
-Modulação e Codificação - Modulation and Coding
-20220913133000
-20220913150000
+Engenharia de Software - Software Engineering
+20221020133000
+20221020150000
  
 jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -3494,19 +3469,14 @@ Engenharia de Software - Software Engineering
 20221129143000
  
 jfcmo1
-Engenharia de Software - Software Engineering
-20221020120000
-20221020133000
- 
-jfcmo1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221024150000
 20221024163000
  
 jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230509150000
-20230509163000
+Modulação e Codificação - Modulation and Coding
+20220927150000
+20220927163000
  
 jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -3519,9 +3489,19 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230308160000
  
 jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221108160000
+20221108173000
+ 
+jfcmo1
 Arquitetura de Redes - Network Arquitectures
 20220919120000
 20220919133000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20221214143000
+20221214160000
  
 jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -3610,21 +3590,6 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
  
 jfcmo1
 Modulação e Codificação - Modulation and Coding
-20221108160000
-20221108173000
- 
-jfcmo1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221019133000
-20221019150000
- 
-jfcmo1
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220921133000
-20220921150000
- 
-jfcmo1
-Modulação e Codificação - Modulation and Coding
 20220912133000
 20220912150000
  
@@ -3632,6 +3597,11 @@ jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230427133000
 20230427150000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20220915133000
+20220915150000
  
 jfcmo1
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -3644,14 +3614,19 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230228143000
  
 jfcmo1
+Arquitetura de Redes - Network Arquitectures
+20221013150000
+20221013163000
+ 
+jfcmo1
 Engenharia de Software - Software Engineering
 20220922120000
 20220922133000
  
 jfcmo1
-Arquitetura de Redes - Network Arquitectures
-20221013150000
-20221013163000
+Engenharia de Software - Software Engineering
+20221214130000
+20221214143000
  
 jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -3669,6 +3644,21 @@ Segurança e Gestão de Redes - Network Security and Management
 20230207123000
  
 jfcmo1
+Engenharia de Software - Software Engineering
+20221215143000
+20221215160000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20220929133000
+20220929150000
+ 
+jfcmo1
+Engenharia de Software - Software Engineering
+20220922133000
+20220922150000
+ 
+jfcmo1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221130130000
 20221130143000
@@ -3679,14 +3669,29 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230517113000
  
 jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230424120000
+20230424133000
+ 
+jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230314143000
 20230314160000
  
 jfcmo1
+Segurança e Gestão de Redes - Network Security and Management
+20230328150000
+20230328163000
+ 
+jfcmo1
 Arquitetura de Redes - Network Arquitectures
 20220928150000
 20220928163000
+ 
+jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221103110000
+20221103123000
  
 jfcmo1
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -3739,6 +3744,11 @@ Arquitetura de Redes - Network Arquitectures
 20221003133000
  
 jfcmo1
+Modulação e Codificação - Modulation and Coding
+20221004133000
+20221004150000
+ 
+jfcmo1
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230522133000
 20230522150000
@@ -3779,11 +3789,6 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230223160000
  
 jfcmo1
-Segurança e Gestão de Redes - Network Security and Management
-20230502150000
-20230502163000
- 
-jfcmo1
 Engenharia de Software - Software Engineering
 20221025120000
 20221025133000
@@ -3817,11 +3822,6 @@ jfcmo1
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230309143000
 20230309160000
- 
-jfcmo1
-Engenharia de Software - Software Engineering
-20220922133000
-20220922150000
  
 jfcmo1
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -4064,11 +4064,6 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20220928213000
  
 mpclq
-Engenharia de Software - Software Engineering
-20221027133000
-20221027150000
- 
-mpclq
 Modulação e Codificação - Modulation and Coding
 20221031143000
 20221031160000
@@ -4082,6 +4077,11 @@ mpclq
 Modulação e Codificação - Modulation and Coding
 20221115143000
 20221115160000
+ 
+mpclq
+Engenharia de Software - Software Engineering
+20221027120000
+20221027133000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -4119,6 +4119,11 @@ Arquitetura de Redes - Network Arquitectures
 20221214173000
  
 mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221012100000
+20221012113000
+ 
+mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230327133000
 20230327150000
@@ -4129,24 +4134,9 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230228193000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20220930083000
-20220930100000
- 
-mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230320160000
 20230320173000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20221108143000
-20221108160000
- 
-mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221102143000
-20221102160000
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -4154,19 +4144,24 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230420150000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20220920133000
-20220920150000
- 
-mpclq
 Arquitetura de Redes - Network Arquitectures
 20221024120000
 20221024133000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20220920133000
+20220920150000
+ 
+mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230508120000
 20230508133000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20221018133000
+20221018150000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -4182,16 +4177,6 @@ mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20220923170000
 20220923183000
- 
-mpclq
-Engenharia de Software - Software Engineering
-20221214143000
-20221214160000
- 
-mpclq
-Engenharia de Software - Software Engineering
-20221215130000
-20221215143000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -4214,9 +4199,9 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221116210000
  
 mpclq
-Engenharia de Software - Software Engineering
-20221103143000
-20221103160000
+Segurança e Gestão de Redes - Network Security and Management
+20230523150000
+20230523163000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -4224,14 +4209,14 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221130223000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230512150000
-20230512163000
+Modulação e Codificação - Modulation and Coding
+20221025150000
+20221025163000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
-20230424120000
-20230424133000
+20230512150000
+20230512163000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -4274,6 +4259,11 @@ Arquitetura de Redes - Network Arquitectures
 20220926133000
  
 mpclq
+Engenharia de Software - Software Engineering
+20221013120000
+20221013133000
+ 
+mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230418120000
 20230418133000
@@ -4289,19 +4279,9 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230301173000
  
 mpclq
-Engenharia de Software - Software Engineering
-20220929133000
-20220929150000
- 
-mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230302143000
 20230302160000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230523150000
-20230523163000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -4317,6 +4297,11 @@ mpclq
 Arquitetura de Redes - Network Arquitectures
 20221123160000
 20221123173000
+ 
+mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220914133000
+20220914150000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -4347,6 +4332,11 @@ mpclq
 Modulação e Codificação - Modulation and Coding
 20221122160000
 20221122173000
+ 
+mpclq
+Engenharia de Software - Software Engineering
+20221006120000
+20221006133000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -4404,6 +4394,11 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230427163000
  
 mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230314160000
+20230314173000
+ 
+mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221214130000
 20221214143000
@@ -4422,6 +4417,11 @@ mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230215143000
 20230215160000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230509150000
+20230509163000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -4469,16 +4469,6 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221214210000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230307160000
-20230307173000
- 
-mpclq
-Engenharia de Software - Software Engineering
-20221215143000
-20221215160000
- 
-mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230313143000
 20230313160000
@@ -4509,11 +4499,6 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221214223000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221025133000
-20221025150000
- 
-mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230329133000
 20230329150000
@@ -4532,6 +4517,11 @@ mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230328170000
 20230328183000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230418150000
+20230418163000
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -4554,24 +4544,19 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230512150000
  
 mpclq
+Engenharia de Software - Software Engineering
+20221006133000
+20221006150000
+ 
+mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221130193000
 20221130210000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221018150000
-20221018163000
- 
-mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221123210000
 20221123223000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230321160000
-20230321173000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -4600,8 +4585,18 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
  
 mpclq
 Modulação e Codificação - Modulation and Coding
+20220927133000
+20220927150000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
 20221206160000
 20221206173000
+ 
+mpclq
+Engenharia de Software - Software Engineering
+20221027133000
+20221027150000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -4612,6 +4607,11 @@ mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221109143000
 20221109160000
+ 
+mpclq
+Engenharia de Software - Software Engineering
+20220915120000
+20220915133000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -4637,6 +4637,11 @@ mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221207210000
 20221207223000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20221025133000
+20221025150000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -4669,16 +4674,6 @@ Segurança e Gestão de Redes - Network Security and Management
 20230227143000
  
 mpclq
-Engenharia de Software - Software Engineering
-20221103130000
-20221103143000
- 
-mpclq
-Engenharia de Software - Software Engineering
-20220929120000
-20220929133000
- 
-mpclq
 Arquitetura de Redes - Network Arquitectures
 20221027150000
 20221027163000
@@ -4687,11 +4682,6 @@ mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221102130000
 20221102143000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20221103110000
-20221103123000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -4739,24 +4729,19 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230330150000
  
 mpclq
+Engenharia de Software - Software Engineering
+20221215130000
+20221215143000
+ 
+mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221214143000
 20221214160000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230228160000
-20230228173000
- 
-mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221215173000
 20221215190000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20220927133000
-20220927150000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -4772,11 +4757,6 @@ mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230308180000
 20230308193000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20221011150000
-20221011163000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -4829,6 +4809,11 @@ Engenharia de Software - Software Engineering
 20221206143000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20220913133000
+20220913150000
+ 
+mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221102210000
 20221102223000
@@ -4859,9 +4844,9 @@ Segurança e Gestão de Redes - Network Security and Management
 20230317173000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20220913133000
-20220913150000
+Engenharia de Software - Software Engineering
+20221020133000
+20221020150000
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -4872,11 +4857,6 @@ mpclq
 Engenharia de Software - Software Engineering
 20221129130000
 20221129143000
- 
-mpclq
-Engenharia de Software - Software Engineering
-20221020120000
-20221020133000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -4894,9 +4874,19 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20220921213000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230509150000
-20230509163000
+Modulação e Codificação - Modulation and Coding
+20220927150000
+20220927163000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20221108160000
+20221108173000
+ 
+mpclq
+Engenharia de Software - Software Engineering
+20221214143000
+20221214160000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -4944,9 +4934,9 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230215173000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221019133000
-20221019150000
+Engenharia de Software - Software Engineering
+20220915133000
+20220915150000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -4954,14 +4944,34 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230228143000
  
 mpclq
+Engenharia de Software - Software Engineering
+20220922120000
+20220922133000
+ 
+mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230322143000
 20230322160000
  
 mpclq
+Engenharia de Software - Software Engineering
+20220929133000
+20220929150000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230424120000
+20230424133000
+ 
+mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230314143000
 20230314160000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230328150000
+20230328163000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -4972,6 +4982,11 @@ mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230503183000
 20230503200000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20221103110000
+20221103123000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -5014,6 +5029,11 @@ Arquitetura de Redes - Network Arquitectures
 20221003133000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20221004133000
+20221004150000
+ 
+mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230522133000
 20230522150000
@@ -5044,11 +5064,6 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230310160000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230502150000
-20230502163000
- 
-mpclq
 Modulação e Codificação - Modulation and Coding
 20220926133000
 20220926150000
@@ -5072,6 +5087,11 @@ mpclq
 Engenharia de Software - Software Engineering
 20221115100000
 20221115113000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230321160000
+20230321173000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -5104,16 +5124,6 @@ Engenharia de Software - Software Engineering
 20221004133000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221026133000
-20221026150000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20221004150000
-20221004163000
- 
-mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230227143000
 20230227160000
@@ -5144,11 +5154,6 @@ Arquitetura de Redes - Network Arquitectures
 20221102173000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20220920150000
-20220920163000
- 
-mpclq
 Arquitetura de Redes - Network Arquitectures
 20221130160000
 20221130173000
@@ -5159,9 +5164,9 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230426200000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221018133000
-20221018150000
+Engenharia de Software - Software Engineering
+20220929120000
+20220929133000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -5177,11 +5182,6 @@ mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221128160000
 20221128173000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20220927150000
-20220927163000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -5224,14 +5224,9 @@ Modulação e Codificação - Modulation and Coding
 20221114160000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221012100000
-20221012113000
- 
-mpclq
 Engenharia de Software - Software Engineering
+20221020120000
 20221020133000
-20221020150000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -5259,9 +5254,9 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20220914200000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230418150000
-20230418163000
+Modulação e Codificação - Modulation and Coding
+20220913150000
+20220913163000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -5269,14 +5264,9 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230509183000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230314160000
-20230314173000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230516150000
-20230516163000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221102143000
+20221102160000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -5310,18 +5300,8 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
  
 mpclq
 Modulação e Codificação - Modulation and Coding
-20221011133000
-20221011150000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
+20220930083000
 20220930100000
-20220930113000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230214160000
-20230214173000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -5344,9 +5324,19 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230303160000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20221004150000
+20221004163000
+ 
+mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230515120000
 20230515133000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230502150000
+20230502163000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -5354,19 +5344,19 @@ Modulação e Codificação - Modulation and Coding
 20221129173000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20221018150000
+20221018163000
+ 
+mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230517133000
 20230517150000
  
 mpclq
-Engenharia de Software - Software Engineering
-20221006133000
-20221006150000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230207160000
-20230207173000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221026133000
+20221026150000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -5379,19 +5369,9 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230306173000
  
 mpclq
-Engenharia de Software - Software Engineering
-20221006120000
-20221006133000
- 
-mpclq
 Modulação e Codificação - Modulation and Coding
 20221121143000
 20221121160000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230328150000
-20230328163000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -5414,24 +5394,24 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230330163000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221103093000
-20221103110000
- 
-mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221123130000
 20221123143000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20221011133000
+20221011150000
+ 
+mpclq
+Engenharia de Software - Software Engineering
+20221103130000
+20221103143000
+ 
+mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230214130000
 20230214143000
- 
-mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221012133000
-20221012150000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -5449,9 +5429,9 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221130160000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220928133000
-20220928150000
+Engenharia de Software - Software Engineering
+20221103143000
+20221103160000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -5469,9 +5449,14 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230428150000
  
 mpclq
-Engenharia de Software - Software Engineering
-20221013133000
-20221013150000
+Segurança e Gestão de Redes - Network Security and Management
+20230307160000
+20230307173000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230516150000
+20230516163000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -5494,11 +5479,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230418150000
  
 mpclq
-Engenharia de Software - Software Engineering
-20221214130000
-20221214143000
- 
-mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230314180000
 20230314193000
@@ -5519,19 +5499,9 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230306160000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220914133000
-20220914150000
- 
-mpclq
 Modulação e Codificação - Modulation and Coding
 20221024133000
 20221024150000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20220913150000
-20220913163000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -5539,9 +5509,9 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230214193000
  
 mpclq
-Engenharia de Software - Software Engineering
-20221013120000
-20221013133000
+Modulação e Codificação - Modulation and Coding
+20221011150000
+20221011163000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -5564,6 +5534,11 @@ Modulação e Codificação - Modulation and Coding
 20221115173000
  
 mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230207160000
+20230207173000
+ 
+mpclq
 Arquitetura de Redes - Network Arquitectures
 20221031130000
 20221031143000
@@ -5584,9 +5559,19 @@ Segurança e Gestão de Redes - Network Security and Management
 20230526163000
  
 mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220921133000
+20220921150000
+ 
+mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221116210000
 20221116223000
+ 
+mpclq
+Engenharia de Software - Software Engineering
+20221013133000
+20221013150000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -5599,11 +5584,6 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230503163000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221004133000
-20221004150000
- 
-mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230302160000
 20230302173000
@@ -5612,11 +5592,6 @@ mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230424120000
 20230424133000
- 
-mpclq
-Engenharia de Software - Software Engineering
-20221027120000
-20221027133000
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -5640,11 +5615,6 @@ Arquitetura de Redes - Network Arquitectures
  
 mpclq
 Engenharia de Software - Software Engineering
-20220915120000
-20220915133000
- 
-mpclq
-Engenharia de Software - Software Engineering
 20221124130000
 20221124143000
  
@@ -5654,19 +5624,34 @@ Engenharia de Software - Software Engineering
 20220913133000
  
 mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220928133000
+20220928150000
+ 
+mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221104180000
 20221104193000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221116143000
-20221116160000
+Modulação e Codificação - Modulation and Coding
+20220920150000
+20220920163000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
-20221025150000
-20221025163000
+20221108143000
+20221108160000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230214160000
+20230214173000
+ 
+mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221116143000
+20221116160000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -5694,11 +5679,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230522163000
  
 mpclq
-Engenharia de Software - Software Engineering
-20220915133000
-20220915150000
- 
-mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230421150000
 20230421163000
@@ -5714,9 +5694,19 @@ Engenharia de Software - Software Engineering
 20221011133000
  
 mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221012133000
+20221012150000
+ 
+mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221102193000
 20221102210000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230228160000
+20230228173000
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -5754,6 +5744,11 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221012200000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20221103093000
+20221103110000
+ 
+mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230510133000
 20230510150000
@@ -5762,6 +5757,16 @@ mpclq
 Arquitetura de Redes - Network Arquitectures
 20220915150000
 20220915163000
+ 
+mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221019133000
+20221019150000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20220930100000
+20220930113000
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -5845,16 +5850,6 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
  
 mpclq
 Modulação e Codificação - Modulation and Coding
-20221108160000
-20221108173000
- 
-mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220921133000
-20220921150000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
 20220912133000
 20220912150000
  
@@ -5869,14 +5864,14 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230427150000
  
 mpclq
-Engenharia de Software - Software Engineering
-20220922120000
-20220922133000
- 
-mpclq
 Arquitetura de Redes - Network Arquitectures
 20221013150000
 20221013163000
+ 
+mpclq
+Engenharia de Software - Software Engineering
+20221214130000
+20221214143000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -5887,6 +5882,16 @@ mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230207110000
 20230207123000
+ 
+mpclq
+Engenharia de Software - Software Engineering
+20221215143000
+20221215160000
+ 
+mpclq
+Engenharia de Software - Software Engineering
+20220922133000
+20220922150000
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -5947,11 +5952,6 @@ mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230309143000
 20230309160000
- 
-mpclq
-Engenharia de Software - Software Engineering
-20220922133000
-20220922150000
  
 mpclq
 Modulação e Codificação - Modulation and Coding

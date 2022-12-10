@@ -101,19 +101,15 @@ public class Main {
 			String[] name = ev.getChair().split("-");
 			String pt = name[0];
 
+			int endHour = endHour(ev);
+			int startHour = startHour(ev);
 			int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 			int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
 			int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
 
-			int startHour = Integer.parseInt(ev.getDateStart().substring(8, 10));
 			int startMin = Integer.parseInt(ev.getDateStart().substring(10, 12));
-			int endHour = Integer.parseInt(ev.getDateEnd().substring(8, 10));
 			int endMin = Integer.parseInt(ev.getDateEnd().substring(10, 12));
 
-			if (TimeZone.getDefault().inDaylightTime(new Date(year, month - 1, day))) {
-				startHour += 1;
-				endHour += 1;
-			}
 			if(ev.getUsername().equals("dfsaa1")) {
 				calEvents.add(new CalendarEvent(LocalDate.of(year, month, day), 
 						LocalTime.of(startHour, startMin), 
@@ -329,9 +325,28 @@ public class Main {
 			{
 				ex.printStackTrace();
 			}
-
 		});
-		
+	}
 
+	private static int startHour(Event ev) throws NumberFormatException {
+		int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
+		int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
+		int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
+		int startHour = Integer.parseInt(ev.getDateStart().substring(8, 10));
+		if (TimeZone.getDefault().inDaylightTime(new Date(year, month - 1, day))) {
+			startHour += 1;
+		}
+		return startHour;
+	}
+
+	private static int endHour(Event ev) throws NumberFormatException {
+		int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
+		int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
+		int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
+		int endHour = Integer.parseInt(ev.getDateEnd().substring(8, 10));
+		if (TimeZone.getDefault().inDaylightTime(new Date(year, month - 1, day))) {
+			endHour += 1;
+		}
+		return endHour;
 	}
 }
