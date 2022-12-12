@@ -22,6 +22,7 @@ import java.util.Locale;
  * @version 08/12/2022
  */
 public abstract class Calendar extends JComponent {
+	private CalendarProduct calendarProduct = new CalendarProduct();
 	/**
 	 * start time
 	 */
@@ -68,11 +69,6 @@ public abstract class Calendar extends JComponent {
 	 * graphics 2D 
 	 */
 	private Graphics2D g2;
-
-	/**
-	 * Listener list
-	 */
-	private EventListenerList listenerList = new EventListenerList();
 
 	/**
 	 * Calendar class
@@ -144,7 +140,7 @@ public abstract class Calendar extends JComponent {
 			y1 = timeToPixel(event.getEnd());
 
 			if (p.getX() >= x0 && p.getX() <= x1 && p.getY() >= y0 && p.getY() <= y1) {
-				fireCalendarEventClick(event);
+				calendarProduct.fireCalendarEventClick(event, this);
 				return true;
 			}
 		}
@@ -163,7 +159,7 @@ public abstract class Calendar extends JComponent {
 
 		if (p.getX() >= x0 && p.getX() <= x1 && p.getY() >= y0 && p.getY() <= y1) {
 			LocalDate date = getDateFromDay(pixelToDay(p.getX()));
-			fireCalendarEmptyClick(LocalDateTime.of(date, pixelToTime(p.getY())));
+			calendarProduct.fireCalendarEmptyClick(LocalDateTime.of(date, pixelToTime(p.getY())), this);
 			return true;
 		}
 		return false;
@@ -181,7 +177,7 @@ public abstract class Calendar extends JComponent {
 	 * @param l is the click listener
 	 */
 	public void addCalendarEventClickListener(CalendarEventClickListener l) {
-		listenerList.add(CalendarEventClickListener.class, l);
+		calendarProduct.addCalendarEventClickListener(l);
 	}
 
 	/**
@@ -189,55 +185,23 @@ public abstract class Calendar extends JComponent {
 	 * @param l is the click listener
 	 */
 	public void removeCalendarEventClickListener(CalendarEventClickListener l) {
-		listenerList.remove(CalendarEventClickListener.class, l);
+		calendarProduct.removeCalendarEventClickListener(l);
 	}
 
-
-	/**
-	 *  Notify all listeners that have registered interest for notification on this event type.
-	 * @param calendarEvent is a calendar event
-	 */
-	private void fireCalendarEventClick(CalendarEvent calendarEvent) {
-		// Guaranteed to return a non-null array
-		Object[] listeners = listenerList.getListenerList();
-		// Process the listeners last to first, notifying
-		// those that are interested in this event
-		CalendarEventClickEvent calendarEventClickEvent;
-		for (int i = listeners.length - 2; i >= 0; i -= 2) {
-			if (listeners[i] == CalendarEventClickListener.class) {
-				calendarEventClickEvent = new CalendarEventClickEvent(this, calendarEvent);
-				((CalendarEventClickListener) listeners[i + 1]).calendarEventClick(calendarEventClickEvent);
-			}
-		}
-	}
 
 	/**
 	 * CalendarEmptyClick method to add a calendar empty click listener
 	 * @param l is a calendar empty click listener
 	 */
 	public void addCalendarEmptyClickListener(CalendarEmptyClickListener l) {
-		listenerList.add(CalendarEmptyClickListener.class, l);
+		calendarProduct.addCalendarEmptyClickListener(l);
 	}
 	/**
 	 * CalendarEmptyClick method to remove a calendar empty click listener 
 	 * @param l is a calendar empty click listener
 	 */
 	public void removeCalendarEmptyClickListener(CalendarEmptyClickListener l) {
-		listenerList.remove(CalendarEmptyClickListener.class, l);
-	}
-	/**
-	 * Fire calendar Empty Click
-	 * @param dateTime is a local date time
-	 */
-	private void fireCalendarEmptyClick(LocalDateTime dateTime) {
-		Object[] listeners = listenerList.getListenerList();
-		CalendarEmptyClickEvent calendarEmptyClickEvent;
-		for (int i = listeners.length - 2; i >= 0; i -= 2) {
-			if (listeners[i] == CalendarEmptyClickListener.class) {
-				calendarEmptyClickEvent = new CalendarEmptyClickEvent(this, dateTime);
-				((CalendarEmptyClickListener) listeners[i + 1]).calendarEmptyClick(calendarEmptyClickEvent);
-			}
-		}
+		calendarProduct.removeCalendarEmptyClickListener(l);
 	}
 	/**
 	 * Calculate scale vars
@@ -294,16 +258,21 @@ public abstract class Calendar extends JComponent {
 	 * @return the pixel to day ratio
 	 */
 	private DayOfWeek pixelToDay(double x) {
-		double pixel;
-		DayOfWeek day;
+		double pixel = 0;
+		DayOfWeek day = null;
 		for (int i = getStartDay().getValue(); i <= getEndDay().getValue(); i++) {
+			pixel = pixel(pixel, day, i);
 			day = DayOfWeek.of(i);
-			pixel = dayToPixel(day);
 			if (x >= pixel && x < pixel + dayWidth) {
 				return day;
 			}
 		}
 		return null;
+	}
+	private double pixel(double pixel, DayOfWeek day, int i) {
+		day = DayOfWeek.of(i);
+		pixel = dayToPixel(day);
+		return pixel;
 	}
 
 	@Override
@@ -346,18 +315,30 @@ public abstract class Calendar extends JComponent {
 	 */
 	private void drawDayHeadings() {
 		int y = 20;
-		int x;
-		LocalDate day;
-		DayOfWeek dayOfWeek;
+		int x = 0;
+		LocalDate day = null;
+		DayOfWeek dayOfWeek = null;
 
 		for (int i = getStartDay().getValue(); i <= getEndDay().getValue(); i++) {
+			x = x(x, day, dayOfWeek, i);
+			day = day(day, dayOfWeek, i);
 			dayOfWeek = DayOfWeek.of(i);
-			day = getDateFromDay(dayOfWeek);
-
 			String text = dayOfWeek.getDisplayName(TextStyle.SHORT, Locale.ENGLISH) + " " + day.getDayOfMonth() + "/" + day.getMonthValue();
-			x = (int) (dayToPixel(DayOfWeek.of(i)) + (dayWidth / 2) - (FONT_LETTER_PIXEL_WIDTH * text.length() / 2));
 			g2.drawString(text, x, y);
 		}
+	}
+	private int x(int x, LocalDate day, DayOfWeek dayOfWeek, int i) {
+		day = day(day, dayOfWeek, i);
+		dayOfWeek = DayOfWeek.of(i);
+		String text = dayOfWeek.getDisplayName(TextStyle.SHORT, Locale.ENGLISH) + " " + day.getDayOfMonth() + "/"
+				+ day.getMonthValue();
+		x = (int) (dayToPixel(DayOfWeek.of(i)) + (dayWidth / 2) - (FONT_LETTER_PIXEL_WIDTH * text.length() / 2));
+		return x;
+	}
+	private LocalDate day(LocalDate day, DayOfWeek dayOfWeek, int i) {
+		dayOfWeek = DayOfWeek.of(i);
+		day = getDateFromDay(dayOfWeek);
+		return day;
 	}
 	/**
 	 * Draw the grid of the calendar
@@ -380,21 +361,28 @@ public abstract class Calendar extends JComponent {
 
 		// Draw horizontal grid lines
 		double y;
-		int x1;
+		int x1 = 0;
 		for (LocalTime time = START_TIME; time.compareTo(END_TIME) <= 0; time = time.plusMinutes(30)) {
 			y = timeToPixel(time);
+			x1 = x1(x1, time);
 			if (time.getMinute() == 0) {
 				g2.setColor(alphaGray);
-				x1 = 0;
 			} else {
 				g2.setColor(alphaGrayLighter);
-				x1 = TIME_COL_WIDTH;
 			}
 			g2.draw(new Line2D.Double(x1, y, dayToPixel(getEndDay()) + dayWidth, y));
 		}
 
 		// Reset the graphics context's colour
 		g2.setColor(ORIG_COLOUR);
+	}
+	private int x1(int x1, LocalTime time) {
+		if (time.getMinute() == 0) {
+			x1 = 0;
+		} else {
+			x1 = TIME_COL_WIDTH;
+		}
+		return x1;
 	}
 
 	/**
@@ -456,15 +444,15 @@ public abstract class Calendar extends JComponent {
 	 * Dras events
 	 */
 	private void drawEvents() {
-		double x;
-		double y0;
+		double x = 0;
+		double y0 = 0;
 		for (CalendarEvent event : events) {
 			if (!dateInRange(event.getDate())) continue;
 
+			Rectangle2D rect = rect(x, y0, event);
 			x = dayToPixel(event.getDate().getDayOfWeek());
 			y0 = timeToPixel(event.getStart());
 
-			Rectangle2D rect = new Rectangle2D.Double(x, y0, dayWidth, (timeToPixel(event.getEnd()) - timeToPixel(event.getStart())));
 			Color origColor = g2.getColor();
 			g2.setColor(event.getColor());
 			g2.fill(rect);
@@ -491,6 +479,13 @@ public abstract class Calendar extends JComponent {
 			// Reset font
 			g2.setFont(origFont);
 		}
+	}
+	private Rectangle2D rect(double x, double y0, CalendarEvent event) {
+		x = dayToPixel(event.getDate().getDayOfWeek());
+		y0 = timeToPixel(event.getStart());
+		Rectangle2D rect = new Rectangle2D.Double(x, y0, dayWidth,
+				(timeToPixel(event.getEnd()) - timeToPixel(event.getStart())));
+		return rect;
 	}
 	/**
 	 * Draw multiline strings
