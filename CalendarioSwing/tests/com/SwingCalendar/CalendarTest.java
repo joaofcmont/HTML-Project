@@ -2,22 +2,34 @@ package com.SwingCalendar;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import java.time.LocalDate;
 import java.time.LocalTime;
+import java.util.ArrayList;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class CalendarTest {
-
+class CalendarTest { 
+	
+	ArrayList<CalendarEvent> lista;
 	Calendar c;
+	
 	@BeforeEach
 	void setUp() throws Exception {
+lista = new ArrayList<>();
 		
-	}
-
-	@Test
-	void testCalendar() {
-		fail("Not yet implemented");
+		lista.add(new CalendarEvent(
+				LocalDate.now(), 
+				LocalTime.now(),
+				LocalTime.now().plusMinutes(90),
+				"EPPDS","mpclq"));
+		
+		lista.add(new CalendarEvent(
+				LocalDate.now().plusDays(8), 
+				LocalTime.now(),
+				LocalTime.now().plusMinutes(90),
+				"MC","mpclq"));
+		
 	}
 
 	@Test
