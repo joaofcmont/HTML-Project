@@ -52,6 +52,14 @@
     <artifactId>mongo-java-driver</artifactId>
     <version>3.12.10</version>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/org.jfree/jfreechart -->
+<dependency>
+    <groupId>org.jfree</groupId>
+    <artifactId>jfreechart</artifactId>
+    <version>1.0.19</version>
+</dependency>
+
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
