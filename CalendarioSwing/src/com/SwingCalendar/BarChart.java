@@ -5,7 +5,6 @@ import java.awt.Dimension;
 import java.awt.Graphics;
 import java.util.LinkedHashMap;
 import java.util.Map;
-import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 /**
@@ -30,18 +29,15 @@ public class BarChart extends JPanel{
 	@Override
 	protected void paintComponent(Graphics g)
 	{
-		/**
-		 * determine longest bar
-		 */
+		//determine longest bar
+		
 		int max = Integer.MIN_VALUE;
 		for (Integer value : bars.values())
 		{
 			max = Math.max(max, value);
 		}
 
-		/**
-		 * paint bars
-		 */
+		//paint bars
 		int width = (getWidth() / bars.size()) - 2;
 		int x = 1;
 		for (Color color : bars.keySet())
