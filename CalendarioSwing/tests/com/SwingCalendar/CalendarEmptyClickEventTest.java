@@ -18,6 +18,13 @@ CalendarEmptyClickEvent c;
 		 c = new CalendarEmptyClickEvent(Object.class,(LocalDateTime.of(LocalDate.of(2022, 12, 10),LocalTime.of(12, 00))));
 	}
 	
+	  @Test
+	    void testCalendarEmptyClickEvent()
+	    {
+	        assertThrows(IllegalArgumentException.class, () -> new CalendarEmptyClickEvent(null, null));
+	    }
+
+	
 	@Test
 	void testGetDateTime() {
 		assertEquals(LocalDateTime.of(LocalDate.of(2022, 12, 10),LocalTime.of(12, 00)), c.getDateTime());

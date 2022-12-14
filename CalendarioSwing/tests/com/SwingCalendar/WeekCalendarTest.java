@@ -7,6 +7,7 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
 
+import org.apache.tomcat.jni.Local;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -14,6 +15,7 @@ class WeekCalendarTest {
 
 	WeekCalendar weekCalendar; 
 	ArrayList<CalendarEvent> lista;
+	Week week ;
 	
 	@BeforeEach
 	void setUp() throws Exception {
@@ -59,6 +61,11 @@ class WeekCalendarTest {
 	@Test
 	void testGetEndDay() {
 		assertEquals(DayOfWeek.SUNDAY , weekCalendar.getEndDay());
+	}
+	@Test
+	void TestnextWeek() {
+		week= new Week(LocalDate.now());
+		assertEquals(weekCalendar.getWeek().nextWeek(),week.nextWeek());
 	}
 
 }

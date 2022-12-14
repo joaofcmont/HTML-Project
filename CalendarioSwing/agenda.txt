@@ -9,6 +9,11 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230308173000
  
 mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230314143000
+20230314160000
+ 
+mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230426183000
 20230426200000
@@ -29,24 +34,19 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230213160000
  
 mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221123143000
+20221123160000
+ 
+mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20220923170000
 20220923183000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221108143000
-20221108160000
- 
-mpclq
 Engenharia de Software - Software Engineering
 20221103130000
 20221103143000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230321130000
-20230321143000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -64,6 +64,21 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221213160000
  
 mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230523150000
+20230523163000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230207143000
+20230207160000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230509120000
+20230509133000
+ 
+mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221207210000
 20221207223000
@@ -72,6 +87,11 @@ mpclq
 Modulação e Codificação - Modulation and Coding
 20221103110000
 20221103123000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230228130000
+20230228143000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -89,6 +109,11 @@ Segurança e Gestão de Redes - Network Security and Management
 20230424133000
  
 mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230314130000
+20230314143000
+ 
+mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20220921120000
 20220921133000
@@ -99,14 +124,29 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221130143000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221206143000
-20221206160000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221214143000
+20221214160000
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230216160000
-20230216173000
+20230427150000
+20230427163000
+ 
+mpclq
+Arquitetura de Redes - Network Arquitectures
+20221012150000
+20221012163000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230228160000
+20230228173000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20220920150000
+20220920163000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -114,19 +154,9 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230320173000
  
 mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230516133000
-20230516150000
- 
-mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230503183000
 20230503200000
- 
-mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230302143000
-20230302160000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -139,9 +169,9 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230329150000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230516150000
-20230516163000
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230302143000
+20230302160000
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -149,19 +179,14 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230224160000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230418150000
-20230418163000
+Modulação e Codificação - Modulation and Coding
+20221122143000
+20221122160000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20220928200000
 20220928213000
- 
-mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230316160000
-20230316173000
  
 mpclq
 Engenharia de Software - Software Engineering
@@ -184,24 +209,9 @@ Segurança e Gestão de Redes - Network Security and Management
 20230317173000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230511133000
-20230511150000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230214143000
-20230214160000
- 
-mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230315180000
 20230315193000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20220930100000
-20220930113000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -212,6 +222,11 @@ mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230227130000
 20230227143000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20220913133000
+20220913150000
  
 mpclq
 Engenharia de Software - Software Engineering
@@ -227,16 +242,6 @@ mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221019200000
 20221019213000
- 
-mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230427150000
-20230427163000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230418120000
-20230418133000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -264,19 +269,9 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230310160000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221004150000
-20221004163000
- 
-mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20220920100000
 20220920113000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20221115160000
-20221115173000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -290,8 +285,8 @@ Arquitetura de Redes - Network Arquitectures
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
-20221123160000
-20221123173000
+20220921150000
+20220921163000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -300,8 +295,13 @@ Modulação e Codificação - Modulation and Coding
  
 mpclq
 Modulação e Codificação - Modulation and Coding
-20221129143000
-20221129160000
+20221108160000
+20221108173000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20220927150000
+20220927163000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -309,14 +309,9 @@ Segurança e Gestão de Redes - Network Security and Management
 20230526163000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221019133000
-20221019150000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230314130000
-20230314143000
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230511133000
+20230511150000
  
 mpclq
 Engenharia de Software - Software Engineering
@@ -335,11 +330,6 @@ Engenharia de Software - Software Engineering
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220921133000
-20220921150000
- 
-mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221109130000
 20221109143000
  
@@ -352,11 +342,6 @@ mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230322143000
 20230322160000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230502120000
-20230502133000
  
 mpclq
 Engenharia de Software - Software Engineering
@@ -375,13 +360,18 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230309160000
-20230309173000
- 
-mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
 20230303143000
 20230303160000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230516133000
+20230516150000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230328133000
+20230328150000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -404,14 +394,14 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20221128173000
  
 mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230214130000
+20230214143000
+ 
+mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221026200000
 20221026213000
- 
-mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230323143000
-20230323160000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -424,9 +414,9 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20220926163000
  
 mpclq
-Arquitetura de Redes - Network Arquitectures
-20221130160000
-20221130173000
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230323160000
+20230323173000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -439,9 +429,9 @@ Segurança e Gestão de Redes - Network Security and Management
 20230417133000
  
 mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230207130000
-20230207143000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221026133000
+20221026150000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -464,9 +454,9 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221216193000
  
 mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230214130000
-20230214143000
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230309143000
+20230309160000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -477,11 +467,6 @@ mpclq
 Engenharia de Software - Software Engineering
 20221011120000
 20221011133000
- 
-mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221207143000
-20221207160000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -499,9 +484,9 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230419200000
  
 mpclq
-Arquitetura de Redes - Network Arquitectures
-20221102160000
-20221102173000
+Segurança e Gestão de Redes - Network Security and Management
+20230307160000
+20230307173000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -509,19 +494,14 @@ Modulação e Codificação - Modulation and Coding
 20221011150000
  
 mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230502133000
-20230502150000
- 
-mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230216143000
-20230216160000
+Arquitetura de Redes - Network Arquitectures
+20221214160000
+20221214173000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
-20220930083000
-20220930100000
+20221122160000
+20221122173000
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -530,8 +510,8 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
  
 mpclq
 Modulação e Codificação - Modulation and Coding
-20220913133000
-20220913150000
+20221025150000
+20221025163000
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -544,14 +524,14 @@ Arquitetura de Redes - Network Arquitectures
 20221110173000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230223160000
-20230223173000
- 
-mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230206160000
 20230206173000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20221206160000
+20221206173000
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -564,14 +544,14 @@ Arquitetura de Redes - Network Arquitectures
 20221128143000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230223143000
-20230223160000
- 
-mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221019183000
 20221019200000
+ 
+mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230420150000
+20230420163000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -589,6 +569,11 @@ Engenharia de Software - Software Engineering
 20221215143000
  
 mpclq
+Arquitetura de Redes - Network Arquitectures
+20221026150000
+20221026163000
+ 
+mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230314180000
 20230314193000
@@ -599,19 +584,9 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230510183000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230504133000
-20230504150000
- 
-mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20220914183000
 20220914200000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230328133000
-20230328150000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -629,19 +604,14 @@ Engenharia de Software - Software Engineering
 20221006133000
  
 mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230321160000
+20230321173000
+ 
+mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230510150000
 20230510163000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230314143000
-20230314160000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230424120000
-20230424133000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -654,9 +624,14 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230524150000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221108160000
-20221108173000
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230509133000
+20230509150000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230516120000
+20230516133000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -674,24 +649,19 @@ Engenharia de Software - Software Engineering
 20221129143000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230504150000
-20230504163000
- 
-mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221116193000
 20221116210000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20221004150000
+20221004163000
+ 
+mpclq
 Engenharia de Software - Software Engineering
 20221115130000
 20221115143000
- 
-mpclq
-Arquitetura de Redes - Network Arquitectures
-20221109160000
-20221109173000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -705,8 +675,18 @@ Arquitetura de Redes - Network Arquitectures
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230316143000
-20230316160000
+20230504133000
+20230504150000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20221129143000
+20221129160000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230307130000
+20230307143000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -717,11 +697,6 @@ mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230313143000
 20230313160000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20220920133000
-20220920150000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -744,11 +719,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230327163000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221004133000
-20221004150000
- 
-mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221121160000
 20221121173000
@@ -759,14 +729,14 @@ Segurança e Gestão de Redes - Network Security and Management
 20230306143000
  
 mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230509133000
-20230509150000
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230511150000
+20230511163000
  
 mpclq
-Arquitetura de Redes - Network Arquitectures
-20220922150000
-20220922163000
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230328120000
+20230328133000
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -784,14 +754,39 @@ Arquitetura de Redes - Network Arquitectures
 20221121143000
  
 mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221019133000
+20221019150000
+ 
+mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230301160000
 20230301173000
  
 mpclq
+Arquitetura de Redes - Network Arquitectures
+20221123160000
+20221123173000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20221004133000
+20221004150000
+ 
+mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230309160000
+20230309173000
+ 
+mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230210160000
 20230210173000
+ 
+mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230209160000
+20230209173000
  
 mpclq
 Engenharia de Software - Software Engineering
@@ -804,29 +799,24 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230515163000
  
 mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230323143000
+20230323160000
+ 
+mpclq
 Engenharia de Software - Software Engineering
 20221214130000
 20221214143000
  
 mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230316143000
+20230316160000
+ 
+mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230308193000
 20230308210000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230509120000
-20230509133000
- 
-mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230330150000
-20230330163000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230328120000
-20230328133000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -844,39 +834,14 @@ Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication
 20230324160000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221122143000
-20221122160000
+Segurança e Gestão de Redes - Network Security and Management
+20230516150000
+20230516163000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221028170000
 20221028183000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230523150000
-20230523163000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20220927150000
-20220927163000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20221018133000
-20221018150000
- 
-mpclq
-Arquitetura de Redes - Network Arquitectures
-20221019150000
-20221019163000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230307130000
-20230307143000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -889,9 +854,19 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221109210000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20221018133000
+20221018150000
+ 
+mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230301180000
 20230301193000
+ 
+mpclq
+Arquitetura de Redes - Network Arquitectures
+20221207160000
+20221207173000
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -909,19 +884,14 @@ Engenharia de Software - Software Engineering
 20221124143000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20221206143000
+20221206160000
+ 
+mpclq
 Engenharia de Software - Software Engineering
 20221206130000
 20221206143000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230307143000
-20230307160000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230502150000
-20230502163000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -930,18 +900,28 @@ Segurança e Gestão de Redes - Network Security and Management
  
 mpclq
 Modulação e Codificação - Modulation and Coding
-20221206160000
-20221206173000
+20221129160000
+20221129173000
  
 mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230523120000
-20230523133000
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230216160000
+20230216173000
+ 
+mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230223160000
+20230223173000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230418170000
 20230418183000
+ 
+mpclq
+Arquitetura de Redes - Network Arquitectures
+20220922150000
+20220922163000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -979,11 +959,6 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230424163000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221129160000
-20221129173000
- 
-mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230508133000
 20230508150000
@@ -1014,9 +989,9 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230207193000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230420150000
-20230420163000
+Modulação e Codificação - Modulation and Coding
+20220930083000
+20220930100000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -1030,8 +1005,8 @@ Engenharia de Software - Software Engineering
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
-20230328150000
-20230328163000
+20230314160000
+20230314173000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -1044,6 +1019,11 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230508163000
  
 mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230207130000
+20230207143000
+ 
+mpclq
 Engenharia de Software - Software Engineering
 20221215143000
 20221215160000
@@ -1052,11 +1032,6 @@ mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230315143000
 20230315160000
- 
-mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221214143000
-20221214160000
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -1069,9 +1044,14 @@ Engenharia de Software - Software Engineering
 20221027133000
  
 mpclq
-Arquitetura de Redes - Network Arquitectures
-20221116160000
-20221116173000
+Segurança e Gestão de Redes - Network Security and Management
+20230303160000
+20230303173000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230418150000
+20230418163000
  
 mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
@@ -1079,24 +1059,14 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230523150000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221130143000
-20221130160000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230303160000
-20230303173000
- 
-mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20220921183000
 20220921200000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221025150000
-20221025163000
+Segurança e Gestão de Redes - Network Security and Management
+20230207160000
+20230207173000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -1109,14 +1079,14 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230301210000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221012100000
-20221012113000
- 
-mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230512150000
 20230512163000
+ 
+mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230420133000
+20230420150000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -1124,9 +1094,9 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230419150000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230209160000
-20230209173000
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230214143000
+20230214160000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -1144,14 +1114,19 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221104193000
  
 mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230316160000
+20230316173000
+ 
+mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230306160000
 20230306173000
  
 mpclq
-Arquitetura de Redes - Network Arquitectures
-20221026150000
-20221026163000
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230307143000
+20230307160000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -1169,9 +1144,19 @@ Engenharia de Software - Software Engineering
 20221117143000
  
 mpclq
+Modulação e Codificação - Modulation and Coding
+20221018150000
+20221018163000
+ 
+mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221123173000
 20221123190000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230418133000
+20230418150000
  
 mpclq
 Engenharia de Software - Software Engineering
@@ -1179,14 +1164,9 @@ Engenharia de Software - Software Engineering
 20221122143000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230511150000
-20230511163000
- 
-mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221109143000
-20221109160000
+Modulação e Codificação - Modulation and Coding
+20220930100000
+20220930113000
  
 mpclq
 Segurança e Gestão de Redes - Network Security and Management
@@ -1194,14 +1174,14 @@ Segurança e Gestão de Redes - Network Security and Management
 20230324173000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220928133000
-20220928150000
+Modulação e Codificação - Modulation and Coding
+20221025133000
+20221025150000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
-20220914150000
-20220914163000
+20221102160000
+20221102173000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -1219,6 +1199,11 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230322193000
  
 mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230504150000
+20230504163000
+ 
+mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230315193000
 20230315210000
@@ -1229,14 +1214,24 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20220919163000
  
 mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230209143000
+20230209160000
+ 
+mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20221026120000
 20221026133000
  
 mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230502120000
+20230502133000
+ 
+mpclq
 Arquitetura de Redes - Network Arquitectures
-20221214160000
-20221214173000
+20220915150000
+20220915163000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -1252,11 +1247,6 @@ mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230327120000
 20230327133000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230314160000
-20230314173000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -1284,6 +1274,16 @@ Sistemas de Comunicação Ótica - Optical Communication Systems
 20230522150000
  
 mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230302160000
+20230302173000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20221115160000
+20221115173000
+ 
+mpclq
 Arquitetura de Redes - Network Arquitectures
 20221128130000
 20221128143000
@@ -1304,11 +1304,6 @@ Arquitetura de Redes - Network Arquitectures
 20220912133000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230309143000
-20230309160000
- 
-mpclq
 Modulação e Codificação - Modulation and Coding
 20220919133000
 20220919150000
@@ -1324,9 +1319,14 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230412200000
  
 mpclq
-Arquitetura de Redes - Network Arquitectures
-20221006150000
-20221006163000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221109143000
+20221109160000
+ 
+mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220928133000
+20220928150000
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
@@ -1344,11 +1344,6 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221207210000
  
 mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230207143000
-20230207160000
- 
-mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221026183000
 20221026200000
@@ -1364,24 +1359,9 @@ Arquitetura de Redes - Network Arquitectures
 20221117173000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20220927133000
-20220927150000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230228160000
-20230228173000
- 
-mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230208193000
 20230208210000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230418133000
-20230418150000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -1399,14 +1379,14 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230328183000
  
 mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230228143000
+20230228160000
+ 
+mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230213130000
 20230213143000
- 
-mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221012133000
-20221012150000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -1414,19 +1394,29 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221109223000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20220914133000
-20220914150000
- 
-mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230330133000
-20230330150000
+20230223143000
+20230223160000
  
 mpclq
-Arquitetura de Redes - Network Arquitectures
-20220915150000
-20220915163000
+Segurança e Gestão de Redes - Network Security and Management
+20230214160000
+20230214173000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230418120000
+20230418133000
+ 
+mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221116143000
+20221116160000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230509150000
+20230509163000
  
 mpclq
 Engenharia de Software - Software Engineering
@@ -1439,14 +1429,14 @@ Engenharia de Software - Software Engineering
 20220929150000
  
 mpclq
-Arquitetura de Redes - Network Arquitectures
-20221207160000
-20221207173000
- 
-mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230215143000
 20230215160000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230328150000
+20230328163000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -1484,19 +1474,9 @@ Electrónica Programada e Processamento Digital de Sinais - Programmable Electro
 20220912163000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230427133000
-20230427150000
- 
-mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
 20220914120000
 20220914133000
- 
-mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230321160000
-20230321173000
  
 mpclq
 Engenharia de Software - Software Engineering
@@ -1504,14 +1484,14 @@ Engenharia de Software - Software Engineering
 20221117160000
  
 mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221116143000
-20221116160000
- 
-mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230301143000
 20230301160000
+ 
+mpclq
+Arquitetura de Redes - Network Arquitectures
+20220928150000
+20220928163000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -1539,9 +1519,9 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230411183000
  
 mpclq
-Arquitetura de Redes - Network Arquitectures
-20220921150000
-20220921163000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221012133000
+20221012150000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -1562,16 +1542,6 @@ mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230517133000
 20230517150000
- 
-mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221026133000
-20221026150000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20221115143000
-20221115160000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -1595,8 +1565,13 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221102143000
-20221102160000
+20221012100000
+20221012113000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20220927133000
+20220927150000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -1604,19 +1579,14 @@ Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet
 20230321193000
  
 mpclq
+Arquitetura de Redes - Network Arquitectures
+20221130160000
+20221130173000
+ 
+mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230515120000
 20230515133000
- 
-mpclq
-Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
-20221123143000
-20221123160000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
-20221122160000
-20221122173000
  
 mpclq
 Modulação e Codificação - Modulation and Coding
@@ -1629,9 +1599,9 @@ Engenharia de Software - Software Engineering
 20221216130000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20220920150000
-20220920163000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221130143000
+20221130160000
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -1660,23 +1630,28 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
  
 mpclq
 Modulação e Codificação - Modulation and Coding
-20221018150000
-20221018163000
- 
-mpclq
-Modulação e Codificação - Modulation and Coding
 20220912133000
 20220912150000
  
 mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230502150000
+20230502163000
+ 
+mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230321143000
-20230321160000
+20230502133000
+20230502150000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
 20230510133000
 20230510150000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20221108143000
+20221108160000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -1699,16 +1674,6 @@ Engenharia de Software - Software Engineering
 20220929133000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230509150000
-20230509163000
- 
-mpclq
-Arquitetura de Redes - Network Arquitectures
-20221012150000
-20221012163000
- 
-mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230510183000
 20230510200000
@@ -1724,19 +1689,34 @@ Engenharia de Software - Software Engineering
 20221110143000
  
 mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221207143000
+20221207160000
+ 
+mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230206130000
 20230206143000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230214160000
-20230214173000
+Arquitetura de Redes - Network Arquitectures
+20220914150000
+20220914163000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
 20221006150000
 20221006163000
+ 
+mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230330150000
+20230330163000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230523120000
+20230523133000
  
 mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
@@ -1764,11 +1744,6 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221130223000
  
 mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230516120000
-20230516133000
- 
-mpclq
 Segurança e Gestão de Redes - Network Security and Management
 20230331150000
 20230331163000
@@ -1779,14 +1754,14 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221012213000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230207160000
-20230207173000
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20221102143000
+20221102160000
  
 mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230228143000
-20230228160000
+Arquitetura de Redes - Network Arquitectures
+20221006150000
+20221006163000
  
 mpclq
 Arquitetura de Redes - Network Arquitectures
@@ -1799,19 +1774,34 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20220914213000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230420133000
-20230420150000
- 
-mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230322193000
 20230322210000
  
 mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230321143000
+20230321160000
+ 
+mpclq
+Arquitetura de Redes - Network Arquitectures
+20221019150000
+20221019163000
+ 
+mpclq
 Arquitetura de Redes - Network Arquitectures
 20221024120000
 20221024133000
+ 
+mpclq
+Arquitetura de Redes - Network Arquitectures
+20221116160000
+20221116173000
+ 
+mpclq
+Arquitetura de Redes - Network Arquitectures
+20221109160000
+20221109173000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -1829,9 +1819,29 @@ Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230522163000
  
 mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230330133000
+20230330150000
+ 
+mpclq
+Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
+20230321130000
+20230321143000
+ 
+mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230329170000
 20230329183000
+ 
+mpclq
+Modulação e Codificação - Modulation and Coding
+20221115143000
+20221115160000
+ 
+mpclq
+Segurança e Gestão de Redes - Network Security and Management
+20230424120000
+20230424133000
  
 mpclq
 Sistemas de Comunicação Ótica - Optical Communication Systems
@@ -1869,14 +1879,14 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20220921213000
  
 mpclq
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230427133000
+20230427150000
+ 
+mpclq
 Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
 20230313160000
 20230313173000
- 
-mpclq
-Arquitetura de Redes - Network Arquitectures
-20220928150000
-20220928163000
  
 mpclq
 Engenharia de Software - Software Engineering
@@ -1884,19 +1894,24 @@ Engenharia de Software - Software Engineering
 20221115113000
  
 mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220921133000
+20220921150000
+ 
+mpclq
+Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
+20220914133000
+20220914150000
+ 
+mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
 20230215193000
 20230215210000
  
 mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230302160000
-20230302173000
- 
-mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230323160000
-20230323173000
+Modulação e Codificação - Modulation and Coding
+20220920133000
+20220920150000
  
 mpclq
 Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing
@@ -1909,14 +1924,9 @@ Segurança e Gestão de Redes - Network Security and Management
 20230508133000
  
 mpclq
-Modulação e Codificação - Modulation and Coding
-20221025133000
-20221025150000
- 
-mpclq
-Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project
-20230228130000
-20230228143000
+Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
+20230216143000
+20230216160000
  
 mpclq
 Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps
@@ -1929,19 +1939,9 @@ Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine I
 20221130210000
  
 mpclq
-Segurança e Gestão de Redes - Network Security and Management
-20230307160000
-20230307173000
- 
-mpclq
 Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction
 20221014170000
 20221014183000
- 
-mpclq
-Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems
-20230209143000
-20230209160000
  
 mpclq
 Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems - Exame
