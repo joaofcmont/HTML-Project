@@ -59,8 +59,9 @@ public class Main {
 	 * @throws JsonSyntaxException is raised for Gson to read (or write) a malformed JSON element.
 	 * @throws JsonIOException is raised when Gson was unable to read an input stream or write to one.
 	 * @throws IOException for accessing files 
+	 * @throws IllegalAccessException 
 	 */
-	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
+	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException, IllegalAccessException {
 
 		ConnectToDB db = new ConnectToDB();
 		Parser p= new Parser();
@@ -278,7 +279,7 @@ public class Main {
 				fw.close();
 				frm.dispose();
 				main(args);
-			} catch (IOException e1) {
+			} catch (IOException | JsonSyntaxException | JsonIOException | IllegalAccessException e1) {
 				e1.printStackTrace();
 			}
 		});
@@ -357,7 +358,7 @@ public class Main {
 		});
 	}
 
-	private static int startHour(Event ev) throws NumberFormatException {
+	 static int startHour(Event ev) throws NumberFormatException {
 		int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 		int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
 		int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
@@ -368,7 +369,7 @@ public class Main {
 		return startHour;
 	}
 
-	private static int endHour(Event ev) throws NumberFormatException {
+	static int endHour(Event ev) throws NumberFormatException {
 		int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 		int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
 		int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
