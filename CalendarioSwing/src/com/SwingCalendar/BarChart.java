@@ -13,6 +13,7 @@ import javax.swing.JPanel;
  *
  */
 public class BarChart extends JPanel{
+	
 	private Map<Color, Integer> bars = new LinkedHashMap<Color, Integer>();
 
 	/**
