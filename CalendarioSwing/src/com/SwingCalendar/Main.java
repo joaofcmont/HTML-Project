@@ -282,25 +282,28 @@ public class Main {
 				e1.printStackTrace();
 			}
 		});
-		
+
 		JButton seeChart = new JButton("See Barchart");
 		seeChart.addActionListener(e -> {
-		JFrame frame = new JFrame("Relação mensal em percentagem de Slots Preenchidos/Slots Vazios");
-		BarChart chart = new BarChart();
-		String mes = JOptionPane.showInputDialog(frame, "Mês a representar: (ING/CAPS)");
-		int slotsPreenchidos =0 ;
-		int totalSlots = 420;
-		for(CalendarEvent event : calEvents) {
-			if(event.getDate().getMonth().toString().equals(mes)) {
-				slotsPreenchidos++;
+			JFrame frame = new JFrame("Relação mensal em percentagem de Slots Preenchidos/Slots Vazios");
+			BarChart chart = new BarChart();
+			int ano = Integer.parseInt(JOptionPane.showInputDialog(frame, "Ano a representar:"));
+			String mes = JOptionPane.showInputDialog(frame, "Mês a representar: (ING/CAPS)");
+			int slotsPreenchidos =0 ;
+			int totalSlots = 420;
+			for(CalendarEvent event : calEvents) {
+				if(event.getDate().getYear() == ano) {
+					if(event.getDate().getMonth().toString().equals(mes)) {
+						slotsPreenchidos++;
+					}
+				}
 			}
-		}
-		int mediaSlotsVazios = (((totalSlots - slotsPreenchidos)*100)/totalSlots);
-		chart.addBar(Color.red, (slotsPreenchidos*100)/totalSlots);
-		chart.addBar(Color.green, mediaSlotsVazios);   
-		frame.getContentPane().add(chart);
-		frame.pack();
-		frame.setVisible(true);
+			int mediaSlotsVazios = (((totalSlots - slotsPreenchidos)*100)/totalSlots);
+			chart.addBar(Color.red, (slotsPreenchidos*100)/totalSlots);
+			chart.addBar(Color.green, mediaSlotsVazios);   
+			frame.getContentPane().add(chart);
+			frame.pack();
+			frame.setVisible(true);
 		});
 
 		JPanel weekControls = new JPanel();
