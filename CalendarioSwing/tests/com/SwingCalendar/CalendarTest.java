@@ -29,116 +29,39 @@ lista = new ArrayList<>();
 				LocalTime.now(),
 				LocalTime.now().plusMinutes(90),
 				"MC","mpclq"));
-		
 	}
 
 	@Test
-	void testCalendarArrayListOfCalendarEvent() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testRoundTime() {
+ void testRoundTime() {
 		
 		LocalTime t = LocalTime.of(12, 25);
-		int m = 30;
-		assertEquals(LocalTime.of(12, 00),c.roundTime(t, m));
+		int m = 25;
+		assertEquals(LocalTime.of(12, 25),Calendar.roundTime(t, m));
 		
 	}
 
-	@Test
-	void testDateInRange() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testGetDateFromDay() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testAddCalendarEventClickListener() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testRemoveCalendarEventClickListener() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testAddCalendarEmptyClickListener() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testRemoveCalendarEmptyClickListener() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testCalculateScaleVars() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testNumDaysToShow() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testDayToPixel() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testPaintComponentGraphics() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testGetStartDay() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testGetEndDay() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testDrawStringMultiLine() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testGetDayWidth() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testSetRangeToToday() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testGoToToday() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testAddEvent() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testRemoveEvent() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	void testSetEvents() {
-		fail("Not yet implemented");
-	}
+//	@Test
+//	void testAddCalendarEventClickListener() {
+//		assertThrows(IllegalArgumentException.class , () ->c.addCalendarEventClickListener(null));
+//
+//	}
+//
+//	@Test
+//	void testRemoveCalendarEventClickListener() {
+//		assertThrows(IllegalArgumentException.class , () ->c.removeCalendarEventClickListener(null));
+//
+//	}
+//
+//	@Test
+//	void testAddCalendarEmptyClickListener() {
+//		assertThrows(IllegalArgumentException.class , () ->c.addCalendarEmptyClickListener(null));
+//
+//	}
+//
+//	@Test
+//	void testRemoveCalendarEmptyClickListener() {
+//		assertThrows(IllegalArgumentException.class , () ->c.removeCalendarEmptyClickListener(null));
+//
+//	}
 
 }

@@ -16,7 +16,7 @@ class CalendarEventTest {
 	void setUp() throws Exception {
 		calendarEvent = new CalendarEvent(LocalDate.of(2022, 12, 8),
 				LocalTime.of(12, 0),
-				LocalTime.now().plusMinutes(90),
+				LocalTime.of(12, 30),
 				"EPPDS",
 				"mpclq");
 	}
@@ -42,7 +42,7 @@ class CalendarEventTest {
 
 	@Test
 	void testGetEnd() {
-		assertEquals(LocalTime.now().plusMinutes(90),calendarEvent.getEnd() );
+		assertEquals(LocalTime.of(12, 30),calendarEvent.getEnd() );
 	}
 
 
