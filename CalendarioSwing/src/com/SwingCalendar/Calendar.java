@@ -117,6 +117,7 @@ public abstract class Calendar extends JComponent {
 			}
 		});
 	}
+	
 	/**
 	 * 
 	 * @param date is the date range
@@ -175,16 +176,24 @@ public abstract class Calendar extends JComponent {
 	/**
 	 * Adds a click listener into calendar
 	 * @param l is the click listener
+	 * @throws IllegalAccessException 
 	 */
-	public void addCalendarEventClickListener(CalendarEventClickListener l) {
+	public void addCalendarEventClickListener(CalendarEventClickListener l) throws IllegalAccessException {
+		if(l==null) {
+			throw new IllegalArgumentException("Calendário Event Click Listener nao pode ser null");
+		}
 		calendarProduct.addCalendarEventClickListener(l);
 	}
 
 	/**
 	 * Removes the click listener from calendar
 	 * @param l is the click listener
+	 * @throws IllegalAccessException 
 	 */
-	public void removeCalendarEventClickListener(CalendarEventClickListener l) {
+	public void removeCalendarEventClickListener(CalendarEventClickListener l) throws IllegalAccessException {
+		if(l==null) {
+			throw new IllegalArgumentException("Calendário Event Click Listener nao pode ser null");
+		}
 		calendarProduct.removeCalendarEventClickListener(l);
 	}
 
@@ -192,15 +201,23 @@ public abstract class Calendar extends JComponent {
 	/**
 	 * CalendarEmptyClick method to add a calendar empty click listener
 	 * @param l is a calendar empty click listener
+	 * @throws IllegalAccessException 
 	 */
-	public void addCalendarEmptyClickListener(CalendarEmptyClickListener l) {
+	public void addCalendarEmptyClickListener(CalendarEmptyClickListener l) throws IllegalAccessException {
+		if(l==null) {
+			throw new IllegalArgumentException("Calendário Empty Click Listener nao pode ser null");
+		}
 		calendarProduct.addCalendarEmptyClickListener(l);
 	}
 	/**
 	 * CalendarEmptyClick method to remove a calendar empty click listener 
 	 * @param l is a calendar empty click listener
+	 * @throws IllegalAccessException 
 	 */
-	public void removeCalendarEmptyClickListener(CalendarEmptyClickListener l) {
+	public void removeCalendarEmptyClickListener(CalendarEmptyClickListener l) throws IllegalAccessException {
+		if(l==null) {
+			throw new IllegalArgumentException("Calendário Empty Click Listener nao pode ser null");
+		}
 		calendarProduct.removeCalendarEmptyClickListener(l);
 	}
 	/**

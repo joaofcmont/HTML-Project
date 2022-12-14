@@ -59,8 +59,9 @@ public class Main {
 	 * @throws JsonSyntaxException is raised for Gson to read (or write) a malformed JSON element.
 	 * @throws JsonIOException is raised when Gson was unable to read an input stream or write to one.
 	 * @throws IOException for accessing files 
+	 * @throws IllegalAccessException 
 	 */
-	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException {
+	public static void main(String[] args) throws JsonSyntaxException, JsonIOException, IOException, IllegalAccessException {
 
 		ConnectToDB db = new ConnectToDB();
 		Parser p= new Parser();
@@ -278,29 +279,32 @@ public class Main {
 				fw.close();
 				frm.dispose();
 				main(args);
-			} catch (IOException e1) {
+			} catch (IOException | JsonSyntaxException | JsonIOException | IllegalAccessException e1) {
 				e1.printStackTrace();
 			}
 		});
-		
+
 		JButton seeChart = new JButton("See Barchart");
 		seeChart.addActionListener(e -> {
-		JFrame frame = new JFrame("Relação mensal em percentagem de Slots Preenchidos/Slots Vazios");
-		BarChart chart = new BarChart();
-		String mes = JOptionPane.showInputDialog(frame, "Mês a representar: (ING/CAPS)");
-		int slotsPreenchidos =0 ;
-		int totalSlots = 420;
-		for(CalendarEvent event : calEvents) {
-			if(event.getDate().getMonth().toString().equals(mes)) {
-				slotsPreenchidos++;
+			JFrame frame = new JFrame("Relação mensal em percentagem de Slots Preenchidos/Slots Vazios");
+			BarChart chart = new BarChart();
+			int ano = Integer.parseInt(JOptionPane.showInputDialog(frame, "Ano a representar:"));
+			String mes = JOptionPane.showInputDialog(frame, "Mês a representar: (ING/CAPS)");
+			int slotsPreenchidos =0 ;
+			int totalSlots = 420;
+			for(CalendarEvent event : calEvents) {
+				if(event.getDate().getYear() == ano) {
+					if(event.getDate().getMonth().toString().equals(mes)) {
+						slotsPreenchidos++;
+					}
+				}
 			}
-		}
-		int mediaSlotsVazios = (((totalSlots - slotsPreenchidos)*100)/totalSlots);
-		chart.addBar(Color.red, (slotsPreenchidos*100)/totalSlots);
-		chart.addBar(Color.green, mediaSlotsVazios);   
-		frame.getContentPane().add(chart);
-		frame.pack();
-		frame.setVisible(true);
+			int mediaSlotsVazios = (((totalSlots - slotsPreenchidos)*100)/totalSlots);
+			chart.addBar(Color.red, (slotsPreenchidos*100)/totalSlots);
+			chart.addBar(Color.green, mediaSlotsVazios);   
+			frame.getContentPane().add(chart);
+			frame.pack();
+			frame.setVisible(true);
 		});
 
 		JPanel weekControls = new JPanel();
@@ -354,7 +358,7 @@ public class Main {
 		});
 	}
 
-	private static int startHour(Event ev) throws NumberFormatException {
+	 static int startHour(Event ev) throws NumberFormatException {
 		int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 		int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
 		int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
@@ -365,7 +369,7 @@ public class Main {
 		return startHour;
 	}
 
-	private static int endHour(Event ev) throws NumberFormatException {
+	static int endHour(Event ev) throws NumberFormatException {
 		int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 		int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
 		int day = Integer.parseInt(ev.getDateStart().substring(6, 8));

@@ -15,32 +15,48 @@ public class CalendarProduct implements Serializable {
 	/**
 	* Adds a click listener into calendar
 	* @param l  is the click listener
+	 * @throws IllegalAccessException 
 	*/
-	public void addCalendarEventClickListener(CalendarEventClickListener l) {
+	public void addCalendarEventClickListener(CalendarEventClickListener l) throws IllegalAccessException {
+		if(l==null) {
+			throw new IllegalArgumentException("Calendário Event Click Listener nao pode ser null");
+		}
 		listenerList.add(CalendarEventClickListener.class, l);
 	}
 
 	/**
 	* Removes the click listener from calendar
 	* @param l  is the click listener
+	 * @throws IllegalAccessException 
 	*/
-	public void removeCalendarEventClickListener(CalendarEventClickListener l) {
+	public void removeCalendarEventClickListener(CalendarEventClickListener l) throws IllegalAccessException {
+		if(l==null) {
+			throw new IllegalArgumentException("Calendário Event Click Listener nao pode ser null");
+		}
 		listenerList.remove(CalendarEventClickListener.class, l);
 	}
 
 	/**
 	* CalendarEmptyClick method to add a calendar empty click listener
 	* @param l  is a calendar empty click listener
+	 * @throws IllegalAccessException 
 	*/
-	public void addCalendarEmptyClickListener(CalendarEmptyClickListener l) {
+	public void addCalendarEmptyClickListener(CalendarEmptyClickListener l) throws IllegalAccessException {
+		if(l==null) {
+			throw new IllegalArgumentException("Calendário Empty Click Listener nao pode ser null");
+		}
 		listenerList.add(CalendarEmptyClickListener.class, l);
 	}
 
 	/**
 	* CalendarEmptyClick method to remove a calendar empty click listener 
 	* @param l  is a calendar empty click listener
+	 * @throws IllegalAccessException 
 	*/
-	public void removeCalendarEmptyClickListener(CalendarEmptyClickListener l) {
+	public void removeCalendarEmptyClickListener(CalendarEmptyClickListener l) throws IllegalAccessException {
+		if(l==null) {
+			throw new IllegalArgumentException("Calendário Empty Click Listener nao pode ser null");
+		}
 		listenerList.remove(CalendarEmptyClickListener.class, l);
 	}
 
@@ -49,6 +65,9 @@ public class CalendarProduct implements Serializable {
 	* @param calendarEvent  is a calendar event
 	*/
 	public void fireCalendarEventClick(CalendarEvent calendarEvent, Calendar calendar) {
+		if(calendarEvent == null || calendar == null) {
+			throw new IllegalArgumentException("Não pode ser null");
+		}
 		Object[] listeners = listenerList.getListenerList();
 		CalendarEventClickEvent calendarEventClickEvent;
 		for (int i = listeners.length - 2; i >= 0; i -= 2) {
