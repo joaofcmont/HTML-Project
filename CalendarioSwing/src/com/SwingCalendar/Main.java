@@ -31,6 +31,10 @@ import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 import javax.swing.WindowConstants;
 
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.JFreeChart;
+import org.jfree.data.general.DefaultPieDataset;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonIOException;
@@ -41,13 +45,14 @@ import com.itextpdf.text.pdf.PdfWriter;
 
 import com.mongodb.client.FindIterable;
 
+import ch.qos.logback.core.net.SyslogOutputStream;
+
 /**
  * Main method
  * @version 08/12/2022
  */
 
 public class Main {
-
 	/**
 	 * 
 	 * @param args for the main method
@@ -62,11 +67,9 @@ public class Main {
 		Parser p= new Parser();
 		ToJson js= new ToJson();
 
-
 		ArrayList<CalendarEvent> eventsDiogo = new ArrayList<CalendarEvent>();
 		ArrayList<CalendarEvent> eventsMatheus = new ArrayList<CalendarEvent>();
 		ArrayList<CalendarEvent> eventsJoao = new ArrayList<CalendarEvent>();
-		ArrayList<CalendarEvent> eventsJoana = new ArrayList<CalendarEvent>();
 
 		boolean collectionExists = db.database.listCollectionNames().into(new ArrayList()).contains("Eventos");
 
@@ -132,7 +135,6 @@ public class Main {
 		JCheckBox c1 = new JCheckBox("Calendário Diogo", true);
 		JCheckBox c2 = new JCheckBox("Calendário João", true);
 		JCheckBox c3 = new JCheckBox("Calendário Matheus", true);
-		JCheckBox c4 = new JCheckBox("Calendário Joana", true);
 
 		c1.addItemListener(new ItemListener() {
 			public void itemStateChanged(ItemEvent e) {
@@ -191,26 +193,6 @@ public class Main {
 				SwingUtilities.updateComponentTreeUI(frm);
 			}
 		});
-		c4.addItemListener(new ItemListener() {
-			public void itemStateChanged(ItemEvent e) {
-				if (e.getStateChange() == 1) {
-					for(CalendarEvent event : eventsJoana)
-						calEvents.add(event);
-				} else {
-
-					for (ListIterator<CalendarEvent> it = calEvents.listIterator(); it.hasNext();){
-						CalendarEvent value = it.next();
-
-						if (value.getUser().equals("jmcls2")) {
-							eventsJoana.add(value);
-							it.remove();
-						}
-					}		
-				}
-				SwingUtilities.updateComponentTreeUI(frm);
-			}
-		});
-
 
 		WeekCalendar cal = new WeekCalendar(calEvents);
 
@@ -302,6 +284,29 @@ public class Main {
 			}
 		});
 
+		JButton seeChart = new JButton("See Barchart");
+		seeChart.addActionListener(e -> {
+			JFrame frame = new JFrame("Relação mensal em percentagem de Slots Preenchidos/Slots Vazios");
+			BarChart chart = new BarChart();
+			int ano = Integer.parseInt(JOptionPane.showInputDialog(frame, "Ano a representar:"));
+			String mes = JOptionPane.showInputDialog(frame, "Mês a representar: (ING/CAPS)");
+			int slotsPreenchidos =0 ;
+			int totalSlots = 420;
+			for(CalendarEvent event : calEvents) {
+				if(event.getDate().getYear() == ano) {
+					if(event.getDate().getMonth().toString().equals(mes)) {
+						slotsPreenchidos++;
+					}
+				}
+			}
+			int mediaSlotsVazios = (((totalSlots - slotsPreenchidos)*100)/totalSlots);
+			chart.addBar(Color.red, (slotsPreenchidos*100)/totalSlots);
+			chart.addBar(Color.green, mediaSlotsVazios);   
+			frame.getContentPane().add(chart);
+			frame.pack();
+			frame.setVisible(true);
+		});
+
 		JPanel weekControls = new JPanel();
 		weekControls.add(prevMonthBtn);
 		weekControls.add(prevWeekBtn);
@@ -311,7 +316,6 @@ public class Main {
 		weekControls.add(c1);
 		weekControls.add(c2);
 		weekControls.add(c3);
-		weekControls.add(c4);
 
 		JPanel eventControls = new JPanel();
 		eventControls.add(addEvent);
@@ -319,6 +323,7 @@ public class Main {
 		eventControls.add(detalhes);
 		eventControls.add(pdf);
 		eventControls.add(addCalendar);
+		eventControls.add(seeChart);
 
 		frm.add(weekControls, BorderLayout.NORTH);
 		frm.add(eventControls, BorderLayout.SOUTH);
@@ -353,7 +358,7 @@ public class Main {
 		});
 	}
 
-	private static int startHour(Event ev) throws NumberFormatException {
+	 static int startHour(Event ev) throws NumberFormatException {
 		int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 		int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
 		int day = Integer.parseInt(ev.getDateStart().substring(6, 8));
@@ -364,7 +369,7 @@ public class Main {
 		return startHour;
 	}
 
-	private static int endHour(Event ev) throws NumberFormatException {
+	static int endHour(Event ev) throws NumberFormatException {
 		int year = Integer.parseInt(ev.getDateStart().substring(0, 4));
 		int month = Integer.parseInt(ev.getDateStart().substring(4, 6));
 		int day = Integer.parseInt(ev.getDateStart().substring(6, 8));

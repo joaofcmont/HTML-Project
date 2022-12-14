@@ -1,9 +1,9 @@
 {
   "_id": {
-    "timestamp": 1670970293,
-    "counter": 4352018,
-    "randomValue1": 10735877,
-    "randomValue2": 4873
+    "timestamp": 1671057843,
+    "counter": 15624900,
+    "randomValue1": 7389324,
+    "randomValue2": 27807
   },
   "listaEventos": [
     {
@@ -19,9 +19,15 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230420150000",
-      "dateEnd": "20230420163000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220930083000",
+      "dateEnd": "20220930100000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230314143000",
+      "dateEnd": "20230314160000",
       "username": "dfsaa1"
     },
     {
@@ -56,8 +62,8 @@
     },
     {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230328150000",
-      "dateEnd": "20230328163000",
+      "dateStart": "20230314160000",
+      "dateEnd": "20230314173000",
       "username": "dfsaa1"
     },
     {
@@ -79,15 +85,21 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221123143000",
+      "dateEnd": "20221123160000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
       "dateStart": "20230508150000",
       "dateEnd": "20230508163000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221108143000",
-      "dateEnd": "20221108160000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230207130000",
+      "dateEnd": "20230207143000",
       "username": "dfsaa1"
     },
     {
@@ -109,12 +121,6 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230321130000",
-      "dateEnd": "20230321143000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230315143000",
       "dateEnd": "20230315160000",
@@ -133,9 +139,21 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221214143000",
-      "dateEnd": "20221214160000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230523150000",
+      "dateEnd": "20230523163000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230207143000",
+      "dateEnd": "20230207160000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230509120000",
+      "dateEnd": "20230509133000",
       "username": "dfsaa1"
     },
     {
@@ -157,21 +175,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221116160000",
-      "dateEnd": "20221116173000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230224080000",
       "dateEnd": "20230224093000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230523133000",
-      "dateEnd": "20230523150000",
       "username": "dfsaa1"
     },
     {
@@ -181,15 +187,15 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221130143000",
-      "dateEnd": "20221130160000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230303160000",
       "dateEnd": "20230303173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230228130000",
+      "dateEnd": "20230228143000",
       "username": "dfsaa1"
     },
     {
@@ -206,8 +212,26 @@
     },
     {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230418150000",
+      "dateEnd": "20230418163000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230424120000",
       "dateEnd": "20230424133000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230314130000",
+      "dateEnd": "20230314143000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230523133000",
+      "dateEnd": "20230523150000",
       "username": "dfsaa1"
     },
     {
@@ -217,9 +241,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221025150000",
-      "dateEnd": "20221025163000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230207160000",
+      "dateEnd": "20230207173000",
       "username": "dfsaa1"
     },
     {
@@ -241,12 +265,6 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221012100000",
-      "dateEnd": "20221012113000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230322110000",
       "dateEnd": "20230322123000",
@@ -265,27 +283,33 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221214143000",
+      "dateEnd": "20221214160000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230420133000",
+      "dateEnd": "20230420150000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230419133000",
       "dateEnd": "20230419150000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221206143000",
-      "dateEnd": "20221206160000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230214143000",
+      "dateEnd": "20230214160000",
       "username": "dfsaa1"
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230209160000",
-      "dateEnd": "20230209173000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220913150000",
-      "dateEnd": "20220913163000",
+      "dateStart": "20230427150000",
+      "dateEnd": "20230427163000",
       "username": "dfsaa1"
     },
     {
@@ -295,21 +319,39 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221012150000",
+      "dateEnd": "20221012163000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220913150000",
+      "dateEnd": "20220913163000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230228160000",
+      "dateEnd": "20230228173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220920150000",
+      "dateEnd": "20220920163000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230216160000",
-      "dateEnd": "20230216173000",
+      "dateStart": "20230316160000",
+      "dateEnd": "20230316173000",
       "username": "dfsaa1"
     },
     {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
       "dateStart": "20230306160000",
       "dateEnd": "20230306173000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221026150000",
-      "dateEnd": "20221026163000",
       "username": "dfsaa1"
     },
     {
@@ -320,20 +362,14 @@
     },
     {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230320160000",
-      "dateEnd": "20230320173000",
+      "dateStart": "20230307143000",
+      "dateEnd": "20230307160000",
       "username": "dfsaa1"
     },
     {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230516133000",
-      "dateEnd": "20230516150000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230302143000",
-      "dateEnd": "20230302160000",
+      "dateStart": "20230320160000",
+      "dateEnd": "20230320173000",
       "username": "dfsaa1"
     },
     {
@@ -355,15 +391,27 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221018150000",
+      "dateEnd": "20221018163000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230329133000",
       "dateEnd": "20230329150000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230516150000",
-      "dateEnd": "20230516163000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230302143000",
+      "dateEnd": "20230302160000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230418133000",
+      "dateEnd": "20230418150000",
       "username": "dfsaa1"
     },
     {
@@ -379,15 +427,15 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230418150000",
-      "dateEnd": "20230418163000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230324080000",
       "dateEnd": "20230324093000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221122143000",
+      "dateEnd": "20221122160000",
       "username": "dfsaa1"
     },
     {
@@ -403,18 +451,6 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230511150000",
-      "dateEnd": "20230511163000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230316160000",
-      "dateEnd": "20230316173000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20220915133000",
       "dateEnd": "20220915150000",
@@ -424,12 +460,6 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230227143000",
       "dateEnd": "20230227160000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221109143000",
-      "dateEnd": "20221109160000",
       "username": "dfsaa1"
     },
     {
@@ -445,45 +475,33 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220930100000",
+      "dateEnd": "20220930113000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230324160000",
       "dateEnd": "20230324173000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20220928133000",
-      "dateEnd": "20220928150000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221025133000",
+      "dateEnd": "20221025150000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221102160000",
+      "dateEnd": "20221102173000",
       "username": "dfsaa1"
     },
     {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230308093000",
       "dateEnd": "20230308110000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230511133000",
-      "dateEnd": "20230511150000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230214143000",
-      "dateEnd": "20230214160000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220914150000",
-      "dateEnd": "20220914163000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220930100000",
-      "dateEnd": "20220930113000",
       "username": "dfsaa1"
     },
     {
@@ -499,9 +517,21 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220913133000",
+      "dateEnd": "20220913150000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230308143000",
       "dateEnd": "20230308160000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230504150000",
+      "dateEnd": "20230504163000",
       "username": "dfsaa1"
     },
     {
@@ -529,27 +559,27 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230209143000",
+      "dateEnd": "20230209160000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221026120000",
       "dateEnd": "20221026133000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230427150000",
-      "dateEnd": "20230427163000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230502120000",
+      "dateEnd": "20230502133000",
       "username": "dfsaa1"
     },
     {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230331070000",
       "dateEnd": "20230331083000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230418120000",
-      "dateEnd": "20230418133000",
       "username": "dfsaa1"
     },
     {
@@ -560,8 +590,8 @@
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221214160000",
-      "dateEnd": "20221214173000",
+      "dateStart": "20220915150000",
+      "dateEnd": "20220915163000",
       "username": "dfsaa1"
     },
     {
@@ -574,12 +604,6 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230215160000",
       "dateEnd": "20230215173000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230314160000",
-      "dateEnd": "20230314173000",
       "username": "dfsaa1"
     },
     {
@@ -619,12 +643,6 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221004150000",
-      "dateEnd": "20221004163000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
       "dateStart": "20230331133000",
       "dateEnd": "20230331150000",
@@ -640,12 +658,6 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230206143000",
       "dateEnd": "20230206160000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221115160000",
-      "dateEnd": "20221115173000",
       "username": "dfsaa1"
     },
     {
@@ -674,8 +686,8 @@
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221123160000",
-      "dateEnd": "20221123173000",
+      "dateStart": "20220921150000",
+      "dateEnd": "20220921163000",
       "username": "dfsaa1"
     },
     {
@@ -688,6 +700,18 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230522133000",
       "dateEnd": "20230522150000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230302160000",
+      "dateEnd": "20230302173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221115160000",
+      "dateEnd": "20221115173000",
       "username": "dfsaa1"
     },
     {
@@ -722,20 +746,20 @@
     },
     {
       "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221129143000",
-      "dateEnd": "20221129160000",
+      "dateStart": "20221108160000",
+      "dateEnd": "20221108173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220927150000",
+      "dateEnd": "20220927163000",
       "username": "dfsaa1"
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20220912120000",
       "dateEnd": "20220912133000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230309143000",
-      "dateEnd": "20230309160000",
       "username": "dfsaa1"
     },
     {
@@ -751,9 +775,15 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221006150000",
-      "dateEnd": "20221006163000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221109143000",
+      "dateEnd": "20221109160000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20220928133000",
+      "dateEnd": "20220928150000",
       "username": "dfsaa1"
     },
     {
@@ -763,15 +793,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221019133000",
-      "dateEnd": "20221019150000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230314130000",
-      "dateEnd": "20230314143000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230511133000",
+      "dateEnd": "20230511150000",
       "username": "dfsaa1"
     },
     {
@@ -793,18 +817,6 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230207143000",
-      "dateEnd": "20230207160000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20220921133000",
-      "dateEnd": "20220921150000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221109130000",
       "dateEnd": "20221109143000",
@@ -823,12 +835,6 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230502120000",
-      "dateEnd": "20230502133000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20220915120000",
       "dateEnd": "20220915133000",
@@ -838,12 +844,6 @@
       "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20221117160000",
       "dateEnd": "20221117173000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220927133000",
-      "dateEnd": "20220927150000",
       "username": "dfsaa1"
     },
     {
@@ -860,20 +860,14 @@
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230309160000",
-      "dateEnd": "20230309173000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
       "dateStart": "20230303143000",
       "dateEnd": "20230303160000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230228160000",
-      "dateEnd": "20230228173000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230516133000",
+      "dateEnd": "20230516150000",
       "username": "dfsaa1"
     },
     {
@@ -884,8 +878,8 @@
     },
     {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230418133000",
-      "dateEnd": "20230418150000",
+      "dateStart": "20230328133000",
+      "dateEnd": "20230328150000",
       "username": "dfsaa1"
     },
     {
@@ -937,15 +931,21 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230228143000",
+      "dateEnd": "20230228160000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230505070000",
       "dateEnd": "20230505083000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230323143000",
-      "dateEnd": "20230323160000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230214130000",
+      "dateEnd": "20230214143000",
       "username": "dfsaa1"
     },
     {
@@ -961,12 +961,6 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221012133000",
-      "dateEnd": "20221012150000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230327133000",
       "dateEnd": "20230327150000",
@@ -979,9 +973,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221130160000",
-      "dateEnd": "20221130173000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230323160000",
+      "dateEnd": "20230323173000",
       "username": "dfsaa1"
     },
     {
@@ -997,21 +991,27 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230223143000",
+      "dateEnd": "20230223160000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230215110000",
       "dateEnd": "20230215123000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230207130000",
-      "dateEnd": "20230207143000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221026133000",
+      "dateEnd": "20221026150000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20220914133000",
-      "dateEnd": "20220914150000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230214160000",
+      "dateEnd": "20230214173000",
       "username": "dfsaa1"
     },
     {
@@ -1027,27 +1027,27 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230418120000",
+      "dateEnd": "20230418133000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
       "dateStart": "20230317143000",
       "dateEnd": "20230317160000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230330133000",
-      "dateEnd": "20230330150000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221116143000",
+      "dateEnd": "20221116160000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220915150000",
-      "dateEnd": "20220915163000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230214130000",
-      "dateEnd": "20230214143000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230509150000",
+      "dateEnd": "20230509163000",
       "username": "dfsaa1"
     },
     {
@@ -1063,9 +1063,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221207160000",
-      "dateEnd": "20221207173000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230309143000",
+      "dateEnd": "20230309160000",
       "username": "dfsaa1"
     },
     {
@@ -1078,6 +1078,12 @@
       "chair": "Modulação e Codificação - Modulation and Coding",
       "dateStart": "20221024133000",
       "dateEnd": "20221024150000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230328150000",
+      "dateEnd": "20230328163000",
       "username": "dfsaa1"
     },
     {
@@ -1096,12 +1102,6 @@
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221011120000",
       "dateEnd": "20221011133000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221207143000",
-      "dateEnd": "20221207160000",
       "username": "dfsaa1"
     },
     {
@@ -1147,15 +1147,15 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Engenharia de Software - Software Engineering",
-      "dateStart": "20221108130000",
-      "dateEnd": "20221108143000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230307160000",
+      "dateEnd": "20230307173000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221102160000",
-      "dateEnd": "20221102173000",
+      "chair": "Engenharia de Software - Software Engineering",
+      "dateStart": "20221108130000",
+      "dateEnd": "20221108143000",
       "username": "dfsaa1"
     },
     {
@@ -1183,9 +1183,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230502133000",
-      "dateEnd": "20230502150000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221214160000",
+      "dateEnd": "20221214173000",
       "username": "dfsaa1"
     },
     {
@@ -1195,33 +1195,15 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230427133000",
-      "dateEnd": "20230427150000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230216143000",
-      "dateEnd": "20230216160000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220930083000",
-      "dateEnd": "20220930100000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20220914120000",
       "dateEnd": "20220914133000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230321160000",
-      "dateEnd": "20230321173000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221122160000",
+      "dateEnd": "20221122173000",
       "username": "dfsaa1"
     },
     {
@@ -1237,15 +1219,21 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221116143000",
-      "dateEnd": "20221116160000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230301143000",
       "dateEnd": "20230301160000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221025150000",
+      "dateEnd": "20221025163000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20220928150000",
+      "dateEnd": "20220928163000",
       "username": "dfsaa1"
     },
     {
@@ -1267,12 +1255,6 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220913133000",
-      "dateEnd": "20220913150000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221123130000",
       "dateEnd": "20221123143000",
@@ -1285,21 +1267,27 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230223160000",
-      "dateEnd": "20230223173000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221103143000",
       "dateEnd": "20221103160000",
       "username": "dfsaa1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221012133000",
+      "dateEnd": "20221012150000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
       "dateStart": "20230206160000",
       "dateEnd": "20230206173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221206160000",
+      "dateEnd": "20221206173000",
       "username": "dfsaa1"
     },
     {
@@ -1310,20 +1298,8 @@
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220921150000",
-      "dateEnd": "20220921163000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20221128130000",
       "dateEnd": "20221128143000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230223143000",
-      "dateEnd": "20230223160000",
       "username": "dfsaa1"
     },
     {
@@ -1336,6 +1312,12 @@
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221013120000",
       "dateEnd": "20221013133000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230420150000",
+      "dateEnd": "20230420163000",
       "username": "dfsaa1"
     },
     {
@@ -1363,9 +1345,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221026133000",
-      "dateEnd": "20221026150000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221026150000",
+      "dateEnd": "20221026163000",
       "username": "dfsaa1"
     },
     {
@@ -1375,27 +1357,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230504133000",
-      "dateEnd": "20230504150000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221115143000",
-      "dateEnd": "20221115160000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Modulação e Codificação - Modulation and Coding",
       "dateStart": "20221010133000",
       "dateEnd": "20221010150000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230328133000",
-      "dateEnd": "20230328150000",
       "username": "dfsaa1"
     },
     {
@@ -1417,27 +1381,39 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221012100000",
+      "dateEnd": "20221012113000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
       "dateStart": "20221024100000",
       "dateEnd": "20221024113000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221102143000",
-      "dateEnd": "20221102160000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220927133000",
+      "dateEnd": "20220927150000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230321160000",
+      "dateEnd": "20230321173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221130160000",
+      "dateEnd": "20221130173000",
       "username": "dfsaa1"
     },
     {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230510150000",
       "dateEnd": "20230510163000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230314143000",
-      "dateEnd": "20230314160000",
       "username": "dfsaa1"
     },
     {
@@ -1448,26 +1424,8 @@
     },
     {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230424120000",
-      "dateEnd": "20230424133000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230515120000",
       "dateEnd": "20230515133000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221123143000",
-      "dateEnd": "20221123160000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221122160000",
-      "dateEnd": "20221122173000",
       "username": "dfsaa1"
     },
     {
@@ -1483,6 +1441,12 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230509133000",
+      "dateEnd": "20230509150000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Modulação e Codificação - Modulation and Coding",
       "dateStart": "20221017133000",
       "dateEnd": "20221017150000",
@@ -1495,15 +1459,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221108160000",
-      "dateEnd": "20221108173000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220920150000",
-      "dateEnd": "20220920163000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221130143000",
+      "dateEnd": "20221130160000",
       "username": "dfsaa1"
     },
     {
@@ -1531,9 +1489,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221018150000",
-      "dateEnd": "20221018163000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230516120000",
+      "dateEnd": "20230516133000",
       "username": "dfsaa1"
     },
     {
@@ -1561,15 +1519,15 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
-      "dateStart": "20221128093000",
-      "dateEnd": "20221128110000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230502150000",
+      "dateEnd": "20230502163000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230321143000",
-      "dateEnd": "20230321160000",
+      "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
+      "dateStart": "20221128093000",
+      "dateEnd": "20221128110000",
       "username": "dfsaa1"
     },
     {
@@ -1591,15 +1549,15 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
-      "dateStart": "20230322093000",
-      "dateEnd": "20230322110000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230502133000",
+      "dateEnd": "20230502150000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230504150000",
-      "dateEnd": "20230504163000",
+      "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
+      "dateStart": "20230322093000",
+      "dateEnd": "20230322110000",
       "username": "dfsaa1"
     },
     {
@@ -1609,15 +1567,21 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221004150000",
+      "dateEnd": "20221004163000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221115130000",
       "dateEnd": "20221115143000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221109160000",
-      "dateEnd": "20221109173000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221108143000",
+      "dateEnd": "20221108160000",
       "username": "dfsaa1"
     },
     {
@@ -1634,14 +1598,20 @@
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230316143000",
-      "dateEnd": "20230316160000",
+      "dateStart": "20230504133000",
+      "dateEnd": "20230504150000",
       "username": "dfsaa1"
     },
     {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230310160000",
       "dateEnd": "20230310173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221129143000",
+      "dateEnd": "20221129160000",
       "username": "dfsaa1"
     },
     {
@@ -1657,33 +1627,21 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230509150000",
-      "dateEnd": "20230509163000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
       "dateStart": "20230417150000",
       "dateEnd": "20230417163000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221012150000",
-      "dateEnd": "20221012163000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230307130000",
+      "dateEnd": "20230307143000",
       "username": "dfsaa1"
     },
     {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230313143000",
       "dateEnd": "20230313160000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220920133000",
-      "dateEnd": "20220920150000",
       "username": "dfsaa1"
     },
     {
@@ -1723,12 +1681,6 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221004133000",
-      "dateEnd": "20221004150000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221121160000",
       "dateEnd": "20221121173000",
@@ -1747,21 +1699,21 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230509133000",
-      "dateEnd": "20230509150000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221110130000",
       "dateEnd": "20221110143000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220922150000",
-      "dateEnd": "20220922163000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221207143000",
+      "dateEnd": "20221207160000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230511150000",
+      "dateEnd": "20230511163000",
       "username": "dfsaa1"
     },
     {
@@ -1771,15 +1723,21 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230328120000",
+      "dateEnd": "20230328133000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221019120000",
       "dateEnd": "20221019133000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230214160000",
-      "dateEnd": "20230214173000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20220914150000",
+      "dateEnd": "20220914163000",
       "username": "dfsaa1"
     },
     {
@@ -1796,8 +1754,20 @@
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230330150000",
+      "dateEnd": "20230330163000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
       "dateStart": "20230217143000",
       "dateEnd": "20230217160000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230523120000",
+      "dateEnd": "20230523133000",
       "username": "dfsaa1"
     },
     {
@@ -1807,15 +1777,45 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221019133000",
+      "dateEnd": "20221019150000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230301160000",
       "dateEnd": "20230301173000",
       "username": "dfsaa1"
     },
     {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221123160000",
+      "dateEnd": "20221123173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221004133000",
+      "dateEnd": "20221004150000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230309160000",
+      "dateEnd": "20230309173000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230210160000",
       "dateEnd": "20230210173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230209160000",
+      "dateEnd": "20230209173000",
       "username": "dfsaa1"
     },
     {
@@ -1837,9 +1837,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230516120000",
-      "dateEnd": "20230516133000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230323143000",
+      "dateEnd": "20230323160000",
       "username": "dfsaa1"
     },
     {
@@ -1855,33 +1855,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230207160000",
-      "dateEnd": "20230207173000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230509120000",
-      "dateEnd": "20230509133000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230330150000",
-      "dateEnd": "20230330163000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230228143000",
-      "dateEnd": "20230228160000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230328120000",
-      "dateEnd": "20230328133000",
+      "dateStart": "20230316143000",
+      "dateEnd": "20230316160000",
       "username": "dfsaa1"
     },
     {
@@ -1891,15 +1867,27 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221102143000",
+      "dateEnd": "20221102160000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221006150000",
+      "dateEnd": "20221006163000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20221031130000",
       "dateEnd": "20221031143000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230420133000",
-      "dateEnd": "20230420150000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230321143000",
+      "dateEnd": "20230321160000",
       "username": "dfsaa1"
     },
     {
@@ -1910,14 +1898,32 @@
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221019150000",
+      "dateEnd": "20221019163000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20221024120000",
       "dateEnd": "20221024133000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221122143000",
-      "dateEnd": "20221122160000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221116160000",
+      "dateEnd": "20221116173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221109160000",
+      "dateEnd": "20221109173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230516150000",
+      "dateEnd": "20230516163000",
       "username": "dfsaa1"
     },
     {
@@ -1933,33 +1939,27 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230523150000",
-      "dateEnd": "20230523163000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220927150000",
-      "dateEnd": "20220927163000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221018133000",
-      "dateEnd": "20221018150000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221019150000",
-      "dateEnd": "20221019163000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230330133000",
+      "dateEnd": "20230330150000",
       "username": "dfsaa1"
     },
     {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230307130000",
-      "dateEnd": "20230307143000",
+      "dateStart": "20230321130000",
+      "dateEnd": "20230321143000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221115143000",
+      "dateEnd": "20221115160000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230424120000",
+      "dateEnd": "20230424133000",
       "username": "dfsaa1"
     },
     {
@@ -1981,9 +1981,21 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221018133000",
+      "dateEnd": "20221018150000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20220920120000",
       "dateEnd": "20220920133000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221207160000",
+      "dateEnd": "20221207173000",
       "username": "dfsaa1"
     },
     {
@@ -2023,6 +2035,12 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221206143000",
+      "dateEnd": "20221206160000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
       "dateStart": "20221107093000",
       "dateEnd": "20221107110000",
@@ -2035,21 +2053,15 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230307143000",
-      "dateEnd": "20230307160000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20220928120000",
       "dateEnd": "20220928133000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230502150000",
-      "dateEnd": "20230502163000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230427133000",
+      "dateEnd": "20230427150000",
       "username": "dfsaa1"
     },
     {
@@ -2060,8 +2072,8 @@
     },
     {
       "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221206160000",
-      "dateEnd": "20221206173000",
+      "dateStart": "20221129160000",
+      "dateEnd": "20221129173000",
       "username": "dfsaa1"
     },
     {
@@ -2071,15 +2083,21 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220928150000",
-      "dateEnd": "20220928163000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230216160000",
+      "dateEnd": "20230216173000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230523120000",
-      "dateEnd": "20230523133000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230223160000",
+      "dateEnd": "20230223173000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20220922150000",
+      "dateEnd": "20220922163000",
       "username": "dfsaa1"
     },
     {
@@ -2095,15 +2113,21 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
-      "dateStart": "20221003083000",
-      "dateEnd": "20221003100000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20220921133000",
+      "dateEnd": "20220921150000",
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230302160000",
-      "dateEnd": "20230302173000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20220914133000",
+      "dateEnd": "20220914150000",
+      "username": "dfsaa1"
+    },
+    {
+      "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
+      "dateStart": "20221003083000",
+      "dateEnd": "20221003100000",
       "username": "dfsaa1"
     },
     {
@@ -2131,9 +2155,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230323160000",
-      "dateEnd": "20230323173000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220920133000",
+      "dateEnd": "20220920150000",
       "username": "dfsaa1"
     },
     {
@@ -2161,12 +2185,6 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221129160000",
-      "dateEnd": "20221129173000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
       "dateStart": "20221031093000",
       "dateEnd": "20221031110000",
@@ -2185,21 +2203,15 @@
       "username": "dfsaa1"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230216143000",
+      "dateEnd": "20230216160000",
+      "username": "dfsaa1"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230508133000",
       "dateEnd": "20230508150000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221025133000",
-      "dateEnd": "20221025150000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230228130000",
-      "dateEnd": "20230228143000",
       "username": "dfsaa1"
     },
     {
@@ -2215,21 +2227,9 @@
       "username": "dfsaa1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230307160000",
-      "dateEnd": "20230307173000",
-      "username": "dfsaa1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221107160000",
       "dateEnd": "20221107173000",
-      "username": "dfsaa1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230209143000",
-      "dateEnd": "20230209160000",
       "username": "dfsaa1"
     },
     {
@@ -2449,9 +2449,15 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230420150000",
-      "dateEnd": "20230420163000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220930083000",
+      "dateEnd": "20220930100000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230314143000",
+      "dateEnd": "20230314160000",
       "username": "jfcmo1"
     },
     {
@@ -2486,8 +2492,8 @@
     },
     {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230328150000",
-      "dateEnd": "20230328163000",
+      "dateStart": "20230314160000",
+      "dateEnd": "20230314173000",
       "username": "jfcmo1"
     },
     {
@@ -2509,15 +2515,21 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221123143000",
+      "dateEnd": "20221123160000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
       "dateStart": "20230508150000",
       "dateEnd": "20230508163000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221108143000",
-      "dateEnd": "20221108160000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230207130000",
+      "dateEnd": "20230207143000",
       "username": "jfcmo1"
     },
     {
@@ -2539,12 +2551,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230321130000",
-      "dateEnd": "20230321143000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230315143000",
       "dateEnd": "20230315160000",
@@ -2563,9 +2569,21 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221214143000",
-      "dateEnd": "20221214160000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230523150000",
+      "dateEnd": "20230523163000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230207143000",
+      "dateEnd": "20230207160000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230509120000",
+      "dateEnd": "20230509133000",
       "username": "jfcmo1"
     },
     {
@@ -2587,21 +2605,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221116160000",
-      "dateEnd": "20221116173000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230224080000",
       "dateEnd": "20230224093000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230523133000",
-      "dateEnd": "20230523150000",
       "username": "jfcmo1"
     },
     {
@@ -2611,15 +2617,15 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221130143000",
-      "dateEnd": "20221130160000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230303160000",
       "dateEnd": "20230303173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230228130000",
+      "dateEnd": "20230228143000",
       "username": "jfcmo1"
     },
     {
@@ -2636,8 +2642,26 @@
     },
     {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230418150000",
+      "dateEnd": "20230418163000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230424120000",
       "dateEnd": "20230424133000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230314130000",
+      "dateEnd": "20230314143000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230523133000",
+      "dateEnd": "20230523150000",
       "username": "jfcmo1"
     },
     {
@@ -2647,9 +2671,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221025150000",
-      "dateEnd": "20221025163000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230207160000",
+      "dateEnd": "20230207173000",
       "username": "jfcmo1"
     },
     {
@@ -2671,12 +2695,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221012100000",
-      "dateEnd": "20221012113000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230322110000",
       "dateEnd": "20230322123000",
@@ -2695,27 +2713,33 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221214143000",
+      "dateEnd": "20221214160000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230420133000",
+      "dateEnd": "20230420150000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230419133000",
       "dateEnd": "20230419150000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221206143000",
-      "dateEnd": "20221206160000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230214143000",
+      "dateEnd": "20230214160000",
       "username": "jfcmo1"
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230209160000",
-      "dateEnd": "20230209173000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220913150000",
-      "dateEnd": "20220913163000",
+      "dateStart": "20230427150000",
+      "dateEnd": "20230427163000",
       "username": "jfcmo1"
     },
     {
@@ -2725,21 +2749,39 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221012150000",
+      "dateEnd": "20221012163000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220913150000",
+      "dateEnd": "20220913163000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230228160000",
+      "dateEnd": "20230228173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220920150000",
+      "dateEnd": "20220920163000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230216160000",
-      "dateEnd": "20230216173000",
+      "dateStart": "20230316160000",
+      "dateEnd": "20230316173000",
       "username": "jfcmo1"
     },
     {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
       "dateStart": "20230306160000",
       "dateEnd": "20230306173000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221026150000",
-      "dateEnd": "20221026163000",
       "username": "jfcmo1"
     },
     {
@@ -2750,20 +2792,14 @@
     },
     {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230320160000",
-      "dateEnd": "20230320173000",
+      "dateStart": "20230307143000",
+      "dateEnd": "20230307160000",
       "username": "jfcmo1"
     },
     {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230516133000",
-      "dateEnd": "20230516150000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230302143000",
-      "dateEnd": "20230302160000",
+      "dateStart": "20230320160000",
+      "dateEnd": "20230320173000",
       "username": "jfcmo1"
     },
     {
@@ -2785,15 +2821,27 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221018150000",
+      "dateEnd": "20221018163000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230329133000",
       "dateEnd": "20230329150000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230516150000",
-      "dateEnd": "20230516163000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230302143000",
+      "dateEnd": "20230302160000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230418133000",
+      "dateEnd": "20230418150000",
       "username": "jfcmo1"
     },
     {
@@ -2809,15 +2857,15 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230418150000",
-      "dateEnd": "20230418163000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230324080000",
       "dateEnd": "20230324093000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221122143000",
+      "dateEnd": "20221122160000",
       "username": "jfcmo1"
     },
     {
@@ -2833,18 +2881,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230511150000",
-      "dateEnd": "20230511163000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230316160000",
-      "dateEnd": "20230316173000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20220915133000",
       "dateEnd": "20220915150000",
@@ -2854,12 +2890,6 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230227143000",
       "dateEnd": "20230227160000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221109143000",
-      "dateEnd": "20221109160000",
       "username": "jfcmo1"
     },
     {
@@ -2875,45 +2905,33 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220930100000",
+      "dateEnd": "20220930113000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230324160000",
       "dateEnd": "20230324173000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20220928133000",
-      "dateEnd": "20220928150000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221025133000",
+      "dateEnd": "20221025150000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221102160000",
+      "dateEnd": "20221102173000",
       "username": "jfcmo1"
     },
     {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230308093000",
       "dateEnd": "20230308110000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230511133000",
-      "dateEnd": "20230511150000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230214143000",
-      "dateEnd": "20230214160000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220914150000",
-      "dateEnd": "20220914163000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220930100000",
-      "dateEnd": "20220930113000",
       "username": "jfcmo1"
     },
     {
@@ -2929,9 +2947,21 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220913133000",
+      "dateEnd": "20220913150000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230308143000",
       "dateEnd": "20230308160000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230504150000",
+      "dateEnd": "20230504163000",
       "username": "jfcmo1"
     },
     {
@@ -2959,27 +2989,27 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230209143000",
+      "dateEnd": "20230209160000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221026120000",
       "dateEnd": "20221026133000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230427150000",
-      "dateEnd": "20230427163000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230502120000",
+      "dateEnd": "20230502133000",
       "username": "jfcmo1"
     },
     {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230331070000",
       "dateEnd": "20230331083000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230418120000",
-      "dateEnd": "20230418133000",
       "username": "jfcmo1"
     },
     {
@@ -2990,8 +3020,8 @@
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221214160000",
-      "dateEnd": "20221214173000",
+      "dateStart": "20220915150000",
+      "dateEnd": "20220915163000",
       "username": "jfcmo1"
     },
     {
@@ -3004,12 +3034,6 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230215160000",
       "dateEnd": "20230215173000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230314160000",
-      "dateEnd": "20230314173000",
       "username": "jfcmo1"
     },
     {
@@ -3049,12 +3073,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221004150000",
-      "dateEnd": "20221004163000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
       "dateStart": "20230331133000",
       "dateEnd": "20230331150000",
@@ -3070,12 +3088,6 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230206143000",
       "dateEnd": "20230206160000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221115160000",
-      "dateEnd": "20221115173000",
       "username": "jfcmo1"
     },
     {
@@ -3104,8 +3116,8 @@
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221123160000",
-      "dateEnd": "20221123173000",
+      "dateStart": "20220921150000",
+      "dateEnd": "20220921163000",
       "username": "jfcmo1"
     },
     {
@@ -3121,9 +3133,21 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230302160000",
+      "dateEnd": "20230302173000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Modulação e Codificação - Modulation and Coding",
       "dateStart": "20221011150000",
       "dateEnd": "20221011163000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221115160000",
+      "dateEnd": "20221115173000",
       "username": "jfcmo1"
     },
     {
@@ -3152,20 +3176,20 @@
     },
     {
       "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221129143000",
-      "dateEnd": "20221129160000",
+      "dateStart": "20221108160000",
+      "dateEnd": "20221108173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220927150000",
+      "dateEnd": "20220927163000",
       "username": "jfcmo1"
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20220912120000",
       "dateEnd": "20220912133000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230309143000",
-      "dateEnd": "20230309160000",
       "username": "jfcmo1"
     },
     {
@@ -3181,9 +3205,15 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221006150000",
-      "dateEnd": "20221006163000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221109143000",
+      "dateEnd": "20221109160000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20220928133000",
+      "dateEnd": "20220928150000",
       "username": "jfcmo1"
     },
     {
@@ -3193,15 +3223,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221019133000",
-      "dateEnd": "20221019150000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230314130000",
-      "dateEnd": "20230314143000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230511133000",
+      "dateEnd": "20230511150000",
       "username": "jfcmo1"
     },
     {
@@ -3223,18 +3247,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230207143000",
-      "dateEnd": "20230207160000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20220921133000",
-      "dateEnd": "20220921150000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221109130000",
       "dateEnd": "20221109143000",
@@ -3253,12 +3265,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230502120000",
-      "dateEnd": "20230502133000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20220915120000",
       "dateEnd": "20220915133000",
@@ -3268,12 +3274,6 @@
       "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20221117160000",
       "dateEnd": "20221117173000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220927133000",
-      "dateEnd": "20220927150000",
       "username": "jfcmo1"
     },
     {
@@ -3290,20 +3290,14 @@
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230309160000",
-      "dateEnd": "20230309173000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
       "dateStart": "20230303143000",
       "dateEnd": "20230303160000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230228160000",
-      "dateEnd": "20230228173000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230516133000",
+      "dateEnd": "20230516150000",
       "username": "jfcmo1"
     },
     {
@@ -3314,8 +3308,8 @@
     },
     {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230418133000",
-      "dateEnd": "20230418150000",
+      "dateStart": "20230328133000",
+      "dateEnd": "20230328150000",
       "username": "jfcmo1"
     },
     {
@@ -3367,15 +3361,21 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230228143000",
+      "dateEnd": "20230228160000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230505070000",
       "dateEnd": "20230505083000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230323143000",
-      "dateEnd": "20230323160000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230214130000",
+      "dateEnd": "20230214143000",
       "username": "jfcmo1"
     },
     {
@@ -3391,12 +3391,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221012133000",
-      "dateEnd": "20221012150000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230327133000",
       "dateEnd": "20230327150000",
@@ -3409,9 +3403,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221130160000",
-      "dateEnd": "20221130173000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230323160000",
+      "dateEnd": "20230323173000",
       "username": "jfcmo1"
     },
     {
@@ -3427,21 +3421,27 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230223143000",
+      "dateEnd": "20230223160000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230215110000",
       "dateEnd": "20230215123000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230207130000",
-      "dateEnd": "20230207143000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221026133000",
+      "dateEnd": "20221026150000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20220914133000",
-      "dateEnd": "20220914150000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230214160000",
+      "dateEnd": "20230214173000",
       "username": "jfcmo1"
     },
     {
@@ -3457,27 +3457,27 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230418120000",
+      "dateEnd": "20230418133000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
       "dateStart": "20230317143000",
       "dateEnd": "20230317160000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230330133000",
-      "dateEnd": "20230330150000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221116143000",
+      "dateEnd": "20221116160000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220915150000",
-      "dateEnd": "20220915163000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230214130000",
-      "dateEnd": "20230214143000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230509150000",
+      "dateEnd": "20230509163000",
       "username": "jfcmo1"
     },
     {
@@ -3493,9 +3493,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221207160000",
-      "dateEnd": "20221207173000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230309143000",
+      "dateEnd": "20230309160000",
       "username": "jfcmo1"
     },
     {
@@ -3508,6 +3508,12 @@
       "chair": "Modulação e Codificação - Modulation and Coding",
       "dateStart": "20221024133000",
       "dateEnd": "20221024150000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230328150000",
+      "dateEnd": "20230328163000",
       "username": "jfcmo1"
     },
     {
@@ -3526,12 +3532,6 @@
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221011120000",
       "dateEnd": "20221011133000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221207143000",
-      "dateEnd": "20221207160000",
       "username": "jfcmo1"
     },
     {
@@ -3577,15 +3577,15 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Engenharia de Software - Software Engineering",
-      "dateStart": "20221108130000",
-      "dateEnd": "20221108143000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230307160000",
+      "dateEnd": "20230307173000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221102160000",
-      "dateEnd": "20221102173000",
+      "chair": "Engenharia de Software - Software Engineering",
+      "dateStart": "20221108130000",
+      "dateEnd": "20221108143000",
       "username": "jfcmo1"
     },
     {
@@ -3613,9 +3613,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230502133000",
-      "dateEnd": "20230502150000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221214160000",
+      "dateEnd": "20221214173000",
       "username": "jfcmo1"
     },
     {
@@ -3625,33 +3625,15 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230427133000",
-      "dateEnd": "20230427150000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230216143000",
-      "dateEnd": "20230216160000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220930083000",
-      "dateEnd": "20220930100000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20220914120000",
       "dateEnd": "20220914133000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230321160000",
-      "dateEnd": "20230321173000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221122160000",
+      "dateEnd": "20221122173000",
       "username": "jfcmo1"
     },
     {
@@ -3667,15 +3649,21 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221116143000",
-      "dateEnd": "20221116160000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230301143000",
       "dateEnd": "20230301160000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221025150000",
+      "dateEnd": "20221025163000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20220928150000",
+      "dateEnd": "20220928163000",
       "username": "jfcmo1"
     },
     {
@@ -3697,12 +3685,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220913133000",
-      "dateEnd": "20220913150000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221123130000",
       "dateEnd": "20221123143000",
@@ -3715,21 +3697,27 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230223160000",
-      "dateEnd": "20230223173000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221103143000",
       "dateEnd": "20221103160000",
       "username": "jfcmo1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221012133000",
+      "dateEnd": "20221012150000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
       "dateStart": "20230206160000",
       "dateEnd": "20230206173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221206160000",
+      "dateEnd": "20221206173000",
       "username": "jfcmo1"
     },
     {
@@ -3745,18 +3733,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220921150000",
-      "dateEnd": "20220921163000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230223143000",
-      "dateEnd": "20230223160000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230426150000",
       "dateEnd": "20230426163000",
@@ -3766,6 +3742,12 @@
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221013120000",
       "dateEnd": "20221013133000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230420150000",
+      "dateEnd": "20230420163000",
       "username": "jfcmo1"
     },
     {
@@ -3793,9 +3775,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221026133000",
-      "dateEnd": "20221026150000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221026150000",
+      "dateEnd": "20221026163000",
       "username": "jfcmo1"
     },
     {
@@ -3805,27 +3787,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230504133000",
-      "dateEnd": "20230504150000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221115143000",
-      "dateEnd": "20221115160000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Modulação e Codificação - Modulation and Coding",
       "dateStart": "20221010133000",
       "dateEnd": "20221010150000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230328133000",
-      "dateEnd": "20230328150000",
       "username": "jfcmo1"
     },
     {
@@ -3847,27 +3811,39 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221012100000",
+      "dateEnd": "20221012113000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
       "dateStart": "20221024100000",
       "dateEnd": "20221024113000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221102143000",
-      "dateEnd": "20221102160000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220927133000",
+      "dateEnd": "20220927150000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230321160000",
+      "dateEnd": "20230321173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221130160000",
+      "dateEnd": "20221130173000",
       "username": "jfcmo1"
     },
     {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230510150000",
       "dateEnd": "20230510163000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230314143000",
-      "dateEnd": "20230314160000",
       "username": "jfcmo1"
     },
     {
@@ -3878,26 +3854,8 @@
     },
     {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230424120000",
-      "dateEnd": "20230424133000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230515120000",
       "dateEnd": "20230515133000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221123143000",
-      "dateEnd": "20221123160000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221122160000",
-      "dateEnd": "20221122173000",
       "username": "jfcmo1"
     },
     {
@@ -3913,6 +3871,12 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230509133000",
+      "dateEnd": "20230509150000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Modulação e Codificação - Modulation and Coding",
       "dateStart": "20221017133000",
       "dateEnd": "20221017150000",
@@ -3925,15 +3889,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221108160000",
-      "dateEnd": "20221108173000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220920150000",
-      "dateEnd": "20220920163000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221130143000",
+      "dateEnd": "20221130160000",
       "username": "jfcmo1"
     },
     {
@@ -3961,9 +3919,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221018150000",
-      "dateEnd": "20221018163000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230516120000",
+      "dateEnd": "20230516133000",
       "username": "jfcmo1"
     },
     {
@@ -3991,15 +3949,15 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
-      "dateStart": "20221128093000",
-      "dateEnd": "20221128110000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230502150000",
+      "dateEnd": "20230502163000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230321143000",
-      "dateEnd": "20230321160000",
+      "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
+      "dateStart": "20221128093000",
+      "dateEnd": "20221128110000",
       "username": "jfcmo1"
     },
     {
@@ -4021,15 +3979,15 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
-      "dateStart": "20230322093000",
-      "dateEnd": "20230322110000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230502133000",
+      "dateEnd": "20230502150000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230504150000",
-      "dateEnd": "20230504163000",
+      "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
+      "dateStart": "20230322093000",
+      "dateEnd": "20230322110000",
       "username": "jfcmo1"
     },
     {
@@ -4039,15 +3997,21 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221004150000",
+      "dateEnd": "20221004163000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221115130000",
       "dateEnd": "20221115143000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221109160000",
-      "dateEnd": "20221109173000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221108143000",
+      "dateEnd": "20221108160000",
       "username": "jfcmo1"
     },
     {
@@ -4064,14 +4028,20 @@
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230316143000",
-      "dateEnd": "20230316160000",
+      "dateStart": "20230504133000",
+      "dateEnd": "20230504150000",
       "username": "jfcmo1"
     },
     {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230310160000",
       "dateEnd": "20230310173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221129143000",
+      "dateEnd": "20221129160000",
       "username": "jfcmo1"
     },
     {
@@ -4087,33 +4057,21 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230509150000",
-      "dateEnd": "20230509163000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
       "dateStart": "20230417150000",
       "dateEnd": "20230417163000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221012150000",
-      "dateEnd": "20221012163000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230307130000",
+      "dateEnd": "20230307143000",
       "username": "jfcmo1"
     },
     {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230313143000",
       "dateEnd": "20230313160000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220920133000",
-      "dateEnd": "20220920150000",
       "username": "jfcmo1"
     },
     {
@@ -4153,12 +4111,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221004133000",
-      "dateEnd": "20221004150000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221121160000",
       "dateEnd": "20221121173000",
@@ -4177,21 +4129,21 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230509133000",
-      "dateEnd": "20230509150000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221110130000",
       "dateEnd": "20221110143000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220922150000",
-      "dateEnd": "20220922163000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221207143000",
+      "dateEnd": "20221207160000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230511150000",
+      "dateEnd": "20230511163000",
       "username": "jfcmo1"
     },
     {
@@ -4201,15 +4153,21 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230328120000",
+      "dateEnd": "20230328133000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221019120000",
       "dateEnd": "20221019133000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230214160000",
-      "dateEnd": "20230214173000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20220914150000",
+      "dateEnd": "20220914163000",
       "username": "jfcmo1"
     },
     {
@@ -4226,8 +4184,20 @@
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230330150000",
+      "dateEnd": "20230330163000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
       "dateStart": "20230217143000",
       "dateEnd": "20230217160000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230523120000",
+      "dateEnd": "20230523133000",
       "username": "jfcmo1"
     },
     {
@@ -4237,15 +4207,45 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221019133000",
+      "dateEnd": "20221019150000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230301160000",
       "dateEnd": "20230301173000",
       "username": "jfcmo1"
     },
     {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221123160000",
+      "dateEnd": "20221123173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221004133000",
+      "dateEnd": "20221004150000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230309160000",
+      "dateEnd": "20230309173000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230210160000",
       "dateEnd": "20230210173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230209160000",
+      "dateEnd": "20230209173000",
       "username": "jfcmo1"
     },
     {
@@ -4267,9 +4267,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230516120000",
-      "dateEnd": "20230516133000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230323143000",
+      "dateEnd": "20230323160000",
       "username": "jfcmo1"
     },
     {
@@ -4285,33 +4285,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230207160000",
-      "dateEnd": "20230207173000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230509120000",
-      "dateEnd": "20230509133000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230330150000",
-      "dateEnd": "20230330163000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230228143000",
-      "dateEnd": "20230228160000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230328120000",
-      "dateEnd": "20230328133000",
+      "dateStart": "20230316143000",
+      "dateEnd": "20230316160000",
       "username": "jfcmo1"
     },
     {
@@ -4321,15 +4297,27 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221102143000",
+      "dateEnd": "20221102160000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20221031130000",
       "dateEnd": "20221031143000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230420133000",
-      "dateEnd": "20230420150000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221006150000",
+      "dateEnd": "20221006163000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230321143000",
+      "dateEnd": "20230321160000",
       "username": "jfcmo1"
     },
     {
@@ -4345,9 +4333,27 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221122143000",
-      "dateEnd": "20221122160000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221019150000",
+      "dateEnd": "20221019163000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221116160000",
+      "dateEnd": "20221116173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221109160000",
+      "dateEnd": "20221109173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230516150000",
+      "dateEnd": "20230516163000",
       "username": "jfcmo1"
     },
     {
@@ -4363,33 +4369,27 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230523150000",
-      "dateEnd": "20230523163000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220927150000",
-      "dateEnd": "20220927163000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221018133000",
-      "dateEnd": "20221018150000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221019150000",
-      "dateEnd": "20221019163000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230330133000",
+      "dateEnd": "20230330150000",
       "username": "jfcmo1"
     },
     {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230307130000",
-      "dateEnd": "20230307143000",
+      "dateStart": "20230321130000",
+      "dateEnd": "20230321143000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221115143000",
+      "dateEnd": "20221115160000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230424120000",
+      "dateEnd": "20230424133000",
       "username": "jfcmo1"
     },
     {
@@ -4411,9 +4411,21 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221018133000",
+      "dateEnd": "20221018150000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20220920120000",
       "dateEnd": "20220920133000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221207160000",
+      "dateEnd": "20221207173000",
       "username": "jfcmo1"
     },
     {
@@ -4453,6 +4465,12 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221206143000",
+      "dateEnd": "20221206160000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
       "dateStart": "20221107093000",
       "dateEnd": "20221107110000",
@@ -4465,21 +4483,15 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230307143000",
-      "dateEnd": "20230307160000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20220928120000",
       "dateEnd": "20220928133000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230502150000",
-      "dateEnd": "20230502163000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230427133000",
+      "dateEnd": "20230427150000",
       "username": "jfcmo1"
     },
     {
@@ -4490,8 +4502,8 @@
     },
     {
       "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221206160000",
-      "dateEnd": "20221206173000",
+      "dateStart": "20221129160000",
+      "dateEnd": "20221129173000",
       "username": "jfcmo1"
     },
     {
@@ -4501,15 +4513,21 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220928150000",
-      "dateEnd": "20220928163000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230216160000",
+      "dateEnd": "20230216173000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230523120000",
-      "dateEnd": "20230523133000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230223160000",
+      "dateEnd": "20230223173000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20220922150000",
+      "dateEnd": "20220922163000",
       "username": "jfcmo1"
     },
     {
@@ -4525,15 +4543,21 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
-      "dateStart": "20221003083000",
-      "dateEnd": "20221003100000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20220921133000",
+      "dateEnd": "20220921150000",
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230302160000",
-      "dateEnd": "20230302173000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20220914133000",
+      "dateEnd": "20220914150000",
+      "username": "jfcmo1"
+    },
+    {
+      "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
+      "dateStart": "20221003083000",
+      "dateEnd": "20221003100000",
       "username": "jfcmo1"
     },
     {
@@ -4561,9 +4585,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230323160000",
-      "dateEnd": "20230323173000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220920133000",
+      "dateEnd": "20220920150000",
       "username": "jfcmo1"
     },
     {
@@ -4591,12 +4615,6 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221129160000",
-      "dateEnd": "20221129173000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Gestão de Projectos de Tecnologia e Sistemas de Informação - Management of Information System Projects",
       "dateStart": "20221031093000",
       "dateEnd": "20221031110000",
@@ -4615,21 +4633,15 @@
       "username": "jfcmo1"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230216143000",
+      "dateEnd": "20230216160000",
+      "username": "jfcmo1"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230508133000",
       "dateEnd": "20230508150000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221025133000",
-      "dateEnd": "20221025150000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230228130000",
-      "dateEnd": "20230228143000",
       "username": "jfcmo1"
     },
     {
@@ -4645,21 +4657,9 @@
       "username": "jfcmo1"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230307160000",
-      "dateEnd": "20230307173000",
-      "username": "jfcmo1"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221107160000",
       "dateEnd": "20221107173000",
-      "username": "jfcmo1"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230209143000",
-      "dateEnd": "20230209160000",
       "username": "jfcmo1"
     },
     {
@@ -4879,6 +4879,12 @@
       "username": "mpclq"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230314143000",
+      "dateEnd": "20230314160000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230426183000",
       "dateEnd": "20230426200000",
@@ -4903,27 +4909,21 @@
       "username": "mpclq"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221123143000",
+      "dateEnd": "20221123160000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20220923170000",
       "dateEnd": "20220923183000",
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221108143000",
-      "dateEnd": "20221108160000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221103130000",
       "dateEnd": "20221103143000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230321130000",
-      "dateEnd": "20230321143000",
       "username": "mpclq"
     },
     {
@@ -4945,6 +4945,24 @@
       "username": "mpclq"
     },
     {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230523150000",
+      "dateEnd": "20230523163000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230207143000",
+      "dateEnd": "20230207160000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230509120000",
+      "dateEnd": "20230509133000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20221207210000",
       "dateEnd": "20221207223000",
@@ -4954,6 +4972,12 @@
       "chair": "Modulação e Codificação - Modulation and Coding",
       "dateStart": "20221103110000",
       "dateEnd": "20221103123000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230228130000",
+      "dateEnd": "20230228143000",
       "username": "mpclq"
     },
     {
@@ -4975,6 +4999,12 @@
       "username": "mpclq"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230314130000",
+      "dateEnd": "20230314143000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20220921120000",
       "dateEnd": "20220921133000",
@@ -4987,15 +5017,33 @@
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221206143000",
-      "dateEnd": "20221206160000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221214143000",
+      "dateEnd": "20221214160000",
       "username": "mpclq"
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230216160000",
-      "dateEnd": "20230216173000",
+      "dateStart": "20230427150000",
+      "dateEnd": "20230427163000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221012150000",
+      "dateEnd": "20221012163000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230228160000",
+      "dateEnd": "20230228173000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220920150000",
+      "dateEnd": "20220920163000",
       "username": "mpclq"
     },
     {
@@ -5005,21 +5053,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230516133000",
-      "dateEnd": "20230516150000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230503183000",
       "dateEnd": "20230503200000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230302143000",
-      "dateEnd": "20230302160000",
       "username": "mpclq"
     },
     {
@@ -5035,9 +5071,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230516150000",
-      "dateEnd": "20230516163000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230302143000",
+      "dateEnd": "20230302160000",
       "username": "mpclq"
     },
     {
@@ -5047,21 +5083,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230418150000",
-      "dateEnd": "20230418163000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221122143000",
+      "dateEnd": "20221122160000",
       "username": "mpclq"
     },
     {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20220928200000",
       "dateEnd": "20220928213000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230316160000",
-      "dateEnd": "20230316173000",
       "username": "mpclq"
     },
     {
@@ -5089,27 +5119,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230511133000",
-      "dateEnd": "20230511150000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230214143000",
-      "dateEnd": "20230214160000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230315180000",
       "dateEnd": "20230315193000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220930100000",
-      "dateEnd": "20220930113000",
       "username": "mpclq"
     },
     {
@@ -5122,6 +5134,12 @@
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230227130000",
       "dateEnd": "20230227143000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220913133000",
+      "dateEnd": "20220913150000",
       "username": "mpclq"
     },
     {
@@ -5140,18 +5158,6 @@
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20221019200000",
       "dateEnd": "20221019213000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230427150000",
-      "dateEnd": "20230427163000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230418120000",
-      "dateEnd": "20230418133000",
       "username": "mpclq"
     },
     {
@@ -5185,21 +5191,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221004150000",
-      "dateEnd": "20221004163000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20220920100000",
       "dateEnd": "20220920113000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221115160000",
-      "dateEnd": "20221115173000",
       "username": "mpclq"
     },
     {
@@ -5216,8 +5210,8 @@
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221123160000",
-      "dateEnd": "20221123173000",
+      "dateStart": "20220921150000",
+      "dateEnd": "20220921163000",
       "username": "mpclq"
     },
     {
@@ -5228,8 +5222,14 @@
     },
     {
       "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221129143000",
-      "dateEnd": "20221129160000",
+      "dateStart": "20221108160000",
+      "dateEnd": "20221108173000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220927150000",
+      "dateEnd": "20220927163000",
       "username": "mpclq"
     },
     {
@@ -5239,15 +5239,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221019133000",
-      "dateEnd": "20221019150000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230314130000",
-      "dateEnd": "20230314143000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230511133000",
+      "dateEnd": "20230511150000",
       "username": "mpclq"
     },
     {
@@ -5270,12 +5264,6 @@
     },
     {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20220921133000",
-      "dateEnd": "20220921150000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221109130000",
       "dateEnd": "20221109143000",
       "username": "mpclq"
@@ -5290,12 +5278,6 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230322143000",
       "dateEnd": "20230322160000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230502120000",
-      "dateEnd": "20230502133000",
       "username": "mpclq"
     },
     {
@@ -5318,14 +5300,20 @@
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230309160000",
-      "dateEnd": "20230309173000",
+      "dateStart": "20230303143000",
+      "dateEnd": "20230303160000",
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230303143000",
-      "dateEnd": "20230303160000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230516133000",
+      "dateEnd": "20230516150000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230328133000",
+      "dateEnd": "20230328150000",
       "username": "mpclq"
     },
     {
@@ -5353,15 +5341,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
-      "dateStart": "20221026200000",
-      "dateEnd": "20221026213000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230214130000",
+      "dateEnd": "20230214143000",
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230323143000",
-      "dateEnd": "20230323160000",
+      "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
+      "dateStart": "20221026200000",
+      "dateEnd": "20221026213000",
       "username": "mpclq"
     },
     {
@@ -5377,9 +5365,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221130160000",
-      "dateEnd": "20221130173000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230323160000",
+      "dateEnd": "20230323173000",
       "username": "mpclq"
     },
     {
@@ -5395,9 +5383,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230207130000",
-      "dateEnd": "20230207143000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221026133000",
+      "dateEnd": "20221026150000",
       "username": "mpclq"
     },
     {
@@ -5425,9 +5413,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230214130000",
-      "dateEnd": "20230214143000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230309143000",
+      "dateEnd": "20230309160000",
       "username": "mpclq"
     },
     {
@@ -5440,12 +5428,6 @@
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221011120000",
       "dateEnd": "20221011133000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221207143000",
-      "dateEnd": "20221207160000",
       "username": "mpclq"
     },
     {
@@ -5467,9 +5449,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221102160000",
-      "dateEnd": "20221102173000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230307160000",
+      "dateEnd": "20230307173000",
       "username": "mpclq"
     },
     {
@@ -5479,21 +5461,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230502133000",
-      "dateEnd": "20230502150000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230216143000",
-      "dateEnd": "20230216160000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221214160000",
+      "dateEnd": "20221214173000",
       "username": "mpclq"
     },
     {
       "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220930083000",
-      "dateEnd": "20220930100000",
+      "dateStart": "20221122160000",
+      "dateEnd": "20221122173000",
       "username": "mpclq"
     },
     {
@@ -5504,8 +5480,8 @@
     },
     {
       "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220913133000",
-      "dateEnd": "20220913150000",
+      "dateStart": "20221025150000",
+      "dateEnd": "20221025163000",
       "username": "mpclq"
     },
     {
@@ -5521,15 +5497,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230223160000",
-      "dateEnd": "20230223173000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
       "dateStart": "20230206160000",
       "dateEnd": "20230206173000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221206160000",
+      "dateEnd": "20221206173000",
       "username": "mpclq"
     },
     {
@@ -5545,15 +5521,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230223143000",
-      "dateEnd": "20230223160000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20221019183000",
       "dateEnd": "20221019200000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230420150000",
+      "dateEnd": "20230420163000",
       "username": "mpclq"
     },
     {
@@ -5575,6 +5551,12 @@
       "username": "mpclq"
     },
     {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221026150000",
+      "dateEnd": "20221026163000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230314180000",
       "dateEnd": "20230314193000",
@@ -5587,21 +5569,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230504133000",
-      "dateEnd": "20230504150000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20220914183000",
       "dateEnd": "20220914200000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230328133000",
-      "dateEnd": "20230328150000",
       "username": "mpclq"
     },
     {
@@ -5623,21 +5593,15 @@
       "username": "mpclq"
     },
     {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230321160000",
+      "dateEnd": "20230321173000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230510150000",
       "dateEnd": "20230510163000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230314143000",
-      "dateEnd": "20230314160000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230424120000",
-      "dateEnd": "20230424133000",
       "username": "mpclq"
     },
     {
@@ -5653,9 +5617,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221108160000",
-      "dateEnd": "20221108173000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230509133000",
+      "dateEnd": "20230509150000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230516120000",
+      "dateEnd": "20230516133000",
       "username": "mpclq"
     },
     {
@@ -5677,27 +5647,21 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230504150000",
-      "dateEnd": "20230504163000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20221116193000",
       "dateEnd": "20221116210000",
       "username": "mpclq"
     },
     {
-      "chair": "Engenharia de Software - Software Engineering",
-      "dateStart": "20221115130000",
-      "dateEnd": "20221115143000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221004150000",
+      "dateEnd": "20221004163000",
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221109160000",
-      "dateEnd": "20221109173000",
+      "chair": "Engenharia de Software - Software Engineering",
+      "dateStart": "20221115130000",
+      "dateEnd": "20221115143000",
       "username": "mpclq"
     },
     {
@@ -5714,8 +5678,20 @@
     },
     {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230316143000",
-      "dateEnd": "20230316160000",
+      "dateStart": "20230504133000",
+      "dateEnd": "20230504150000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221129143000",
+      "dateEnd": "20221129160000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230307130000",
+      "dateEnd": "20230307143000",
       "username": "mpclq"
     },
     {
@@ -5728,12 +5704,6 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230313143000",
       "dateEnd": "20230313160000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220920133000",
-      "dateEnd": "20220920150000",
       "username": "mpclq"
     },
     {
@@ -5761,12 +5731,6 @@
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221004133000",
-      "dateEnd": "20221004150000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221121160000",
       "dateEnd": "20221121173000",
@@ -5779,15 +5743,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230509133000",
-      "dateEnd": "20230509150000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230511150000",
+      "dateEnd": "20230511163000",
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220922150000",
-      "dateEnd": "20220922163000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230328120000",
+      "dateEnd": "20230328133000",
       "username": "mpclq"
     },
     {
@@ -5809,15 +5773,45 @@
       "username": "mpclq"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221019133000",
+      "dateEnd": "20221019150000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230301160000",
       "dateEnd": "20230301173000",
       "username": "mpclq"
     },
     {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221123160000",
+      "dateEnd": "20221123173000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221004133000",
+      "dateEnd": "20221004150000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230309160000",
+      "dateEnd": "20230309173000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230210160000",
       "dateEnd": "20230210173000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230209160000",
+      "dateEnd": "20230209173000",
       "username": "mpclq"
     },
     {
@@ -5833,33 +5827,27 @@
       "username": "mpclq"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230323143000",
+      "dateEnd": "20230323160000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221214130000",
       "dateEnd": "20221214143000",
       "username": "mpclq"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230316143000",
+      "dateEnd": "20230316160000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230308193000",
       "dateEnd": "20230308210000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230509120000",
-      "dateEnd": "20230509133000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230330150000",
-      "dateEnd": "20230330163000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230328120000",
-      "dateEnd": "20230328133000",
       "username": "mpclq"
     },
     {
@@ -5881,45 +5869,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221122143000",
-      "dateEnd": "20221122160000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230516150000",
+      "dateEnd": "20230516163000",
       "username": "mpclq"
     },
     {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20221028170000",
       "dateEnd": "20221028183000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230523150000",
-      "dateEnd": "20230523163000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220927150000",
-      "dateEnd": "20220927163000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221018133000",
-      "dateEnd": "20221018150000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221019150000",
-      "dateEnd": "20221019163000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230307130000",
-      "dateEnd": "20230307143000",
       "username": "mpclq"
     },
     {
@@ -5935,9 +5893,21 @@
       "username": "mpclq"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221018133000",
+      "dateEnd": "20221018150000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230301180000",
       "dateEnd": "20230301193000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221207160000",
+      "dateEnd": "20221207173000",
       "username": "mpclq"
     },
     {
@@ -5959,21 +5929,15 @@
       "username": "mpclq"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221206143000",
+      "dateEnd": "20221206160000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221206130000",
       "dateEnd": "20221206143000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230307143000",
-      "dateEnd": "20230307160000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230502150000",
-      "dateEnd": "20230502163000",
       "username": "mpclq"
     },
     {
@@ -5984,20 +5948,32 @@
     },
     {
       "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221206160000",
-      "dateEnd": "20221206173000",
+      "dateStart": "20221129160000",
+      "dateEnd": "20221129173000",
       "username": "mpclq"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230523120000",
-      "dateEnd": "20230523133000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230216160000",
+      "dateEnd": "20230216173000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230223160000",
+      "dateEnd": "20230223173000",
       "username": "mpclq"
     },
     {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230418170000",
       "dateEnd": "20230418183000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20220922150000",
+      "dateEnd": "20220922163000",
       "username": "mpclq"
     },
     {
@@ -6043,12 +6019,6 @@
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221129160000",
-      "dateEnd": "20221129173000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230508133000",
       "dateEnd": "20230508150000",
@@ -6085,9 +6055,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230420150000",
-      "dateEnd": "20230420163000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220930083000",
+      "dateEnd": "20220930100000",
       "username": "mpclq"
     },
     {
@@ -6104,8 +6074,8 @@
     },
     {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230328150000",
-      "dateEnd": "20230328163000",
+      "dateStart": "20230314160000",
+      "dateEnd": "20230314173000",
       "username": "mpclq"
     },
     {
@@ -6121,6 +6091,12 @@
       "username": "mpclq"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230207130000",
+      "dateEnd": "20230207143000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Engenharia de Software - Software Engineering",
       "dateStart": "20221215143000",
       "dateEnd": "20221215160000",
@@ -6130,12 +6106,6 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230315143000",
       "dateEnd": "20230315160000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221214143000",
-      "dateEnd": "20221214160000",
       "username": "mpclq"
     },
     {
@@ -6151,9 +6121,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221116160000",
-      "dateEnd": "20221116173000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230303160000",
+      "dateEnd": "20230303173000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230418150000",
+      "dateEnd": "20230418163000",
       "username": "mpclq"
     },
     {
@@ -6163,27 +6139,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221130143000",
-      "dateEnd": "20221130160000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230303160000",
-      "dateEnd": "20230303173000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20220921183000",
       "dateEnd": "20220921200000",
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221025150000",
-      "dateEnd": "20221025163000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230207160000",
+      "dateEnd": "20230207173000",
       "username": "mpclq"
     },
     {
@@ -6199,15 +6163,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221012100000",
-      "dateEnd": "20221012113000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230512150000",
       "dateEnd": "20230512163000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230420133000",
+      "dateEnd": "20230420150000",
       "username": "mpclq"
     },
     {
@@ -6217,9 +6181,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230209160000",
-      "dateEnd": "20230209173000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230214143000",
+      "dateEnd": "20230214160000",
       "username": "mpclq"
     },
     {
@@ -6241,15 +6205,21 @@
       "username": "mpclq"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230316160000",
+      "dateEnd": "20230316173000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
       "dateStart": "20230306160000",
       "dateEnd": "20230306173000",
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221026150000",
-      "dateEnd": "20221026163000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230307143000",
+      "dateEnd": "20230307160000",
       "username": "mpclq"
     },
     {
@@ -6271,9 +6241,21 @@
       "username": "mpclq"
     },
     {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221018150000",
+      "dateEnd": "20221018163000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20221123173000",
       "dateEnd": "20221123190000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230418133000",
+      "dateEnd": "20230418150000",
       "username": "mpclq"
     },
     {
@@ -6283,15 +6265,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230511150000",
-      "dateEnd": "20230511163000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221109143000",
-      "dateEnd": "20221109160000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220930100000",
+      "dateEnd": "20220930113000",
       "username": "mpclq"
     },
     {
@@ -6301,15 +6277,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20220928133000",
-      "dateEnd": "20220928150000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221025133000",
+      "dateEnd": "20221025150000",
       "username": "mpclq"
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220914150000",
-      "dateEnd": "20220914163000",
+      "dateStart": "20221102160000",
+      "dateEnd": "20221102173000",
       "username": "mpclq"
     },
     {
@@ -6331,6 +6307,12 @@
       "username": "mpclq"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230504150000",
+      "dateEnd": "20230504163000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230315193000",
       "dateEnd": "20230315210000",
@@ -6343,15 +6325,27 @@
       "username": "mpclq"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230209143000",
+      "dateEnd": "20230209160000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20221026120000",
       "dateEnd": "20221026133000",
       "username": "mpclq"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230502120000",
+      "dateEnd": "20230502133000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221214160000",
-      "dateEnd": "20221214173000",
+      "dateStart": "20220915150000",
+      "dateEnd": "20220915163000",
       "username": "mpclq"
     },
     {
@@ -6370,12 +6364,6 @@
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230327120000",
       "dateEnd": "20230327133000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230314160000",
-      "dateEnd": "20230314173000",
       "username": "mpclq"
     },
     {
@@ -6409,6 +6397,18 @@
       "username": "mpclq"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230302160000",
+      "dateEnd": "20230302173000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221115160000",
+      "dateEnd": "20221115173000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20221128130000",
       "dateEnd": "20221128143000",
@@ -6433,12 +6433,6 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230309143000",
-      "dateEnd": "20230309160000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Modulação e Codificação - Modulation and Coding",
       "dateStart": "20220919133000",
       "dateEnd": "20220919150000",
@@ -6457,9 +6451,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221006150000",
-      "dateEnd": "20221006163000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221109143000",
+      "dateEnd": "20221109160000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20220928133000",
+      "dateEnd": "20220928150000",
       "username": "mpclq"
     },
     {
@@ -6481,12 +6481,6 @@
       "username": "mpclq"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230207143000",
-      "dateEnd": "20230207160000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20221026183000",
       "dateEnd": "20221026200000",
@@ -6505,27 +6499,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220927133000",
-      "dateEnd": "20220927150000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230228160000",
-      "dateEnd": "20230228173000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230208193000",
       "dateEnd": "20230208210000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230418133000",
-      "dateEnd": "20230418150000",
       "username": "mpclq"
     },
     {
@@ -6547,15 +6523,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230213130000",
-      "dateEnd": "20230213143000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230228143000",
+      "dateEnd": "20230228160000",
       "username": "mpclq"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221012133000",
-      "dateEnd": "20221012150000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230213130000",
+      "dateEnd": "20230213143000",
       "username": "mpclq"
     },
     {
@@ -6565,21 +6541,33 @@
       "username": "mpclq"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20220914133000",
-      "dateEnd": "20220914150000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230330133000",
-      "dateEnd": "20230330150000",
+      "dateStart": "20230223143000",
+      "dateEnd": "20230223160000",
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220915150000",
-      "dateEnd": "20220915163000",
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230214160000",
+      "dateEnd": "20230214173000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230418120000",
+      "dateEnd": "20230418133000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221116143000",
+      "dateEnd": "20221116160000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230509150000",
+      "dateEnd": "20230509163000",
       "username": "mpclq"
     },
     {
@@ -6595,15 +6583,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221207160000",
-      "dateEnd": "20221207173000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230215143000",
       "dateEnd": "20230215160000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230328150000",
+      "dateEnd": "20230328163000",
       "username": "mpclq"
     },
     {
@@ -6649,21 +6637,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230427133000",
-      "dateEnd": "20230427150000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
       "dateStart": "20220914120000",
       "dateEnd": "20220914133000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230321160000",
-      "dateEnd": "20230321173000",
       "username": "mpclq"
     },
     {
@@ -6673,15 +6649,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221116143000",
-      "dateEnd": "20221116160000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230301143000",
       "dateEnd": "20230301160000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20220928150000",
+      "dateEnd": "20220928163000",
       "username": "mpclq"
     },
     {
@@ -6715,9 +6691,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220921150000",
-      "dateEnd": "20220921163000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221012133000",
+      "dateEnd": "20221012150000",
       "username": "mpclq"
     },
     {
@@ -6742,18 +6718,6 @@
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230517133000",
       "dateEnd": "20230517150000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221026133000",
-      "dateEnd": "20221026150000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221115143000",
-      "dateEnd": "20221115160000",
       "username": "mpclq"
     },
     {
@@ -6782,8 +6746,14 @@
     },
     {
       "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221102143000",
-      "dateEnd": "20221102160000",
+      "dateStart": "20221012100000",
+      "dateEnd": "20221012113000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220927133000",
+      "dateEnd": "20220927150000",
       "username": "mpclq"
     },
     {
@@ -6793,21 +6763,15 @@
       "username": "mpclq"
     },
     {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221130160000",
+      "dateEnd": "20221130173000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230515120000",
       "dateEnd": "20230515133000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
-      "dateStart": "20221123143000",
-      "dateEnd": "20221123160000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221122160000",
-      "dateEnd": "20221122173000",
       "username": "mpclq"
     },
     {
@@ -6823,9 +6787,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20220920150000",
-      "dateEnd": "20220920163000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221130143000",
+      "dateEnd": "20221130160000",
       "username": "mpclq"
     },
     {
@@ -6860,26 +6824,32 @@
     },
     {
       "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221018150000",
-      "dateEnd": "20221018163000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Modulação e Codificação - Modulation and Coding",
       "dateStart": "20220912133000",
       "dateEnd": "20220912150000",
       "username": "mpclq"
     },
     {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230502150000",
+      "dateEnd": "20230502163000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230321143000",
-      "dateEnd": "20230321160000",
+      "dateStart": "20230502133000",
+      "dateEnd": "20230502150000",
       "username": "mpclq"
     },
     {
       "chair": "Sistemas de Comunicação Ótica - Optical Communication Systems",
       "dateStart": "20230510133000",
       "dateEnd": "20230510150000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221108143000",
+      "dateEnd": "20221108160000",
       "username": "mpclq"
     },
     {
@@ -6907,18 +6877,6 @@
       "username": "mpclq"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230509150000",
-      "dateEnd": "20230509163000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20221012150000",
-      "dateEnd": "20221012163000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230510183000",
       "dateEnd": "20230510200000",
@@ -6937,21 +6895,39 @@
       "username": "mpclq"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221207143000",
+      "dateEnd": "20221207160000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230206130000",
       "dateEnd": "20230206143000",
       "username": "mpclq"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230214160000",
-      "dateEnd": "20230214173000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20220914150000",
+      "dateEnd": "20220914163000",
       "username": "mpclq"
     },
     {
       "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20221006150000",
       "dateEnd": "20221006163000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230330150000",
+      "dateEnd": "20230330163000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230523120000",
+      "dateEnd": "20230523133000",
       "username": "mpclq"
     },
     {
@@ -6985,12 +6961,6 @@
       "username": "mpclq"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230516120000",
-      "dateEnd": "20230516133000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Segurança e Gestão de Redes - Network Security and Management",
       "dateStart": "20230331150000",
       "dateEnd": "20230331163000",
@@ -7003,15 +6973,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230207160000",
-      "dateEnd": "20230207173000",
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20221102143000",
+      "dateEnd": "20221102160000",
       "username": "mpclq"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230228143000",
-      "dateEnd": "20230228160000",
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221006150000",
+      "dateEnd": "20221006163000",
       "username": "mpclq"
     },
     {
@@ -7027,21 +6997,39 @@
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230420133000",
-      "dateEnd": "20230420150000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230322193000",
       "dateEnd": "20230322210000",
       "username": "mpclq"
     },
     {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230321143000",
+      "dateEnd": "20230321160000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221019150000",
+      "dateEnd": "20221019163000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Arquitetura de Redes - Network Arquitectures",
       "dateStart": "20221024120000",
       "dateEnd": "20221024133000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221116160000",
+      "dateEnd": "20221116173000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Arquitetura de Redes - Network Arquitectures",
+      "dateStart": "20221109160000",
+      "dateEnd": "20221109173000",
       "username": "mpclq"
     },
     {
@@ -7063,9 +7051,33 @@
       "username": "mpclq"
     },
     {
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230330133000",
+      "dateEnd": "20230330150000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230321130000",
+      "dateEnd": "20230321143000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230329170000",
       "dateEnd": "20230329183000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20221115143000",
+      "dateEnd": "20221115160000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Segurança e Gestão de Redes - Network Security and Management",
+      "dateStart": "20230424120000",
+      "dateEnd": "20230424133000",
       "username": "mpclq"
     },
     {
@@ -7111,15 +7123,15 @@
       "username": "mpclq"
     },
     {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230313160000",
-      "dateEnd": "20230313173000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230427133000",
+      "dateEnd": "20230427150000",
       "username": "mpclq"
     },
     {
-      "chair": "Arquitetura de Redes - Network Arquitectures",
-      "dateStart": "20220928150000",
-      "dateEnd": "20220928163000",
+      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
+      "dateStart": "20230313160000",
+      "dateEnd": "20230313173000",
       "username": "mpclq"
     },
     {
@@ -7129,21 +7141,27 @@
       "username": "mpclq"
     },
     {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20220921133000",
+      "dateEnd": "20220921150000",
+      "username": "mpclq"
+    },
+    {
+      "chair": "Electrónica Programada e Processamento Digital de Sinais - Programmable Electronics and Digital Signal Processing",
+      "dateStart": "20220914133000",
+      "dateEnd": "20220914150000",
+      "username": "mpclq"
+    },
+    {
       "chair": "Desenvolvimento para A Internet e Aplicações Móveis - Developmentfor Internet and Mobile Apps",
       "dateStart": "20230215193000",
       "dateEnd": "20230215210000",
       "username": "mpclq"
     },
     {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230302160000",
-      "dateEnd": "20230302173000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230323160000",
-      "dateEnd": "20230323173000",
+      "chair": "Modulação e Codificação - Modulation and Coding",
+      "dateStart": "20220920133000",
+      "dateEnd": "20220920150000",
       "username": "mpclq"
     },
     {
@@ -7159,15 +7177,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Modulação e Codificação - Modulation and Coding",
-      "dateStart": "20221025133000",
-      "dateEnd": "20221025150000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Projecto de Sistemas de Telecomunicações - Telecommunication Systems Project",
-      "dateStart": "20230228130000",
-      "dateEnd": "20230228143000",
+      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
+      "dateStart": "20230216143000",
+      "dateEnd": "20230216160000",
       "username": "mpclq"
     },
     {
@@ -7183,21 +7195,9 @@
       "username": "mpclq"
     },
     {
-      "chair": "Segurança e Gestão de Redes - Network Security and Management",
-      "dateStart": "20230307160000",
-      "dateEnd": "20230307173000",
-      "username": "mpclq"
-    },
-    {
       "chair": "Visualização e Interação Pessoa-Máquina - Visualization and Human-Machine Interaction",
       "dateStart": "20221014170000",
       "dateEnd": "20221014183000",
-      "username": "mpclq"
-    },
-    {
-      "chair": "Sistemas de Comunicação Sem Fios e Móveis - Wireless and Mobile Communication Systems",
-      "dateStart": "20230209143000",
-      "dateEnd": "20230209160000",
       "username": "mpclq"
     },
     {
