@@ -22,11 +22,22 @@ class CalendarEventClickEventTest {
 				"mpclq");
 		c = new CalendarEventClickEvent(Object.class,calendarEvent);
 	}
+	  @Test
+	    void TestCalendarEventClickEvent()
+	    {
+	        assertThrows(IllegalArgumentException.class, () -> new CalendarEventClickEvent(null, null));
+	    }
+
 
 	@Test
 	void testGetCalendarEvent() {
 		assertEquals(calendarEvent,c.getCalendarEvent());
 	}
-
+	
+	@Test
+	void clearEventTest() {
+		c.clearEvent();
+		assertEquals(c.getCalendarEvent(), null);
+	}
 
 }

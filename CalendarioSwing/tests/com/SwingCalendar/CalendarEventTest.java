@@ -38,6 +38,9 @@ class CalendarEventTest {
 		
 	}
 	
+
+
+	
 	@Test
 	void testGetUser() {
 		assertEquals("mpclq",calendarEvent.getUser());

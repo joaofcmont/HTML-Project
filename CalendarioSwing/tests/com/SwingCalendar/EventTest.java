@@ -37,5 +37,27 @@ class EventTest {
 	void testGetUsername() {
 		assertEquals("mpclq",event.getUsername());
 	}
+
+	@Test
+	void testSetDateEnd() {
+		event.setDateEnd("20221012");
+		assertEquals(event.getDateEnd(),"20221012");
+	}
+	@Test
+	void testSetDateStart() {
+		event.setDateStart("20221012");
+		assertEquals(event.getDateStart(),"20221012");
+	}
+	@Test
+	void testSetChair() {
+		event.setChair("POO");
+		assertEquals(event.getChair(),"POO");
+	}
+	@Test
+	void testSetUsername() {
+		event.setUsername("Diogo");
+		assertEquals(event.getUsername(),"Diogo");
+	}
+	
 	
 }
