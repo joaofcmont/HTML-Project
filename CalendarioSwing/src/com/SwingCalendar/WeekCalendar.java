@@ -15,7 +15,7 @@ public class WeekCalendar extends Calendar {
 	 * week
 	 */
     private Week week;
-
+    
     /**
      * Week calendar constructer
      * @param events is a list of calendar events
@@ -38,6 +38,9 @@ public class WeekCalendar extends Calendar {
 
     protected int numDaysToShow() {
         return 7;
+    }
+    public Week getWeek() {
+    	return week;
     }
 
     @Override
